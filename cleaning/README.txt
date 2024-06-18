@@ -1,0 +1,1 @@
+Cleaning of open-ended data was done using R back in 2021.

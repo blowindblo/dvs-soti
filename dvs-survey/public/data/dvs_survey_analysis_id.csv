@@ -1,0 +1,1413 @@
+Excel,Tableau,R,Illustrator,D3,ggplot2,Python,PowerBI,Flourish,Datawrapper,Unnamed: 0,ID,inspir,doc_id,type,ToolsForDV_,ToolsForDV_PowerPoint,ToolsForDV_PenPaper,ToolsForDV_Other__,count,inspirID
+0,0,1,1,0,1,0,0,0,0,1,1,Amanda Makulec,2048,Person,4,,,,8,0
+0,0,1,1,0,1,0,0,0,0,2,1,Amy Cesal,2047,Person,4,,,,8,1
+0,0,1,1,0,1,0,0,0,0,3,1,Alberto Cairo,2049,Person,4,,,,86,2
+1,0,0,0,0,0,0,0,0,1,4,4,Datawrapper,1884,Blog,3,PowerPoint,,,11,3
+1,0,0,0,0,0,0,0,0,1,5,4,Stephanie Evergreen,1883,Person,3,PowerPoint,,,59,4
+1,0,0,0,0,0,0,0,0,1,6,4,Ann K. Emery,1882,Person,3,PowerPoint,,,20,5
+1,1,0,0,0,0,0,0,0,0,7,5,Stephanie Evergreen,1267,Person,2,,,,59,4
+1,1,1,0,1,0,1,0,1,0,8,10,#Datafam,1568,Community,15,PowerPoint,,Infogram,13,6
+1,1,1,0,0,1,0,0,1,1,9,14,NYT,383,Magazine,8,,,,38,7
+1,1,1,0,0,1,0,0,1,1,10,14,Alberto Cairo,380,Person,8,,,,86,2
+1,1,1,0,0,1,0,0,1,1,11,14,Flowingwithdata (Nathan Yau),381,Blog,8,,,,39,8
+1,1,1,0,0,1,0,0,1,1,12,14,Washington Post,383,Magazine,8,,,,11,9
+0,1,0,0,0,0,0,1,0,0,13,20,Tableau Public,1091,Community,2,,,,41,10
+1,1,0,0,0,0,0,0,0,0,14,25,Nadieh Bremer,62,Person,2,,,,73,11
+1,1,0,0,0,0,0,0,0,0,15,25,Shirley Wu,62,Person,2,,,,49,12
+1,1,0,0,0,0,0,0,0,0,16,25,Edward Tufte,64,Person,2,,,,49,13
+1,1,0,0,0,0,0,0,0,0,17,25,Financial Times,64,Magazine,2,,,,56,14
+1,0,0,1,0,0,0,0,0,0,18,28,Stephanie Evergreen,96,Person,4,PowerPoint,Pen & paper,,59,4
+1,0,0,1,0,0,0,0,0,0,19,28,NYT,94,Magazine,4,PowerPoint,Pen & paper,,38,7
+1,0,0,1,0,0,0,0,0,0,20,28,Storytelling With Data (Cole Knaflic),97,Blog,4,PowerPoint,Pen & paper,,78,15
+1,0,0,1,0,0,0,0,0,0,21,28,Mona Chalabi,95,Person,4,PowerPoint,Pen & paper,,17,16
+1,0,0,0,0,0,1,0,0,0,22,29,Financial Times,162,Magazine,4,,,,56,14
+1,0,0,0,0,0,1,0,0,0,23,29,Edward Tufte,162,Person,4,,,,49,13
+1,1,0,0,0,0,0,1,0,0,24,33,Flowingwithdata (Nathan Yau),1119,Blog,5,PowerPoint,Pen & paper,,39,8
+1,0,0,0,0,0,0,0,0,0,25,34,Amanda Makulec,477,Person,4,PowerPoint,,SAS,8,0
+1,0,0,0,0,0,0,0,0,0,26,34,Johnathan Schwabish,478,Person,4,PowerPoint,,SAS,20,17
+1,0,0,0,0,0,0,0,0,0,27,34,Stephanie Evergreen,479,Person,4,PowerPoint,,SAS,59,4
+1,1,0,0,0,0,0,0,0,0,28,39,Steve Wexler,1117,Person,3,,,Oracle DV,30,18
+1,0,0,0,0,0,1,1,0,0,29,40,NYT,120,Magazine,6,PowerPoint,,,38,7
+1,0,0,0,0,0,1,1,0,0,30,40,Financial Times,120,Magazine,6,PowerPoint,,,56,14
+0,0,1,1,1,1,0,0,1,1,31,43,Shirley Wu,1544,Person,8,,,,49,12
+0,0,1,1,1,1,0,0,1,1,32,43,Nadieh Bremer,1545,Person,8,,,,73,11
+0,0,1,1,1,1,0,0,1,1,33,43,Valentina D'Efilippo,1540,Person,8,,,,9,19
+0,0,1,1,1,1,0,0,1,1,34,43,Giorgia Lupi,1541,Person,8,,,,46,20
+0,0,1,1,1,1,0,0,1,1,35,43,Amelia Wattenberger,1546,Person,8,,,,19,21
+0,0,1,1,1,1,0,0,1,1,36,43,Federica Fragapane,1539,Person,8,,,,24,22
+1,1,1,1,1,0,1,0,0,0,37,45,Giorgia Lupi,1881,Person,8,,Pen & paper,Canva,46,20
+1,0,1,0,0,0,0,1,1,0,38,47,Nadieh Bremer,1697,Person,9,PowerPoint,Pen & paper,,73,11
+1,0,1,0,0,0,0,1,1,0,39,47,Lisa Charlotte Muth,1698,Person,9,PowerPoint,Pen & paper,,20,23
+1,0,1,0,0,0,0,1,1,0,40,47,Shirley Wu,1696,Person,9,PowerPoint,Pen & paper,,49,12
+0,0,0,1,0,0,0,0,0,0,41,48,Flowingwithdata (Nathan Yau),557,Blog,3,,,Google sheets,39,8
+0,1,0,0,0,0,0,1,0,0,42,55,Jeffrey Shaffer,1265,Person,2,,,,7,24
+0,1,0,0,0,0,0,1,0,0,43,55,Amanda Makulec,1262,Person,2,,,,8,0
+0,1,0,0,0,0,0,1,0,0,44,55,Andy Kriebel,1261,Person,2,,,,12,25
+0,1,0,0,0,0,0,1,0,0,45,55,Steve Wexler,1263,Person,2,,,,30,18
+0,1,0,0,0,0,0,1,0,0,46,55,Kevin And Ken Flerlage,1266,Person,2,,,,22,26
+0,1,0,0,0,0,0,1,0,0,47,55,Andy Cotgreave,1264,Person,2,,,,13,27
+0,0,1,0,0,1,0,0,0,0,48,56,Twitter,717,Social Network,5,PowerPoint,,,38,28
+0,0,1,0,0,1,0,0,0,0,49,58,R/Dataisbeautiful,1333,Community,5,,,DOMO (ugh),4,29
+0,0,1,0,0,1,0,0,0,0,50,62,Twitter,1567,Social Network,3,PowerPoint,,,38,28
+0,0,1,0,0,1,0,0,0,0,51,62,Cedric Scherer,1566,Person,3,PowerPoint,,,18,30
+0,0,0,0,1,0,0,0,0,0,52,64,538,986,Magazine,2,,,,10,31
+1,1,0,0,0,0,0,1,0,0,53,65,Stephen Few,1332,Person,3,,,,19,32
+1,1,0,0,0,0,0,1,0,0,54,65,Storytelling With Data (Cole Knaflic),1331,Blog,3,,,,78,15
+0,0,0,0,1,0,1,0,0,0,55,66,Tamara Munzner,285,Person,5,,Pen & paper,,8,33
+0,0,0,0,1,0,1,0,0,0,56,66,Moritz Stefaner,288,Person,5,,Pen & paper,,21,34
+0,0,0,0,1,0,1,0,0,0,57,66,Nadieh Bremer,284,Person,5,,Pen & paper,,73,11
+1,1,1,1,0,1,0,0,0,0,58,67,NYT,356,Magazine,5,,,,38,7
+0,1,0,0,0,0,0,1,0,0,59,69,Twitter,822,Social Network,3,,,,38,28
+0,1,0,0,0,0,0,1,0,0,60,69,Financial Times,823,Magazine,3,,,,56,14
+1,1,1,0,0,1,1,0,0,0,61,71,Alberto Cairo,1983,Person,5,,,,86,2
+1,1,1,0,0,1,1,0,0,0,62,71,Tableau Public,1985,Community,5,,,,41,10
+1,0,0,0,0,0,0,1,1,0,63,78,Linkedin,1763,Social Network,4,PowerPoint,,,9,35
+1,0,1,1,1,0,1,0,0,0,64,83,Mike Bostock,42,Person,14,,,Svelte,21,36
+1,1,0,1,0,0,1,0,1,1,65,84,Stefanie Posavec,41,Person,11,PowerPoint,,,13,37
+1,1,0,1,0,0,1,0,1,1,66,84,Nature,40,Magazine,11,PowerPoint,,,10,38
+0,0,0,0,1,0,1,0,0,0,67,86,Alberto Cairo,1385,Person,6,,,,86,2
+0,0,0,0,1,0,1,0,0,0,68,86,Nadieh Bremer,1386,Person,6,,,,73,11
+0,0,0,0,1,0,1,0,0,0,69,86,Mike Bostock,1384,Person,6,,,,21,36
+1,1,1,0,0,0,1,0,0,0,70,91,Financial Times,1599,Magazine,7,PowerPoint,Pen & paper,Metabase and Dataiku,56,14
+1,1,1,0,0,0,1,0,0,0,71,91,Edward Tufte,1599,Person,7,PowerPoint,Pen & paper,Metabase and Dataiku,49,13
+0,0,1,1,1,1,1,0,0,1,72,98,NYT,713,Magazine,9,,,,38,7
+0,0,1,1,1,1,1,0,0,1,73,98,Gurman Bhatia,709,Person,9,,,,5,39
+0,0,1,1,1,1,1,0,0,1,74,98,Wall Street Journal,712,Magazine,9,,,,5,40
+0,0,1,1,1,1,1,0,0,1,75,98,Bloomberg,716,Magazine,9,,,,4,41
+0,0,1,1,1,1,1,0,0,1,76,98,Washington Post,714,Magazine,9,,,,11,9
+0,0,1,1,1,1,1,0,0,1,77,98,Pudding,711,Magazine,9,,,,24,42
+1,0,0,0,0,0,1,1,0,0,78,102,Federica Fragapane,337,Person,5,PowerPoint,,,24,22
+0,1,1,0,0,0,0,0,0,0,79,103,Andy Kriebel,1327,Person,3,,,Looker,12,25
+0,1,1,0,0,0,0,0,0,0,80,103,Andy Kirk,1326,Person,3,,,Looker,33,43
+0,1,1,0,0,0,0,0,0,0,81,103,Stephanie Evergreen,1328,Person,3,,,Looker,59,4
+1,1,0,0,0,0,0,1,0,0,82,104,Shirley Wu,3,Person,3,,,,49,12
+1,1,0,0,0,0,0,1,0,0,83,104,Nadieh Bremer,6,Person,3,,,,73,11
+1,1,0,0,0,0,0,1,0,0,84,104,Susie Lu,4,Person,3,,,,5,44
+1,1,0,0,0,0,0,1,0,0,85,104,Giorgia Lupi,5,Person,3,,,,46,20
+0,0,1,0,1,1,1,0,0,0,86,107,Mike Bostock,1538,Person,6,,,,21,36
+0,0,1,0,1,1,1,0,0,0,87,107,Shirley Wu,1537,Person,6,,,,49,12
+1,1,0,0,0,0,0,0,0,0,88,108,Tableau Public,53,Community,3,PowerPoint,,,41,10
+1,1,0,0,0,0,0,0,0,0,89,108,Datavis Society,53,Organisation,3,PowerPoint,,,35,45
+1,1,0,0,0,0,0,0,0,0,90,108,Slack,53,Social Network,3,PowerPoint,,,11,46
+1,0,0,0,0,0,0,0,0,0,91,109,Stephanie Evergreen,1089,Person,3,PowerPoint,,,59,4
+1,0,0,0,0,0,0,0,0,0,92,109,Ann Emery,1090,Person,3,PowerPoint,,,4,47
+1,0,0,0,0,0,0,0,0,0,93,109,Ann K. Emery,1090,Person,3,PowerPoint,,,20,5
+1,1,0,0,0,0,0,0,0,0,94,111,Storytelling With Data (Cole Knaflic),160,Blog,3,,Pen & paper,,78,15
+1,1,0,0,0,0,0,0,0,0,95,111,Datavis Society,159,Organisation,3,,Pen & paper,,35,45
+1,0,0,0,0,0,0,1,0,0,96,112,Storytelling With Data (Cole Knaflic),312,Blog,3,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,97,112,Datavis Society,311,Organisation,3,PowerPoint,,,35,45
+0,1,1,1,1,0,1,0,0,0,98,119,IEEE,1260,Organisation,13,,,,4,48
+0,1,0,0,0,0,1,0,0,0,99,128,Nadieh Bremer,1505,Person,4,,,"Metabase, Googlesheets",73,11
+0,1,0,0,0,0,1,0,0,0,100,128,Shirley Wu,1504,Person,4,,,"Metabase, Googlesheets",49,12
+0,1,0,0,0,0,1,0,0,0,101,128,Tableau Public,1503,Community,4,,,"Metabase, Googlesheets",41,10
+1,1,0,0,0,0,0,0,0,1,102,130,David Mccandless,413,Person,8,PowerPoint,,"SAS Visual Analytics, Visme, Vizzlo, Venngage",11,49
+1,1,0,0,0,0,0,0,0,1,103,130,Giorgia Lupi,414,Person,8,PowerPoint,,"SAS Visual Analytics, Visme, Vizzlo, Venngage",46,20
+1,1,0,0,0,0,0,0,0,1,104,130,Johnathan Schwabish,415,Person,8,PowerPoint,,"SAS Visual Analytics, Visme, Vizzlo, Venngage",20,17
+1,0,0,1,1,0,0,0,0,0,105,131,NYT,1822,Magazine,4,,Pen & paper,,38,7
+1,1,0,0,0,0,0,0,0,0,106,135,Stephanie Evergreen,1441,Person,5,PowerPoint,Pen & paper,,59,4
+1,1,1,0,0,1,1,0,0,0,107,136,Dribbble,1257,Social Network,6,,,,3,50
+1,1,1,0,0,1,1,0,0,0,108,136,Tableau Public,1255,Community,6,,,,41,10
+1,1,1,0,0,1,1,0,0,0,109,136,Nature,1258,Magazine,6,,,,10,38
+1,1,0,0,0,0,1,0,0,0,110,138,Kevin And Ken Flerlage,243,Person,4,,,Microsoft SSRS,22,26
+1,1,0,0,0,0,1,0,0,0,111,138,Tableau Public,244,Community,4,,,Microsoft SSRS,41,10
+1,1,0,0,0,0,1,0,0,0,112,138,#Tidytuesday,245,Community,4,,,Microsoft SSRS,9,51
+0,0,0,0,0,0,1,0,0,0,113,139,Storytelling With Data (Cole Knaflic),1880,Blog,1,,,,78,15
+1,1,1,0,0,1,0,0,0,0,114,140,Edward Tufte,1088,Person,5,,,,49,13
+1,1,1,0,0,1,0,0,0,0,115,140,Financial Times,1088,Magazine,5,,,,56,14
+1,1,1,1,1,1,0,0,1,1,116,141,Shirley Wu,1084,Person,11,PowerPoint,Pen & paper,,49,12
+1,1,1,1,1,1,0,0,1,1,117,141,Nadieh Bremer,1085,Person,11,PowerPoint,Pen & paper,,73,11
+1,1,1,1,1,1,0,0,1,1,118,141,Alberto Cairo,1083,Person,11,PowerPoint,Pen & paper,,86,2
+1,1,1,1,1,1,0,0,1,1,119,141,NYT,1086,Magazine,11,PowerPoint,Pen & paper,,38,7
+1,1,1,1,1,1,0,0,1,1,120,141,Datawrapper,1087,Blog,11,PowerPoint,Pen & paper,,11,3
+1,1,0,0,0,1,1,1,0,0,121,144,Mona Chalabi,51,Person,7,,,,17,16
+0,1,0,0,0,0,1,0,0,0,122,157,Andy Kirk,1565,Person,8,,,,33,43
+1,1,1,0,0,1,0,0,0,0,123,161,Instagram,77,Social Network,6,,Pen & paper,,11,52
+1,0,0,0,0,0,1,0,0,0,124,162,Andy Kirk,1081,Person,3,,,Tableau,33,43
+1,0,0,0,0,0,1,0,0,0,125,162,Nightingale,1082,Magazine,3,,,Tableau,8,53
+1,1,0,0,0,0,0,1,0,0,126,164,Storytelling With Data (Cole Knaflic),1908,Blog,4,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,127,165,Edward Tufte,1679,Person,3,,,,49,13
+1,0,0,0,0,0,0,1,0,0,128,165,Financial Times,1679,Magazine,3,,,,56,14
+1,0,0,0,0,0,0,1,0,0,129,165,Storytelling With Data (Cole Knaflic),1676,Blog,3,,,,78,15
+1,0,0,0,0,0,0,1,0,0,130,165,Stephen Few,1677,Person,3,,,,19,32
+1,1,0,0,0,0,0,0,0,0,131,171,Datavis Society,1531,Organisation,3,PowerPoint,,,35,45
+1,1,0,0,0,0,0,0,0,0,132,171,538,1535,Magazine,3,PowerPoint,,,10,31
+1,1,0,0,0,0,0,0,0,0,133,171,Kevin And Ken Flerlage,1532,Person,3,PowerPoint,,,22,26
+1,1,0,0,0,0,0,0,0,0,134,171,Economist,1534,Magazine,3,PowerPoint,,,14,54
+1,0,0,0,0,0,0,0,0,0,135,175,Ann K. Emery,2085,Person,4,PowerPoint,,word,20,5
+1,0,0,0,0,0,0,0,0,0,136,175,Stephanie Evergreen,2086,Person,4,PowerPoint,,word,59,4
+0,0,1,0,1,0,1,0,0,0,137,179,IEEE,2081,Organisation,7,,,"C++/OpenGL, VTK/ITK",4,48
+1,1,0,1,0,0,0,1,0,0,138,187,Steve Wexler,984,Person,6,PowerPoint,Pen & paper,,30,18
+1,1,0,1,0,0,0,1,0,0,139,187,Flowingwithdata (Nathan Yau),983,Blog,6,PowerPoint,Pen & paper,,39,8
+1,1,0,1,0,0,0,1,0,0,140,187,Alberto Cairo,981,Person,6,PowerPoint,Pen & paper,,86,2
+1,1,0,1,0,0,0,1,0,0,141,187,Nadieh Bremer,980,Person,6,PowerPoint,Pen & paper,,73,11
+0,1,0,1,0,0,1,0,0,0,142,190,Information Is Beautiful,136,Blog,3,,,,8,55
+0,1,0,1,0,0,1,0,0,0,143,190,#Makeovermonday,134,Community,3,,,,8,56
+0,1,0,1,0,0,1,0,0,0,144,190,Storytelling With Data (Cole Knaflic),135,Blog,3,,,,78,15
+1,0,1,0,0,1,0,0,0,0,145,191,Flowingwithdata (Nathan Yau),2031,Blog,5,PowerPoint,Pen & paper,,39,8
+1,0,0,0,0,0,0,1,0,0,146,195,Giorgia Lupi,474,Person,3,,,,46,20
+1,0,0,0,0,0,0,1,0,0,147,195,Mona Chalabi,476,Person,3,,,,17,16
+1,0,0,0,0,0,0,1,0,0,148,195,David Mccandless,475,Person,3,,,,11,49
+1,1,0,0,0,0,0,0,0,0,149,197,Tableau Public,133,Community,7,PowerPoint,,"Adobe XD, Figma",41,10
+0,0,0,0,1,0,0,0,0,0,150,200,Nature,310,Magazine,5,,,,10,38
+1,1,1,0,0,1,0,0,0,0,151,203,Hans Rosling,39,Person,5,,Pen & paper,,5,57
+1,1,1,0,0,1,0,0,0,0,152,203,Tableau Public,38,Community,5,,Pen & paper,,41,10
+1,0,0,0,0,0,0,0,0,0,153,211,Nadieh Bremer,1130,Person,3,PowerPoint,,,73,11
+1,0,0,0,0,0,0,0,0,0,154,211,Shirley Wu,1131,Person,3,PowerPoint,,,49,12
+1,0,0,0,0,0,0,0,0,0,155,215,Johnathan Schwabish,977,Person,4,PowerPoint,,Oracle Analytics Cloud,20,17
+1,0,0,0,0,0,0,0,0,0,156,215,Alberto Cairo,978,Person,4,PowerPoint,,Oracle Analytics Cloud,86,2
+1,0,0,0,0,0,0,0,0,0,157,215,Flowingwithdata (Nathan Yau),976,Blog,4,PowerPoint,,Oracle Analytics Cloud,39,8
+1,1,0,0,0,0,0,0,0,0,158,216,Tableau Public,615,Community,3,PowerPoint,,,41,10
+0,0,0,1,1,0,1,0,0,0,159,221,Mona Chalabi,190,Person,6,,Pen & paper,,17,16
+1,1,1,0,0,0,1,1,0,0,160,223,Bill Shander,705,Person,6,PowerPoint,,,4,58
+0,0,0,0,1,0,1,0,0,0,161,225,R/Dataisbeautiful,1440,Community,6,,Pen & paper,,4,29
+0,1,0,0,0,0,0,0,0,0,162,228,Steve Wexler,972,Person,1,,,,30,18
+0,1,0,0,0,0,0,0,0,0,163,228,Kevin And Ken Flerlage,970,Person,1,,,,22,26
+1,0,0,0,0,0,0,1,0,0,164,229,Andy Kirk,173,Person,3,PowerPoint,,,33,43
+1,0,1,0,0,1,1,1,0,0,165,231,538,81,Magazine,7,,,ZOHO analytics,10,31
+1,0,1,0,0,1,1,1,0,0,166,231,Flowingwithdata (Nathan Yau),79,Blog,7,,,ZOHO analytics,39,8
+1,0,1,0,0,1,1,1,0,0,167,231,Pudding,80,Magazine,7,,,ZOHO analytics,24,42
+1,1,0,0,0,1,1,1,0,0,168,232,Ironviz,2087,Community,7,PowerPoint,,,3,59
+1,1,0,0,0,0,1,1,0,0,169,233,Datawrapper,964,Blog,5,,,SAS,11,3
+1,1,0,0,0,0,1,1,0,0,170,233,Andy Cotgreave,968,Person,5,,,SAS,13,27
+1,1,0,0,0,0,1,1,0,0,171,233,Amanda Makulec,967,Person,5,,,SAS,8,0
+1,1,0,0,0,0,1,1,0,0,172,233,Jeffrey Shaffer,965,Person,5,,,SAS,7,24
+1,1,0,0,0,0,1,1,0,0,173,233,Steve Wexler,966,Person,5,,,SAS,30,18
+1,1,0,1,1,0,0,0,0,0,174,234,Giorgia Lupi,280,Person,7,PowerPoint,,Figma,46,20
+1,1,0,1,1,0,0,0,0,0,175,234,Amelia Wattenberger,283,Person,7,PowerPoint,,Figma,19,21
+1,1,0,1,1,0,0,0,0,0,176,234,Wall Street Journal,282,Magazine,7,PowerPoint,,Figma,5,40
+1,1,0,1,1,0,0,0,0,0,177,234,NYT,281,Magazine,7,PowerPoint,,Figma,38,7
+1,1,1,1,0,1,0,0,0,0,178,235,Jessica Hullman,611,Person,9,PowerPoint,Pen & paper,,6,60
+1,1,1,1,0,1,0,0,0,0,179,235,Johnathan Schwabish,607,Person,9,PowerPoint,Pen & paper,,20,17
+1,1,1,1,0,1,0,0,0,0,180,235,Amelia Wattenberger,610,Person,9,PowerPoint,Pen & paper,,19,21
+0,1,0,0,1,0,1,0,1,1,181,238,Federica Fragapane,585,Person,8,,Pen & paper,Figma,24,22
+0,1,0,0,1,0,1,0,1,1,182,238,Johnathan Schwabish,589,Person,8,,Pen & paper,Figma,20,17
+0,1,0,0,1,0,1,0,1,1,183,238,Flowingwithdata (Nathan Yau),588,Blog,8,,Pen & paper,Figma,39,8
+0,1,0,0,1,0,1,0,1,1,184,238,Giorgia Lupi,584,Person,8,,Pen & paper,Figma,46,20
+0,1,0,0,1,0,1,0,1,1,185,238,Catherine D'Ignazio,586,Person,8,,Pen & paper,Figma,4,61
+0,1,0,0,1,0,1,0,1,1,186,238,Lisa Charlotte Muth,591,Person,8,,Pen & paper,Figma,20,23
+1,0,0,0,0,0,1,0,0,0,187,239,Alberto Cairo,1674,Person,4,,,Looker,86,2
+1,0,0,0,0,0,1,0,0,0,188,239,Andy Kirk,1675,Person,4,,,Looker,33,43
+1,0,0,0,0,0,1,0,0,0,189,239,Financial Times,1673,Magazine,4,,,Looker,56,14
+1,0,0,0,0,0,1,0,0,0,190,239,Edward Tufte,1673,Person,4,,,Looker,49,13
+1,1,1,1,0,1,1,1,0,0,191,244,Twitter,45,Social Network,13,PowerPoint,Pen & paper,,38,28
+0,0,0,0,0,0,0,0,0,0,192,245,Storytelling With Data (Cole Knaflic),1116,Blog,1,,,,78,15
+0,0,0,1,0,0,0,1,0,0,193,247,Andy Kirk,425,Person,2,,,,33,43
+0,0,0,1,0,0,0,1,0,0,194,247,Nadieh Bremer,424,Person,2,,,,73,11
+0,1,1,1,1,0,0,0,0,0,195,249,Pudding,1383,Magazine,6,PowerPoint,Pen & paper,,24,42
+0,1,1,1,1,0,0,0,0,0,196,249,Lisa Charlotte Muth,1382,Person,6,PowerPoint,Pen & paper,,20,23
+0,1,1,1,1,0,0,0,0,0,197,249,Johnathan Schwabish,1380,Person,6,PowerPoint,Pen & paper,,20,17
+0,1,1,1,1,0,0,0,0,0,198,249,Flowingwithdata (Nathan Yau),1381,Blog,6,PowerPoint,Pen & paper,,39,8
+0,0,0,0,0,0,1,0,1,0,199,251,Alli Torban,33,Person,8,,Pen & paper,"Figma, Google Sheets, Mapshaper",18,62
+0,0,0,0,0,0,1,0,1,0,200,251,Gabrielle Merite,34,Person,8,,Pen & paper,"Figma, Google Sheets, Mapshaper",10,63
+0,0,0,0,0,0,1,0,1,0,201,251,Duncan Geere,32,Person,8,,Pen & paper,"Figma, Google Sheets, Mapshaper",4,64
+0,0,0,0,0,0,1,0,1,0,202,251,Jane Zhang,37,Person,8,,Pen & paper,"Figma, Google Sheets, Mapshaper",4,65
+0,0,0,0,1,0,1,0,0,0,203,260,Observable,1248,Community,4,,,,11,66
+0,0,0,0,1,0,1,0,0,0,204,260,NYT,1251,Magazine,4,,,,38,7
+0,0,0,0,1,0,1,0,0,0,205,260,Flowingwithdata (Nathan Yau),1250,Blog,4,,,,39,8
+0,0,0,0,1,0,1,0,0,0,206,260,Economist,1252,Magazine,4,,,,14,54
+0,0,0,1,0,0,0,0,0,0,207,264,Pinterest,1737,Social Network,4,PowerPoint,Pen & paper,Whiteboard- physical or Zoom; Adobe Illustrator>XD > Zeplin.,10,67
+0,0,0,1,0,0,0,0,0,0,208,264,Edward Tufte,1733,Person,4,PowerPoint,Pen & paper,Whiteboard- physical or Zoom; Adobe Illustrator>XD > Zeplin.,49,13
+0,0,0,1,0,0,0,0,0,0,209,264,Financial Times,1733,Magazine,4,PowerPoint,Pen & paper,Whiteboard- physical or Zoom; Adobe Illustrator>XD > Zeplin.,56,14
+0,1,0,0,1,0,1,1,0,0,210,267,Storytelling With Data (Cole Knaflic),156,Blog,8,PowerPoint,,,78,15
+0,1,0,0,1,0,1,1,0,0,211,267,Shirley Wu,157,Person,8,PowerPoint,,,49,12
+0,1,0,0,1,0,1,1,0,0,212,267,Elijah Meeks,158,Person,8,PowerPoint,,,6,68
+0,1,0,0,0,0,0,0,0,0,213,287,Stephen Few,408,Person,2,,,Databricks,19,32
+0,1,0,0,0,0,0,0,0,0,214,287,Edward Tufte,407,Person,2,,,Databricks,49,13
+0,1,0,0,0,0,0,0,0,0,215,287,Alberto Cairo,410,Person,2,,,Databricks,86,2
+0,1,0,0,0,0,0,0,0,0,216,287,Financial Times,407,Magazine,2,,,Databricks,56,14
+1,1,1,0,0,0,1,0,0,0,217,289,Instagram,263,Social Network,6,,,Domo,11,52
+1,1,1,0,1,1,1,1,0,0,218,291,Ann K. Emery,116,Person,10,PowerPoint,Pen & paper,,20,5
+1,1,1,0,1,1,1,1,0,0,219,291,Alli Torban,117,Person,10,PowerPoint,Pen & paper,,18,62
+1,1,1,0,1,1,1,1,0,0,220,291,Storytelling With Data (Cole Knaflic),115,Blog,10,PowerPoint,Pen & paper,,78,15
+1,1,1,0,1,1,1,1,0,0,221,291,Alberto Cairo,118,Person,10,PowerPoint,Pen & paper,,86,2
+1,1,1,0,1,1,1,1,0,0,222,291,Nadieh Bremer,114,Person,10,PowerPoint,Pen & paper,,73,11
+0,1,0,0,1,0,0,0,0,0,223,292,Nadieh Bremer,959,Person,5,,Pen & paper,Figma,73,11
+0,1,0,0,1,0,0,0,0,0,224,292,Shirley Wu,960,Person,5,,Pen & paper,Figma,49,12
+0,1,0,0,1,0,0,0,0,0,225,292,R.J Andrews,961,Person,5,,Pen & paper,Figma,10,69
+0,1,0,0,1,0,0,0,0,0,226,292,Steve Wexler,962,Person,5,,Pen & paper,Figma,30,18
+0,1,0,0,1,0,0,0,0,0,227,292,Kevin And Ken Flerlage,963,Person,5,,Pen & paper,Figma,22,26
+1,1,0,0,0,0,0,0,0,0,228,294,Storytelling With Data (Cole Knaflic),1325,Blog,4,PowerPoint,Pen & paper,,78,15
+1,1,0,0,0,0,0,0,0,0,229,294,Ryan Sleeper,1322,Person,4,PowerPoint,Pen & paper,,5,70
+1,1,0,0,0,0,0,0,0,0,230,294,Datavis Society,1320,Organisation,4,PowerPoint,Pen & paper,,35,45
+1,1,0,0,0,0,0,0,0,0,231,305,Ben Jones,957,Person,5,PowerPoint,Pen & paper,,6,71
+1,1,0,0,0,0,0,0,0,0,232,305,Storytelling With Data (Cole Knaflic),958,Blog,5,PowerPoint,Pen & paper,,78,15
+1,0,1,0,0,1,0,0,0,0,233,306,Thomas Lin Pedersen,423,Person,4,,Pen & paper,,5,72
+1,0,1,0,0,1,0,0,0,0,234,306,Cedric Scherer,422,Person,4,,Pen & paper,,18,30
+1,0,1,0,0,0,0,0,0,0,235,308,Storytelling With Data (Cole Knaflic),1597,Blog,3,PowerPoint,,,78,15
+1,0,1,0,0,0,0,0,0,0,236,308,Flowingwithdata (Nathan Yau),1598,Blog,3,PowerPoint,,,39,8
+0,0,0,0,1,0,1,0,0,0,237,310,Nadieh Bremer,378,Person,5,,,,73,11
+0,0,0,0,1,0,1,0,0,0,238,310,Flowingwithdata (Nathan Yau),377,Blog,5,,,,39,8
+0,0,1,0,1,1,1,0,0,0,239,316,Instagram,1245,Social Network,6,,Pen & paper,,11,52
+0,0,1,0,1,1,1,0,0,0,240,316,Twitter,1246,Social Network,6,,Pen & paper,,38,28
+0,0,1,0,1,1,0,0,0,0,241,323,Mike Bostock,265,Person,5,,,,21,36
+0,0,1,0,1,1,0,0,0,0,242,323,Observable,265,Community,5,,,,11,66
+0,1,0,0,0,0,0,1,0,0,243,324,Twitter,241,Social Network,5,PowerPoint,Pen & paper,,38,28
+0,1,0,0,0,0,0,1,0,0,244,324,Visual Capialist,242,Magazine,5,PowerPoint,Pen & paper,,3,73
+1,1,1,0,0,0,1,0,0,0,245,325,Tableau Public,1128,Community,5,PowerPoint,,,41,10
+1,1,0,0,0,0,0,0,0,0,246,331,Storytelling With Data (Cole Knaflic),831,Blog,3,,Pen & paper,,78,15
+1,1,0,0,0,0,0,0,0,0,247,331,#Makeovermonday,836,Community,3,,Pen & paper,,8,56
+1,1,0,0,0,0,0,0,0,0,248,331,Andy Kriebel,834,Person,3,,Pen & paper,,12,25
+1,1,0,0,0,0,0,0,0,0,249,331,R.J Andrews,833,Person,3,,Pen & paper,,10,69
+1,1,0,0,0,0,0,0,0,0,250,331,Alli Torban,832,Person,3,,Pen & paper,,18,62
+1,1,0,0,0,0,0,0,0,0,251,331,Kevin And Ken Flerlage,835,Person,3,,Pen & paper,,22,26
+0,0,0,0,0,0,1,0,0,0,252,332,Economist,1112,Magazine,4,,Pen & paper,Sheets,14,54
+0,0,0,0,0,0,1,0,0,0,253,332,Johnathan Schwabish,1114,Person,4,,Pen & paper,Sheets,20,17
+0,0,0,0,0,0,1,0,0,0,254,332,Storytelling With Data (Cole Knaflic),1115,Blog,4,,Pen & paper,Sheets,78,15
+0,0,0,0,1,0,0,0,1,0,255,342,R.J Andrews,1437,Person,8,,,Raw Graphs,10,69
+0,0,0,0,1,0,0,0,1,0,256,342,Giorgia Lupi,1436,Person,8,,,Raw Graphs,46,20
+0,0,0,0,1,0,0,0,1,0,257,342,Catherine D'Ignazio,1439,Person,8,,,Raw Graphs,4,61
+1,1,0,0,0,0,0,1,0,0,258,343,Storytelling With Data (Cole Knaflic),1078,Blog,3,,,,78,15
+1,1,0,0,0,0,0,1,0,0,259,343,Andy Cotgreave,1077,Person,3,,,,13,27
+0,1,0,0,1,0,0,0,0,0,260,354,Valentina D'Efilippo,954,Person,5,,,,9,19
+0,0,0,1,1,0,0,0,0,0,261,358,Giorgia Lupi,814,Person,2,,,,46,20
+0,0,0,1,1,0,0,0,0,0,262,358,Mike Bostock,815,Person,2,,,,21,36
+1,0,0,0,0,0,0,0,1,1,263,365,Datavis Society,376,Organisation,4,,,,35,45
+1,0,0,0,0,0,0,0,1,1,264,365,Stephanie Evergreen,374,Person,4,,,,59,4
+1,0,0,0,0,0,0,0,1,1,265,365,Storytelling With Data (Cole Knaflic),375,Blog,4,,,,78,15
+1,0,0,0,0,0,0,1,0,0,266,369,R/Dataisbeautiful,813,Community,3,PowerPoint,,,4,29
+1,1,0,0,0,0,1,0,0,0,267,370,Moritz Stefaner,1319,Person,3,,,,21,34
+1,1,0,0,0,0,1,0,0,0,268,370,Flowingwithdata (Nathan Yau),1317,Blog,3,,,,39,8
+1,1,0,0,0,0,1,0,0,0,269,370,Shirley Wu,1318,Person,3,,,,49,12
+1,1,1,0,0,1,0,0,0,0,270,372,#Datafam,1075,Community,6,PowerPoint,,Alteryx,13,6
+1,1,1,0,0,1,0,0,0,0,271,372,Datawrapper,1073,Blog,6,PowerPoint,,Alteryx,11,3
+1,1,1,0,0,1,0,0,0,0,272,372,Economist,1072,Magazine,6,PowerPoint,,Alteryx,14,54
+1,1,1,0,0,1,0,0,0,0,273,372,Kevin And Ken Flerlage,1074,Person,6,PowerPoint,,Alteryx,22,26
+0,0,0,0,1,0,0,0,0,1,274,377,Twitter,109,Social Network,6,,,,38,28
+0,0,1,0,0,1,1,0,0,0,275,383,National Geographic,1348,Magazine,4,,,,6,74
+1,1,1,0,0,1,0,1,1,1,276,386,Alli Torban,809,Person,13,PowerPoint,Pen & paper,RAWGraphs,18,62
+1,1,1,0,0,1,0,1,1,1,277,386,Giorgia Lupi,812,Person,13,PowerPoint,Pen & paper,RAWGraphs,46,20
+1,1,1,0,0,1,0,1,1,1,278,386,Tamara Munzner,808,Person,13,PowerPoint,Pen & paper,RAWGraphs,8,33
+1,1,1,0,0,1,0,1,1,1,279,386,R.J Andrews,807,Person,13,PowerPoint,Pen & paper,RAWGraphs,10,69
+1,0,1,0,0,1,0,0,0,0,280,388,#Tidytuesday,1071,Community,4,PowerPoint,,,9,51
+1,0,1,0,0,1,0,0,0,0,281,388,Cedric Scherer,1070,Person,4,PowerPoint,,,18,30
+1,0,1,0,0,1,0,0,0,0,282,388,Stephanie Evergreen,1069,Person,4,PowerPoint,,,59,4
+0,1,1,0,0,1,0,0,0,0,283,392,Danielle Navarro,277,Person,4,,,Several ggplot extensions,4,75
+0,1,1,0,0,1,0,0,0,0,284,392,Cedric Scherer,275,Person,4,,,Several ggplot extensions,18,30
+1,1,0,0,0,0,0,0,0,0,285,395,Andy Kriebel,703,Person,3,PowerPoint,,,12,25
+1,1,0,1,0,0,0,0,0,0,286,401,Pudding,306,Magazine,5,,Pen & paper,"Figma, rawgraphs, photoshop",24,42
+1,1,0,1,0,0,0,0,0,0,287,401,Giorgia Lupi,304,Person,5,,Pen & paper,"Figma, rawgraphs, photoshop",46,20
+1,1,0,1,0,0,0,0,0,0,288,401,Gabrielle Merite,305,Person,5,,Pen & paper,"Figma, rawgraphs, photoshop",10,63
+0,1,0,0,1,0,0,0,0,0,289,404,Storytelling With Data (Cole Knaflic),580,Blog,3,PowerPoint,,,78,15
+0,1,0,0,1,0,0,0,0,0,290,404,Steve Wexler,579,Person,3,PowerPoint,,,30,18
+0,1,0,0,1,0,0,0,0,0,291,404,Tableau Public,582,Community,3,PowerPoint,,,41,10
+0,1,0,0,1,0,0,0,0,0,292,404,#Makeovermonday,583,Community,3,PowerPoint,,,8,56
+0,1,0,0,0,0,0,1,0,0,293,405,Stephen Few,1172,Person,2,,,,19,32
+0,1,0,0,0,0,0,1,0,0,294,405,Ben Jones,1171,Person,2,,,,6,71
+0,0,1,0,0,0,0,0,0,0,295,408,538,339,Magazine,5,,,,10,31
+0,0,1,1,0,1,1,0,0,0,296,413,Economist,435,Magazine,5,,,,14,54
+0,1,0,0,0,0,0,0,0,0,297,416,Stephanie Evergreen,1432,Person,4,PowerPoint,Pen & paper,Lucidchart,59,4
+0,1,0,0,0,0,0,0,0,0,298,416,Stephen Few,1431,Person,4,PowerPoint,Pen & paper,Lucidchart,19,32
+0,1,0,0,0,0,0,0,0,0,299,416,Alberto Cairo,1430,Person,4,PowerPoint,Pen & paper,Lucidchart,86,2
+0,1,0,0,0,0,0,0,0,0,300,416,Storytelling With Data (Cole Knaflic),1433,Blog,4,PowerPoint,Pen & paper,Lucidchart,78,15
+0,0,1,0,1,1,0,0,0,0,301,424,Mona Chalabi,576,Person,8,,Pen & paper,,17,16
+0,0,1,0,1,1,0,0,0,0,302,424,Mike Bostock,575,Person,8,,Pen & paper,,21,36
+0,1,0,0,0,0,0,0,0,0,303,435,Federica Fragapane,702,Person,2,,Pen & paper,,24,22
+1,1,0,0,0,1,0,0,0,0,304,437,Stephen Few,1988,Person,4,,,,19,32
+1,1,0,0,0,1,0,0,0,0,305,437,Hadley Wickham,1989,Person,4,,,,5,76
+1,1,1,0,0,1,0,1,0,0,306,451,Dribbble,1243,Social Network,6,PowerPoint,,,3,50
+1,1,1,0,0,1,0,1,0,0,307,451,Tableau Public,1244,Community,6,PowerPoint,,,41,10
+0,0,0,1,1,0,0,0,1,0,308,453,Moritz Stefaner,239,Person,8,,Pen & paper,Google sheets,21,34
+0,0,0,1,1,0,0,0,1,0,309,453,Andy Kirk,236,Person,8,,Pen & paper,Google sheets,33,43
+0,0,0,1,1,0,0,0,1,0,310,453,Nadieh Bremer,235,Person,8,,Pen & paper,Google sheets,73,11
+0,0,0,1,1,0,0,0,1,0,311,453,Alberto Cairo,237,Person,8,,Pen & paper,Google sheets,86,2
+1,0,1,1,0,1,0,0,0,0,312,460,Nadieh Bremer,947,Person,6,PowerPoint,,,73,11
+1,0,1,1,0,1,0,0,0,0,313,460,Cedric Scherer,948,Person,6,PowerPoint,,,18,30
+1,0,1,1,0,1,0,0,0,0,314,460,Alli Torban,950,Person,6,PowerPoint,,,18,62
+0,1,0,0,1,1,0,1,1,0,315,464,Alberto Cairo,404,Person,8,,Pen & paper,"Sketch, Miro,",86,2
+0,1,0,0,1,1,0,1,1,0,316,464,Moritz Stefaner,405,Person,8,,Pen & paper,"Sketch, Miro,",21,34
+1,1,0,0,0,0,0,1,0,0,317,465,Alberto Cairo,1066,Person,5,,Pen & paper,Visio,86,2
+1,1,0,0,0,0,0,1,0,0,318,465,NYT,1068,Magazine,5,,Pen & paper,Visio,38,7
+1,1,0,0,0,0,0,1,0,0,319,465,Storytelling With Data (Cole Knaflic),1065,Blog,5,,Pen & paper,Visio,78,15
+1,1,0,0,0,0,0,1,0,0,320,465,National Geographic,1067,Magazine,5,,Pen & paper,Visio,6,74
+1,0,0,0,0,0,0,0,0,0,321,470,Storytelling With Data (Cole Knaflic),605,Blog,3,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,0,0,0,0,322,470,Pudding,606,Magazine,3,PowerPoint,Pen & paper,,24,42
+1,0,0,0,0,0,0,0,0,0,323,470,Steve Wexler,604,Person,3,PowerPoint,Pen & paper,,30,18
+1,0,0,1,1,0,1,0,0,0,324,481,Nadieh Bremer,302,Person,13,PowerPoint,Pen & paper,"Google sheets, Figma",73,11
+1,0,0,1,1,0,1,0,0,0,325,481,Jessica Hullman,301,Person,13,PowerPoint,Pen & paper,"Google sheets, Figma",6,60
+1,1,0,0,0,0,1,1,0,0,326,482,#Datafam,1936,Community,5,,Pen & paper,,13,6
+1,1,0,0,0,0,1,1,0,0,327,482,Tableau Public,1938,Community,5,,Pen & paper,,41,10
+1,1,0,0,0,0,1,1,0,0,328,482,Twitter,1936,Social Network,5,,Pen & paper,,38,28
+1,1,0,0,0,0,1,1,0,0,329,482,#Makeovermonday,1940,Community,5,,Pen & paper,,8,56
+1,1,0,1,0,0,1,0,0,0,330,483,Tableau Public,945,Community,6,PowerPoint,Pen & paper,,41,10
+1,1,0,1,0,0,1,0,0,0,331,483,Datavis Society,946,Organisation,6,PowerPoint,Pen & paper,,35,45
+0,1,0,0,0,0,0,0,0,0,332,485,Slack,1653,Social Network,1,,,,11,46
+0,1,0,0,0,0,0,0,0,0,333,485,Nightingale,1654,Magazine,1,,,,8,53
+0,1,0,0,0,0,0,0,0,0,334,485,Datavis Society,1653,Organisation,1,,,,35,45
+1,0,0,0,0,0,0,0,0,0,336,489,Storytelling With Data (Cole Knaflic),1501,Blog,2,PowerPoint,,,78,15
+1,0,0,0,0,0,0,0,0,0,337,489,Stephanie Evergreen,1500,Person,2,PowerPoint,,,59,4
+1,1,0,0,0,0,1,0,0,0,338,491,Storytelling With Data (Cole Knaflic),369,Blog,3,,,,78,15
+1,1,0,0,0,0,1,0,0,0,339,491,Ryan Sleeper,373,Person,3,,,,5,70
+1,1,0,0,0,0,1,0,0,0,340,491,Steve Wexler,371,Person,3,,,,30,18
+1,1,0,0,0,0,1,0,0,0,341,491,Jeffrey Shaffer,372,Person,3,,,,7,24
+1,1,0,0,0,0,1,0,0,0,342,491,Amanda Makulec,370,Person,3,,,,8,0
+1,1,0,0,0,0,0,0,0,0,343,492,Steve Wexler,1787,Person,2,,,,30,18
+1,1,0,0,0,0,0,0,0,0,344,495,Steve Wexler,1242,Person,4,PowerPoint,,,30,18
+1,1,0,0,0,0,0,0,0,0,345,497,Steve Wexler,1916,Person,4,PowerPoint,Pen & paper,,30,18
+1,1,0,0,0,0,0,0,0,0,346,497,Ironviz,1917,Community,4,PowerPoint,Pen & paper,,3,59
+1,1,0,0,0,0,0,0,0,0,347,499,Tableau Public,1061,Community,2,,,,41,10
+1,1,0,0,0,0,0,0,0,0,348,504,Andy Cotgreave,1315,Person,5,PowerPoint,Pen & paper,,13,27
+1,1,0,0,0,0,0,0,0,0,349,504,Andy Kriebel,1314,Person,5,PowerPoint,Pen & paper,,12,25
+1,1,0,0,0,0,0,0,0,0,350,504,Steve Wexler,1316,Person,5,PowerPoint,Pen & paper,,30,18
+1,1,0,0,0,0,0,0,0,0,351,508,Kevin And Ken Flerlage,473,Person,4,PowerPoint,,,22,26
+0,1,0,0,0,0,0,0,0,0,352,509,Tableau Public,1692,Community,1,,,,41,10
+1,1,1,0,0,0,1,1,0,0,353,518,Financial Times,700,Magazine,8,PowerPoint,Pen & paper,,56,14
+1,1,1,0,0,0,1,1,0,0,354,518,Edward Tufte,700,Person,8,PowerPoint,Pen & paper,,49,13
+0,1,0,0,0,0,0,1,0,0,355,520,Storytelling With Data (Cole Knaflic),1495,Blog,3,,Pen & paper,,78,15
+0,1,0,0,0,0,0,1,0,0,356,520,Alli Torban,1497,Person,3,,Pen & paper,,18,62
+0,1,0,0,0,0,0,1,0,0,357,520,Twitter,1496,Social Network,3,,Pen & paper,,38,28
+0,1,0,0,0,0,0,1,0,0,358,520,Alberto Cairo,1498,Person,3,,Pen & paper,,86,2
+0,1,0,0,0,0,0,1,0,0,359,520,Tableau Public,1494,Community,3,,Pen & paper,,41,10
+1,1,0,0,0,0,1,0,0,0,360,523,Edward Tufte,402,Person,5,,,"Looker, Metabase",49,13
+1,1,0,0,0,0,1,0,0,0,361,523,Financial Times,402,Magazine,5,,,"Looker, Metabase",56,14
+1,0,1,1,1,1,0,0,0,0,362,530,Catherine D'Ignazio,804,Person,11,,Pen & paper,,4,61
+0,1,0,0,0,0,0,0,0,0,363,532,Economist,1689,Magazine,2,,Pen & paper,,14,54
+0,1,0,0,0,0,0,0,0,0,364,532,Andy Kirk,1687,Person,2,,Pen & paper,,33,43
+0,1,0,0,0,0,0,0,0,0,365,532,Steve Wexler,1691,Person,2,,Pen & paper,,30,18
+1,1,0,0,0,0,0,0,0,0,366,538,National Geographic,801,Magazine,4,PowerPoint,Pen & paper,,6,74
+1,1,0,0,0,0,0,0,0,0,367,538,Steve Wexler,800,Person,4,PowerPoint,Pen & paper,,30,18
+1,0,1,1,1,1,0,0,0,0,368,555,Datavis Society,552,Organisation,9,PowerPoint,Pen & paper,,35,45
+1,0,1,1,1,1,0,0,0,0,369,555,NYT,553,Magazine,9,PowerPoint,Pen & paper,,38,7
+1,1,0,0,1,0,0,1,0,0,370,557,Nadieh Bremer,1762,Person,10,PowerPoint,Pen & paper,,73,11
+1,1,0,0,1,0,0,1,0,0,371,557,Lisa Charlotte Muth,1761,Person,10,PowerPoint,Pen & paper,,20,23
+1,0,0,0,0,0,0,0,0,0,372,559,Johnathan Schwabish,1239,Person,1,,,,20,17
+1,0,0,0,0,0,0,0,0,0,373,559,Amy Cesal,1241,Person,1,,,,8,1
+1,0,0,0,0,0,0,0,0,0,374,559,Alli Torban,1240,Person,1,,,,18,62
+1,1,0,0,0,0,0,0,0,0,375,561,Twitter,78,Social Network,5,PowerPoint,Pen & paper,Figma,38,28
+1,0,0,0,0,0,0,0,0,0,376,562,Storytelling With Data (Cole Knaflic),188,Blog,2,PowerPoint,,,78,15
+1,0,0,0,0,0,0,0,0,0,377,562,Linkedin,188,Social Network,2,PowerPoint,,,9,35
+1,1,0,0,0,0,0,0,0,0,378,563,Steve Wexler,697,Person,3,PowerPoint,,,30,18
+1,1,0,0,0,0,0,0,0,0,379,563,Kevin And Ken Flerlage,698,Person,3,PowerPoint,,,22,26
+1,1,1,0,0,0,0,1,0,0,380,575,Financial Times,1056,Magazine,4,,,,56,14
+1,1,1,0,0,0,0,1,0,0,381,575,Nadieh Bremer,1055,Person,4,,,,73,11
+1,1,1,0,0,0,0,1,0,0,382,575,Edward Tufte,1056,Person,4,,,,49,13
+1,0,1,0,0,0,0,1,0,1,383,576,Alberto Cairo,862,Person,7,,,,86,2
+0,0,0,1,1,0,0,0,0,0,384,579,Nadieh Bremer,16,Person,5,,Pen & paper,,73,11
+0,0,0,1,1,0,0,0,0,0,385,579,Shirley Wu,15,Person,5,,Pen & paper,,49,12
+1,1,0,0,0,0,1,0,0,0,386,580,Kevin And Ken Flerlage,1313,Person,3,,,,22,26
+0,0,0,0,1,0,0,0,0,0,387,583,Financial Times,1238,Magazine,2,,,tbd for upcoming,56,14
+0,0,0,0,1,0,0,0,0,0,388,583,Edward Tufte,1238,Person,2,,,tbd for upcoming,49,13
+0,0,0,0,1,0,0,0,0,0,389,583,Stephen Few,1237,Person,2,,,tbd for upcoming,19,32
+1,1,0,0,0,0,0,0,0,1,390,584,Andy Kirk,399,Person,3,,,,33,43
+1,1,0,0,0,0,0,0,0,1,391,584,Nadieh Bremer,400,Person,3,,,,73,11
+1,1,0,0,0,0,0,0,0,1,392,584,Storytelling With Data (Cole Knaflic),396,Blog,3,,,,78,15
+1,1,0,0,0,0,0,0,0,1,393,584,Steve Wexler,398,Person,3,,,,30,18
+1,1,0,0,0,0,0,0,0,1,394,584,Kevin And Ken Flerlage,397,Person,3,,,,22,26
+1,0,0,0,1,0,1,1,0,0,395,586,Mike Bostock,550,Person,4,,,,21,36
+1,0,0,0,1,0,1,1,0,0,396,586,Nadieh Bremer,551,Person,4,,,,73,11
+1,0,0,0,1,0,1,1,0,0,397,586,Financial Times,549,Magazine,4,,,,56,14
+1,0,0,0,1,0,1,1,0,0,398,586,Edward Tufte,549,Person,4,,,,49,13
+1,1,0,0,0,0,0,0,0,0,399,587,Steve Wexler,1306,Person,3,,,,30,18
+1,1,0,0,0,0,0,0,0,0,400,587,Kevin And Ken Flerlage,1309,Person,3,,,,22,26
+1,1,0,0,0,0,0,0,0,0,401,587,Twitter,1310,Social Network,3,,,,38,28
+1,1,0,0,0,0,0,0,0,0,402,587,#Datafam,1309,Community,3,,,,13,6
+1,1,0,0,0,0,0,0,0,0,403,587,Tableau Public,1310,Community,3,,,,41,10
+1,1,0,0,0,0,0,0,0,0,404,587,Jeffrey Shaffer,1307,Person,3,,,,7,24
+1,1,1,0,0,0,0,1,1,0,405,589,Andy Kirk,938,Person,8,PowerPoint,Pen & paper,,33,43
+1,1,1,0,0,0,0,1,1,0,406,589,Giorgia Lupi,944,Person,8,PowerPoint,Pen & paper,,46,20
+1,1,1,0,0,0,0,1,1,0,407,589,David Mccandless,940,Person,8,PowerPoint,Pen & paper,,11,49
+1,1,1,0,0,0,0,1,1,0,408,589,Financial Times,943,Magazine,8,PowerPoint,Pen & paper,,56,14
+1,1,1,0,0,0,0,1,1,0,409,589,Stephen Few,941,Person,8,PowerPoint,Pen & paper,,19,32
+1,1,1,0,0,0,0,1,1,0,410,589,Edward Tufte,943,Person,8,PowerPoint,Pen & paper,,49,13
+1,1,1,0,0,0,0,1,1,0,411,589,Alberto Cairo,942,Person,8,PowerPoint,Pen & paper,,86,2
+0,1,1,1,1,1,1,1,0,1,412,592,Tamara Munzner,1560,Person,20,,Pen & paper,,8,33
+0,1,1,1,1,1,1,1,0,1,413,592,Jessica Hullman,1564,Person,20,,Pen & paper,,6,60
+1,0,0,1,1,0,1,0,0,0,414,594,Pudding,1489,Magazine,10,,Pen & paper,,24,42
+1,0,0,1,1,0,1,0,0,0,415,594,Alberto Cairo,1490,Person,10,,Pen & paper,,86,2
+1,0,0,1,1,0,1,0,0,0,416,594,Shirley Wu,1492,Person,10,,Pen & paper,,49,12
+1,0,0,1,1,0,1,0,0,0,417,594,NYT,1488,Magazine,10,,Pen & paper,,38,7
+1,0,0,1,1,0,1,0,0,0,418,594,Nadieh Bremer,1491,Person,10,,Pen & paper,,73,11
+1,0,0,0,0,0,1,0,0,0,419,598,Edward Tufte,1651,Person,4,PowerPoint,,Matplotlib,49,13
+1,0,0,0,0,0,1,0,0,0,420,598,Financial Times,1651,Magazine,4,PowerPoint,,Matplotlib,56,14
+1,0,0,1,1,0,0,0,0,0,421,602,Bloomberg,935,Magazine,12,,Pen & paper,,4,41
+1,0,0,1,1,0,0,0,0,0,422,602,Washington Post,937,Magazine,12,,Pen & paper,,11,9
+1,0,0,1,1,0,0,0,0,0,423,602,538,936,Magazine,12,,Pen & paper,,10,31
+1,0,0,1,1,0,0,0,0,0,424,602,NYT,934,Magazine,12,,Pen & paper,,38,7
+0,1,1,0,0,1,1,0,0,0,425,607,Nadieh Bremer,1350,Person,4,,,,73,11
+1,0,0,1,1,0,0,0,0,0,426,609,Moritz Stefaner,2065,Person,7,,Pen & paper,,21,34
+0,0,0,0,1,0,0,0,0,0,427,612,Amelia Wattenberger,355,Person,3,,,Svelte,19,21
+0,1,1,0,0,1,0,0,0,0,428,620,Stefanie Posavec,1926,Person,6,,,,13,37
+0,1,1,0,0,1,0,0,0,0,429,620,Cedric Scherer,1923,Person,6,,,,18,30
+0,1,1,0,0,1,0,0,0,0,430,620,Giorgia Lupi,1925,Person,6,,,,46,20
+0,1,1,0,0,1,0,0,0,0,431,620,Alberto Cairo,1921,Person,6,,,,86,2
+0,1,1,0,0,1,0,0,0,0,432,620,Nadieh Bremer,1924,Person,6,,,,73,11
+0,1,1,0,0,1,0,0,0,0,433,620,Amy Cesal,1922,Person,6,,,,8,1
+0,0,0,0,1,0,1,0,0,0,434,621,Financial Times,793,Magazine,13,,Pen & paper,Excalidraw,56,14
+0,0,0,0,1,0,1,0,0,0,435,621,Edward Tufte,793,Person,13,,Pen & paper,Excalidraw,49,13
+0,0,0,0,1,0,1,0,0,0,436,621,Alberto Cairo,791,Person,13,,Pen & paper,Excalidraw,86,2
+0,0,0,0,1,0,1,0,0,0,437,621,Elijah Meeks,795,Person,13,,Pen & paper,Excalidraw,6,68
+0,0,0,0,1,0,1,0,0,0,438,621,R.J Andrews,796,Person,13,,Pen & paper,Excalidraw,10,69
+0,0,0,0,1,0,1,0,0,0,439,621,Susie Lu,797,Person,13,,Pen & paper,Excalidraw,5,44
+0,0,0,0,1,0,1,0,0,0,440,621,Shirley Wu,792,Person,13,,Pen & paper,Excalidraw,49,12
+0,0,0,0,0,0,1,0,0,1,441,623,Twitter,107,Social Network,8,,Pen & paper,,38,28
+1,1,0,0,0,0,0,0,0,0,442,627,Steve Wexler,1052,Person,5,PowerPoint,Pen & paper,Adobe Analytics,30,18
+1,1,0,0,0,0,0,0,0,0,443,627,Andy Cotgreave,1051,Person,5,PowerPoint,Pen & paper,Adobe Analytics,13,27
+1,1,0,0,0,0,0,0,0,0,444,627,Jeffrey Shaffer,1053,Person,5,PowerPoint,Pen & paper,Adobe Analytics,7,24
+1,1,0,0,0,0,0,0,0,0,445,627,Pinterest,1054,Social Network,5,PowerPoint,Pen & paper,Adobe Analytics,10,67
+0,1,1,0,0,0,1,0,0,0,446,628,Andy Cotgreave,548,Person,4,,Pen & paper,,13,27
+1,1,0,0,0,0,0,0,0,0,447,629,Edward Tufte,1993,Person,4,,Pen & paper,,49,13
+1,1,0,0,0,0,0,0,0,0,448,629,Financial Times,1993,Magazine,4,,Pen & paper,,56,14
+0,1,0,1,0,0,0,0,1,0,449,634,Valentina D'Efilippo,2091,Person,4,PowerPoint,,,9,19
+0,1,1,0,0,1,0,1,0,0,450,635,Shirley Wu,1557,Person,10,PowerPoint,Pen & paper,,49,12
+0,1,1,0,0,1,0,1,0,0,451,635,Nadieh Bremer,1556,Person,10,PowerPoint,Pen & paper,,73,11
+0,0,0,0,0,0,0,0,1,1,452,639,Pudding,790,Magazine,9,,Pen & paper,RAWGraphs,24,42
+0,0,0,0,0,0,0,0,1,1,453,639,Shirley Wu,787,Person,9,,Pen & paper,RAWGraphs,49,12
+0,0,0,0,0,0,0,0,1,1,454,639,Mona Chalabi,785,Person,9,,Pen & paper,RAWGraphs,17,16
+0,0,0,0,0,0,0,0,1,1,455,639,Alberto Cairo,786,Person,9,,Pen & paper,RAWGraphs,86,2
+1,0,1,1,0,1,1,1,0,0,456,641,Behance,74,Social Network,11,PowerPoint,Pen & paper,,5,77
+1,0,1,1,0,1,1,1,0,0,457,641,National Geographic,73,Magazine,11,PowerPoint,Pen & paper,,6,74
+1,0,1,1,0,1,1,1,0,0,458,641,Information Is Beautiful,72,Blog,11,PowerPoint,Pen & paper,,8,55
+0,1,0,1,1,0,0,0,0,0,459,643,Gabrielle Merite,1236,Person,5,,,,10,63
+0,1,0,1,1,0,0,0,0,0,460,643,Giorgia Lupi,1234,Person,5,,,,46,20
+0,1,0,1,1,0,0,0,0,0,461,643,Mona Chalabi,1235,Person,5,,,,17,16
+1,0,0,1,0,0,0,0,0,0,462,644,Jane Zhang,1305,Person,4,PowerPoint,Pen & paper,,4,65
+1,0,0,1,0,0,0,0,0,0,463,644,Datavis Society,1305,Organisation,4,PowerPoint,Pen & paper,,35,45
+0,0,0,0,0,1,0,0,0,1,464,649,Pudding,861,Magazine,3,,Pen & paper,,24,42
+0,0,0,0,0,1,0,0,0,1,465,649,Mona Chalabi,860,Person,3,,Pen & paper,,17,16
+1,1,0,0,0,0,0,0,0,0,466,652,Ann Emery,1050,Person,4,PowerPoint,Pen & paper,,4,47
+1,1,0,0,0,0,0,0,0,0,467,652,Ann K. Emery,1050,Person,4,PowerPoint,Pen & paper,,20,5
+1,0,0,0,0,0,0,0,0,0,468,654,Stephanie Evergreen,1981,Person,2,PowerPoint,,,59,4
+0,1,0,0,0,0,0,0,0,0,469,656,Ryan Sleeper,1913,Person,1,,,,5,70
+0,1,0,0,0,0,0,0,0,0,470,656,Kevin And Ken Flerlage,1914,Person,1,,,,22,26
+0,1,0,0,0,0,0,0,0,0,471,656,Steve Wexler,1915,Person,1,,,,30,18
+1,0,0,0,1,0,1,0,0,0,472,657,Nadieh Bremer,169,Person,7,,Pen & paper,Figma,73,11
+1,0,0,0,1,0,1,0,0,0,473,657,Shirley Wu,169,Person,7,,Pen & paper,Figma,49,12
+1,0,0,0,1,0,1,0,0,0,474,657,Giorgia Lupi,171,Person,7,,Pen & paper,Figma,46,20
+1,0,0,0,1,0,1,0,0,0,475,657,Moritz Stefaner,170,Person,7,,Pen & paper,Figma,21,34
+1,0,0,0,1,0,1,0,0,0,476,657,Stefanie Posavec,172,Person,7,,Pen & paper,Figma,13,37
+1,0,1,1,0,1,0,0,0,0,477,660,Moritz Stefaner,1672,Person,6,,,Raw graphs,21,34
+1,0,1,1,0,1,0,0,0,0,478,660,Financial Times,1670,Magazine,6,,,Raw graphs,56,14
+1,0,1,1,0,1,0,0,0,0,479,660,Edward Tufte,1670,Person,6,,,Raw graphs,49,13
+1,0,0,1,0,0,0,0,0,0,480,666,Alberto Cairo,1106,Person,4,PowerPoint,Pen & paper,,86,2
+1,0,1,0,0,1,0,0,0,1,481,674,#Tidytuesday,1429,Community,5,,Pen & paper,,9,51
+0,0,0,0,1,0,0,0,0,0,482,675,Mike Bostock,234,Person,3,,Pen & paper,,21,36
+0,0,0,0,1,0,0,0,0,0,483,675,Nadieh Bremer,232,Person,3,,Pen & paper,,73,11
+0,0,0,0,1,0,0,0,0,0,484,675,Observable,231,Community,3,,Pen & paper,,11,66
+0,0,1,0,0,1,0,0,1,1,485,676,Moritz Stefaner,9,Person,6,,Pen & paper,,21,34
+0,0,1,0,0,1,0,0,1,1,486,676,Stefanie Posavec,12,Person,6,,Pen & paper,,13,37
+0,0,1,0,0,1,0,0,1,1,487,676,Alberto Cairo,8,Person,6,,Pen & paper,,86,2
+0,0,1,0,0,1,0,0,1,1,488,676,Gabrielle Merite,10,Person,6,,Pen & paper,,10,63
+1,0,0,0,0,0,0,1,0,0,489,684,Storytelling With Data (Cole Knaflic),1379,Blog,3,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,490,684,Stephanie Evergreen,1378,Person,3,PowerPoint,,,59,4
+1,0,0,0,0,0,0,0,0,0,491,686,Stephanie Evergreen,395,Person,2,PowerPoint,,,59,4
+0,0,0,0,1,0,1,0,0,0,492,687,Amelia Wattenberger,1529,Person,8,,,Apache eCharts,19,21
+0,0,0,0,1,0,1,0,0,0,493,687,Mike Bostock,1527,Person,8,,,Apache eCharts,21,36
+1,0,1,0,0,1,0,1,0,0,494,688,Storytelling With Data (Cole Knaflic),1376,Blog,5,PowerPoint,,,78,15
+1,0,1,0,0,1,0,1,0,0,495,688,Financial Times,1377,Magazine,5,PowerPoint,,,56,14
+1,0,1,0,0,1,0,1,0,0,496,688,Edward Tufte,1377,Person,5,PowerPoint,,,49,13
+0,0,0,0,0,0,0,0,0,0,497,691,NYT,1105,Magazine,1,,Pen & paper,,38,7
+0,1,0,0,0,0,0,0,0,0,498,694,Steve Wexler,1484,Person,1,,,,30,18
+0,1,0,0,0,0,0,0,0,0,499,694,Alberto Cairo,1481,Person,1,,,,86,2
+0,1,0,0,0,0,0,0,0,0,500,694,Andy Kirk,1480,Person,1,,,,33,43
+0,1,0,0,0,0,0,0,0,0,501,694,Judit Bekker,1487,Person,1,,,,4,78
+0,1,0,0,0,0,0,0,0,0,502,694,Mona Chalabi,1485,Person,1,,,,17,16
+0,1,0,0,0,0,0,0,0,0,503,694,Shirley Wu,1486,Person,1,,,,49,12
+0,1,0,0,0,0,0,0,0,0,504,694,Ben Jones,1482,Person,1,,,,6,71
+0,1,0,0,0,0,0,0,0,0,505,694,Storytelling With Data (Cole Knaflic),1479,Blog,1,,,,78,15
+0,1,0,0,0,0,0,0,0,0,506,694,Giorgia Lupi,1483,Person,1,,,,46,20
+1,0,1,1,1,1,1,0,1,1,507,695,Nature,1821,Magazine,12,,Pen & paper,,10,38
+0,1,0,0,0,0,0,0,0,0,508,701,Kevin And Ken Flerlage,1669,Person,2,PowerPoint,,,22,26
+1,1,1,0,0,0,0,0,0,0,509,710,Stephen Few,2037,Person,5,PowerPoint,,,19,32
+1,1,1,0,0,0,0,0,0,0,510,710,Alberto Cairo,2038,Person,5,PowerPoint,,,86,2
+1,0,0,0,0,0,0,0,0,0,511,711,Stephanie Evergreen,187,Person,3,PowerPoint,,,59,4
+1,1,0,0,0,0,0,0,0,0,512,712,Linkedin,1731,Social Network,4,PowerPoint,,,9,35
+1,1,0,0,0,0,0,0,0,0,513,712,Stephanie Evergreen,1730,Person,4,PowerPoint,,,59,4
+0,1,1,1,0,0,0,0,0,0,514,715,Flowingwithdata (Nathan Yau),1427,Blog,5,PowerPoint,Pen & paper,,39,8
+0,1,1,1,0,0,0,0,0,0,515,715,Datavis Society,1428,Organisation,5,PowerPoint,Pen & paper,,35,45
+0,1,1,1,0,0,0,0,0,0,516,715,Wall Street Journal,1425,Magazine,5,PowerPoint,Pen & paper,,5,40
+0,1,1,1,0,0,0,0,0,0,517,715,Slack,1428,Social Network,5,PowerPoint,Pen & paper,,11,46
+0,1,1,1,0,0,0,0,0,0,518,715,NYT,1426,Magazine,5,PowerPoint,Pen & paper,,38,7
+0,1,1,1,0,0,0,0,0,0,519,715,Economist,1424,Magazine,5,PowerPoint,Pen & paper,,14,54
+0,1,0,0,0,0,0,0,0,0,520,722,Jessica Hullman,1233,Person,4,,,javascript/typescript w/o framework,6,60
+0,1,0,0,0,0,0,0,0,0,521,722,Tamara Munzner,1231,Person,4,,,javascript/typescript w/o framework,8,33
+1,1,0,0,0,0,0,0,0,0,522,724,Economist,690,Magazine,3,PowerPoint,,,14,54
+1,1,0,0,0,0,0,0,0,0,523,724,Ann K. Emery,691,Person,3,PowerPoint,,,20,5
+1,0,0,0,0,0,0,0,0,0,524,729,Ann K. Emery,1048,Person,1,,,,20,5
+1,0,0,0,0,0,0,0,0,0,525,729,Stephanie Evergreen,1047,Person,1,,,,59,4
+1,0,0,0,0,0,0,0,0,0,526,729,Ann Emery,1048,Person,1,,,,4,47
+1,0,0,0,0,0,0,0,0,0,527,733,Stephanie Evergreen,1555,Person,3,PowerPoint,,,59,4
+1,0,0,0,1,1,0,0,0,0,528,734,Amelia Wattenberger,858,Person,5,,,,19,21
+1,1,1,1,0,1,0,0,0,0,529,738,Cedric Scherer,338,Person,7,PowerPoint,,Infogram,18,30
+1,0,0,1,0,0,0,0,1,1,530,742,Alberto Cairo,1046,Person,5,,,,86,2
+1,1,1,0,0,1,0,0,0,0,531,745,Stephanie Evergreen,1596,Person,6,PowerPoint,,,59,4
+1,1,1,0,0,1,1,1,0,0,532,747,Stephanie Evergreen,59,Person,11,PowerPoint,Pen & paper,,59,4
+1,1,0,1,1,0,1,0,0,0,533,750,Gurman Bhatia,1042,Person,9,,Pen & paper,,5,39
+1,1,0,1,1,0,1,0,0,0,534,750,Moritz Stefaner,1044,Person,9,,Pen & paper,,21,34
+1,1,0,1,1,0,1,0,0,0,535,750,Nadieh Bremer,1045,Person,9,,Pen & paper,,73,11
+1,0,0,0,0,0,0,1,0,0,536,751,Ann K. Emery,2043,Person,4,PowerPoint,Pen & paper,,20,5
+1,0,0,0,0,0,0,1,0,0,537,751,Stephanie Evergreen,2042,Person,4,PowerPoint,Pen & paper,,59,4
+0,1,1,0,0,1,0,1,0,0,538,761,Alberto Cairo,186,Person,7,,,,86,2
+1,1,0,0,0,0,0,1,0,0,539,762,Jeffrey Shaffer,683,Person,6,PowerPoint,Pen & paper,RAWgraphs,7,24
+1,1,0,0,0,0,0,1,0,0,540,762,Amy Cesal,687,Person,6,PowerPoint,Pen & paper,RAWgraphs,8,1
+1,1,0,0,0,0,0,1,0,0,541,762,Alli Torban,685,Person,6,PowerPoint,Pen & paper,RAWgraphs,18,62
+1,1,0,0,0,0,0,1,0,0,542,762,Alberto Cairo,681,Person,6,PowerPoint,Pen & paper,RAWgraphs,86,2
+1,1,0,0,0,0,0,1,0,0,543,762,Steve Wexler,682,Person,6,PowerPoint,Pen & paper,RAWgraphs,30,18
+1,1,0,0,0,0,0,1,0,0,544,762,Duncan Geere,686,Person,6,PowerPoint,Pen & paper,RAWgraphs,4,64
+1,0,0,0,0,0,0,0,0,0,545,763,Ann Emery,1878,Person,3,PowerPoint,,Microsoft Word,4,47
+1,0,0,0,0,0,0,0,0,0,546,763,Ann K. Emery,1878,Person,3,PowerPoint,,Microsoft Word,20,5
+1,0,0,0,0,0,0,0,0,0,547,763,Stephanie Evergreen,1879,Person,3,PowerPoint,,Microsoft Word,59,4
+1,0,0,0,0,0,0,1,0,0,548,767,Stephanie Evergreen,1421,Person,4,PowerPoint,,"Learning R, Use RAW Charts",59,4
+1,0,0,0,0,0,0,1,0,0,549,767,Storytelling With Data (Cole Knaflic),1420,Blog,4,PowerPoint,,"Learning R, Use RAW Charts",78,15
+1,0,0,0,0,0,0,1,0,0,550,767,Johnathan Schwabish,1422,Person,4,PowerPoint,,"Learning R, Use RAW Charts",20,17
+1,0,0,0,0,0,0,1,0,0,551,767,Alberto Cairo,1423,Person,4,PowerPoint,,"Learning R, Use RAW Charts",86,2
+1,1,0,0,0,0,0,0,0,0,552,768,Alberto Cairo,1167,Person,3,,,SAS,86,2
+1,1,0,0,0,0,0,0,0,0,553,768,Nadieh Bremer,1169,Person,3,,,SAS,73,11
+1,1,0,0,0,0,0,0,0,0,554,768,Lisa Charlotte Muth,1168,Person,3,,,SAS,20,23
+0,0,1,0,1,0,1,0,0,0,555,770,Tamara Munzner,1877,Person,5,PowerPoint,,,8,33
+0,1,0,0,0,0,0,0,0,0,556,772,Zach Bowders,1595,Person,3,PowerPoint,,,2,79
+0,1,0,0,0,0,0,0,0,0,557,772,Judit Bekker,1593,Person,3,PowerPoint,,,4,78
+0,0,1,1,0,0,0,0,1,0,558,776,Alberto Cairo,1910,Person,4,,,,86,2
+0,0,1,1,0,0,0,0,1,0,559,776,Mona Chalabi,1911,Person,4,,,,17,16
+0,1,0,1,0,0,0,0,0,1,560,777,Alberto Cairo,1753,Person,5,,Pen & paper,RAWGraphs,86,2
+0,1,0,1,0,0,0,0,0,1,561,777,Nadieh Bremer,1760,Person,5,,Pen & paper,RAWGraphs,73,11
+1,1,1,0,0,1,1,0,0,0,562,782,Edward Tufte,857,Person,8,,,,49,13
+1,1,1,0,0,1,1,0,0,0,563,782,Financial Times,857,Magazine,8,,,,56,14
+0,0,0,0,1,0,1,0,1,0,564,783,Pudding,848,Magazine,6,,,,24,42
+0,0,0,0,1,0,0,0,0,0,565,787,Cedric Scherer,471,Person,2,,,,18,30
+0,0,0,0,1,0,0,0,0,0,566,787,Shirley Wu,467,Person,2,,,,49,12
+0,0,0,0,1,0,0,0,0,0,567,787,Nadieh Bremer,468,Person,2,,,,73,11
+1,0,1,0,0,1,0,1,0,0,568,789,#Tidytuesday,781,Community,6,,,,9,51
+1,0,1,0,0,1,0,1,0,0,569,789,Cedric Scherer,783,Person,6,,,,18,30
+1,0,1,0,0,1,0,1,0,0,570,789,Thomas Lin Pedersen,784,Person,6,,,,5,72
+0,0,0,0,1,0,0,0,0,0,571,791,Amelia Wattenberger,547,Person,2,,,,19,21
+0,0,0,0,1,0,0,0,0,0,572,791,Shirley Wu,547,Person,2,,,,49,12
+1,0,0,0,0,0,0,1,0,0,573,793,Flowingwithdata (Nathan Yau),1418,Blog,2,,,,39,8
+1,0,0,0,0,0,0,1,0,0,574,794,Stephanie Evergreen,1346,Person,6,PowerPoint,,Lucid Charts,59,4
+1,1,0,0,0,0,0,0,0,0,575,798,#Datafam,1413,Community,3,PowerPoint,,,13,6
+1,1,0,0,0,0,0,0,0,0,576,799,Ann K. Emery,1163,Person,4,PowerPoint,,,20,5
+1,1,0,0,0,0,0,0,0,0,577,799,Stephanie Evergreen,1164,Person,4,PowerPoint,,,59,4
+1,1,0,0,0,0,0,0,0,0,578,802,Flowingwithdata (Nathan Yau),779,Blog,3,PowerPoint,,,39,8
+1,0,0,0,0,0,0,1,0,0,580,806,Ann K. Emery,1412,Person,3,PowerPoint,,,20,5
+0,0,1,0,0,0,0,0,0,0,581,809,Datavis Society,1784,Organisation,2,,,,35,45
+1,0,1,0,0,0,0,1,0,0,582,810,Stephanie Evergreen,1410,Person,4,PowerPoint,,,59,4
+1,0,1,0,0,0,0,1,0,0,583,810,Ann K. Emery,1411,Person,4,PowerPoint,,,20,5
+1,1,0,1,0,0,0,1,0,0,584,811,Datavis Society,1666,Organisation,5,PowerPoint,,,35,45
+1,1,0,1,0,0,0,1,0,0,585,811,Storytelling With Data (Cole Knaflic),1667,Blog,5,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,586,812,Financial Times,1230,Magazine,4,PowerPoint,,,56,14
+0,0,0,0,0,0,0,1,0,0,587,813,Storytelling With Data (Cole Knaflic),205,Blog,1,,,,78,15
+0,0,0,1,0,1,0,0,1,0,588,815,Flowingwithdata (Nathan Yau),546,Blog,6,,Pen & paper,"Figma, Photoshop",39,8
+0,0,0,0,0,0,0,1,0,0,589,816,Stephanie Evergreen,680,Person,2,,,,59,4
+0,1,0,1,0,0,0,0,1,1,590,819,Alberto Cairo,1592,Person,7,,,Infogram,86,2
+1,1,0,0,0,0,0,0,0,0,591,820,Stephanie Evergreen,1553,Person,5,PowerPoint,Pen & paper,,59,4
+1,1,0,0,0,0,0,0,0,0,592,820,Storytelling With Data (Cole Knaflic),1554,Blog,5,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,0,1,0,0,593,824,Economist,1665,Magazine,4,PowerPoint,Pen & paper,,14,54
+1,0,0,0,0,0,0,1,0,0,594,824,Andy Kirk,1664,Person,4,PowerPoint,Pen & paper,,33,43
+0,1,0,0,0,0,0,0,0,0,595,826,Andy Cotgreave,1103,Person,1,,,,13,27
+1,1,0,0,0,0,0,0,0,0,596,832,Storytelling With Data (Cole Knaflic),933,Blog,3,,,Prezi for Infographics,78,15
+1,1,1,0,0,1,1,0,0,0,597,841,Kevin And Ken Flerlage,1041,Person,6,PowerPoint,,,22,26
+1,1,1,0,0,1,1,0,0,0,599,841,Storytelling With Data (Cole Knaflic),1039,Blog,6,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,600,844,Slack,2041,Social Network,3,,,,11,46
+0,0,1,0,1,0,1,0,1,1,601,847,Jane Zhang,1226,Person,7,,,,4,65
+0,0,1,0,1,0,1,0,1,1,602,847,NYT,1228,Magazine,7,,,,38,7
+0,0,1,0,1,0,1,0,1,1,603,847,Pudding,1227,Magazine,7,,,,24,42
+0,0,1,0,1,0,1,0,1,1,604,847,Washington Post,1229,Magazine,7,,,,11,9
+1,1,0,0,0,0,0,0,0,0,605,851,Tableau Public,1591,Community,4,PowerPoint,Pen & paper,,41,10
+1,1,0,0,0,0,0,0,0,0,606,851,Stephanie Evergreen,1589,Person,4,PowerPoint,Pen & paper,,59,4
+0,0,1,1,1,1,0,0,0,0,607,852,Alberto Cairo,1856,Person,8,,,,86,2
+1,1,0,0,0,0,0,0,0,0,608,853,Twitter,1663,Social Network,2,,,,38,28
+1,1,0,0,0,0,0,0,0,0,609,853,Tableau Public,1662,Community,2,,,,41,10
+0,1,0,0,0,0,0,0,0,0,610,855,Andy Cotgreave,1645,Person,2,,Pen & paper,,13,27
+0,1,0,0,0,0,0,0,0,0,611,855,Andy Kirk,1641,Person,2,,Pen & paper,,33,43
+0,1,0,0,0,0,0,0,0,0,612,855,Johnathan Schwabish,1642,Person,2,,Pen & paper,,20,17
+0,1,0,0,0,0,0,0,0,0,613,855,Ben Jones,1646,Person,2,,Pen & paper,,6,71
+0,1,0,0,0,0,0,0,0,0,614,855,Alberto Cairo,1643,Person,2,,Pen & paper,,86,2
+0,1,0,0,0,0,0,0,0,0,615,855,Steve Wexler,1644,Person,2,,Pen & paper,,30,18
+1,1,1,0,0,1,1,1,0,0,616,864,Alberto Cairo,1408,Person,9,,Pen & paper,,86,2
+0,0,0,0,1,0,1,0,0,0,617,866,Mike Bostock,1162,Person,5,,,Figma,21,36
+0,1,0,1,0,0,0,0,0,0,618,867,Alberto Cairo,775,Person,3,,Pen & paper,,86,2
+0,1,0,1,0,0,0,0,0,0,619,867,Mona Chalabi,773,Person,3,,Pen & paper,,17,16
+0,1,0,1,0,0,0,0,0,0,620,867,Federica Fragapane,774,Person,3,,Pen & paper,,24,22
+0,1,0,1,0,0,0,0,0,0,621,867,Giorgia Lupi,772,Person,3,,Pen & paper,,46,20
+1,1,1,1,0,1,0,0,0,0,622,868,Hans Rosling,100,Person,9,PowerPoint,Pen & paper,,5,57
+1,1,1,1,0,1,0,0,0,0,623,868,Nadieh Bremer,98,Person,9,PowerPoint,Pen & paper,,73,11
+0,1,0,0,0,0,0,0,0,0,624,870,Datawrapper,679,Blog,1,,,,11,3
+0,1,0,0,0,0,0,0,0,0,625,870,Datavis Society,678,Organisation,1,,,,35,45
+0,1,0,0,0,0,0,0,0,0,626,870,Tableau Public,677,Community,1,,,,41,10
+1,1,0,0,0,0,0,0,0,0,627,872,Stephanie Evergreen,1038,Person,2,,,,59,4
+1,1,1,1,0,0,0,0,0,0,628,873,Stephanie Evergreen,1729,Person,5,PowerPoint,,,59,4
+1,1,1,1,0,0,0,0,0,0,629,873,Andy Kirk,1729,Person,5,PowerPoint,,,33,43
+1,1,0,0,0,1,0,1,1,1,630,874,Andy Kirk,768,Person,8,PowerPoint,Pen & paper,,33,43
+1,1,0,0,0,1,0,1,1,1,631,874,Storytelling With Data (Cole Knaflic),767,Blog,8,PowerPoint,Pen & paper,,78,15
+1,1,0,0,0,1,0,1,1,1,632,874,Johnathan Schwabish,771,Person,8,PowerPoint,Pen & paper,,20,17
+1,1,0,0,0,0,0,0,0,0,633,875,Bill Shander,539,Person,3,PowerPoint,,,4,58
+1,1,0,0,0,0,0,0,0,0,634,875,Hans Rosling,542,Person,3,PowerPoint,,,5,57
+1,1,0,0,0,0,0,0,0,0,635,875,Stephen Few,543,Person,3,PowerPoint,,,19,32
+1,1,0,0,0,0,0,0,0,0,636,875,Datavis Society,540,Organisation,3,PowerPoint,,,35,45
+1,1,0,0,0,0,0,0,0,0,637,875,Ryan Sleeper,544,Person,3,PowerPoint,,,5,70
+1,1,0,0,0,0,0,0,0,0,638,875,Steve Wexler,541,Person,3,PowerPoint,,,30,18
+0,1,0,0,0,0,0,0,0,0,639,878,Kevin And Ken Flerlage,538,Person,3,PowerPoint,,,22,26
+1,1,0,1,0,0,1,0,1,1,640,887,Moritz Stefaner,676,Person,10,PowerPoint,Pen & paper,,21,34
+1,1,0,1,0,0,1,0,1,1,641,887,Alberto Cairo,671,Person,10,PowerPoint,Pen & paper,,86,2
+1,1,0,1,0,0,1,0,1,1,642,887,Elijah Meeks,673,Person,10,PowerPoint,Pen & paper,,6,68
+1,1,0,1,0,0,1,0,1,1,643,887,Datawrapper,670,Blog,10,PowerPoint,Pen & paper,,11,3
+1,1,0,1,0,0,1,0,1,1,644,887,Edward Tufte,672,Person,10,PowerPoint,Pen & paper,,49,13
+1,1,0,1,0,0,1,0,1,1,645,887,Federica Fragapane,669,Person,10,PowerPoint,Pen & paper,,24,22
+1,1,0,1,0,0,1,0,1,1,646,887,Financial Times,672,Magazine,10,PowerPoint,Pen & paper,,56,14
+1,1,0,1,0,0,1,0,1,1,647,887,Nadieh Bremer,674,Person,10,PowerPoint,Pen & paper,,73,11
+0,0,1,0,0,1,1,0,0,0,648,891,Financial Times,1225,Magazine,3,,,,56,14
+0,0,1,0,0,1,1,0,0,0,649,891,Edward Tufte,1225,Person,3,,,,49,13
+0,0,1,0,0,1,1,0,0,0,650,891,Hadley Wickham,1224,Person,3,,,,5,76
+0,0,0,0,1,0,0,0,0,0,651,896,Edward Tufte,1526,Person,3,,,,49,13
+0,0,0,0,1,0,0,0,0,0,652,896,Financial Times,1526,Magazine,3,,,,56,14
+0,0,0,0,1,0,0,0,0,0,653,896,Mike Bostock,1525,Person,3,,,,21,36
+0,1,1,0,1,1,0,0,0,0,654,898,Lisa Charlotte Muth,2022,Person,6,,Pen & paper,,20,23
+1,0,0,1,0,0,0,0,0,0,655,902,Pinterest,1935,Social Network,3,,Pen & paper,,10,67
+1,0,0,1,0,0,0,0,0,0,656,902,Fathom,1933,Organisation,3,,Pen & paper,,3,80
+1,0,0,0,0,0,0,0,0,0,657,903,Stephanie Evergreen,1037,Person,1,,,,59,4
+0,0,0,1,0,0,0,0,1,1,658,905,Giorgia Lupi,929,Person,5,,,Raw graph,46,20
+0,0,0,1,0,0,0,0,1,1,659,905,Federica Fragapane,930,Person,5,,,Raw graph,24,22
+0,0,0,1,0,0,0,0,1,1,660,905,David Mccandless,931,Person,5,,,Raw graph,11,49
+0,0,0,1,1,0,0,0,0,1,661,917,Twitter,537,Social Network,8,,,,38,28
+1,1,0,1,0,0,0,0,1,0,662,918,Alberto Cairo,1872,Person,4,,,,86,2
+1,1,0,1,0,0,0,0,1,0,663,918,Federica Fragapane,1873,Person,4,,,,24,22
+1,1,0,1,0,0,0,0,1,0,664,918,Nadieh Bremer,1874,Person,4,,,,73,11
+1,0,0,0,1,0,1,0,0,0,665,921,Nadieh Bremer,1723,Person,3,,,,73,11
+1,0,0,0,1,0,1,0,0,0,666,921,Valentina D'Efilippo,1722,Person,3,,,,9,19
+1,0,0,0,0,0,1,0,0,0,667,925,Storytelling With Data (Cole Knaflic),1160,Blog,4,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,1,0,0,0,668,925,Stephanie Evergreen,1161,Person,4,PowerPoint,Pen & paper,,59,4
+0,0,0,0,1,0,0,0,0,0,669,929,Nadieh Bremer,364,Person,4,,Pen & paper,,73,11
+0,0,0,0,1,0,0,0,0,0,670,929,Alberto Cairo,367,Person,4,,Pen & paper,,86,2
+0,0,0,0,1,0,0,0,0,0,671,929,Moritz Stefaner,366,Person,4,,Pen & paper,,21,34
+0,0,0,0,1,0,0,0,0,0,672,929,Edward Tufte,363,Person,4,,Pen & paper,,49,13
+0,0,0,0,1,0,0,0,0,0,673,929,Storytelling With Data (Cole Knaflic),368,Blog,4,,Pen & paper,,78,15
+0,0,0,0,1,0,0,0,0,0,674,929,Lisa Charlotte Muth,365,Person,4,,Pen & paper,,20,23
+0,0,0,0,1,0,0,0,0,0,675,929,Financial Times,363,Magazine,4,,Pen & paper,,56,14
+1,0,0,0,0,0,0,0,0,0,676,930,Alberto Cairo,1407,Person,2,,Pen & paper,,86,2
+1,0,0,0,0,0,0,0,0,0,677,930,Stephanie Evergreen,1406,Person,2,,Pen & paper,,59,4
+1,1,0,0,0,0,0,0,0,0,678,932,Datavis Society,1871,Organisation,2,,,,35,45
+1,1,1,0,0,1,0,0,0,1,679,940,Johnathan Schwabish,420,Person,7,PowerPoint,Pen & paper,,20,17
+1,1,1,0,0,1,0,0,0,1,680,940,Ann K. Emery,419,Person,7,PowerPoint,Pen & paper,,20,5
+1,1,1,0,0,1,0,0,0,1,681,940,Cedric Scherer,417,Person,7,PowerPoint,Pen & paper,,18,30
+1,1,1,0,0,1,0,0,0,1,682,940,Alli Torban,421,Person,7,PowerPoint,Pen & paper,,18,62
+1,0,0,1,0,0,0,0,0,0,683,944,Accurat,1476,Organisation,4,,Pen & paper,Raw graphs,4,81
+1,1,0,0,0,0,1,0,1,0,684,952,Giorgia Lupi,536,Person,4,,,,46,20
+1,1,0,0,0,0,1,0,1,0,685,952,Twitter,534,Social Network,4,,,,38,28
+1,1,0,0,0,0,1,0,1,0,686,952,Bloomberg,535,Magazine,4,,,,4,41
+1,0,1,1,0,1,0,0,0,1,687,961,Datavis Society,1474,Organisation,7,PowerPoint,Pen & paper,,35,45
+0,0,1,0,1,1,0,0,0,0,688,962,Valentina D'Efilippo,204,Person,7,,Pen & paper,Svelte,9,19
+0,0,1,0,1,1,0,0,0,0,689,962,Moritz Stefaner,202,Person,7,,Pen & paper,Svelte,21,34
+1,0,0,1,1,0,1,0,0,0,690,964,Lisa Charlotte Muth,663,Person,9,,Pen & paper,,20,23
+1,1,0,0,0,0,1,0,1,1,691,983,Storytelling With Data (Cole Knaflic),1816,Blog,6,PowerPoint,,,78,15
+1,1,0,0,0,0,1,0,1,1,692,983,Alberto Cairo,1817,Person,6,PowerPoint,,,86,2
+1,1,0,0,0,0,1,0,1,1,693,983,Kevin And Ken Flerlage,1818,Person,6,PowerPoint,,,22,26
+1,0,1,0,0,1,0,0,0,0,694,985,Alberto Cairo,1158,Person,6,PowerPoint,,,86,2
+1,0,1,0,0,1,0,0,0,0,695,985,Storytelling With Data (Cole Knaflic),1159,Blog,6,PowerPoint,,,78,15
+0,0,0,1,0,0,0,0,1,1,696,993,NYT,1303,Magazine,3,,,,38,7
+0,0,0,1,0,0,0,0,1,1,697,993,National Geographic,1304,Magazine,3,,,,6,74
+1,1,0,1,0,0,0,1,1,1,698,995,R.J Andrews,1523,Person,8,PowerPoint,Pen & paper,,10,69
+1,1,0,1,0,0,0,1,1,1,699,995,Alberto Cairo,1519,Person,8,PowerPoint,Pen & paper,,86,2
+1,1,0,1,0,0,0,1,1,1,700,995,Storytelling With Data (Cole Knaflic),1520,Blog,8,PowerPoint,Pen & paper,,78,15
+1,1,0,1,0,0,0,1,1,1,701,995,Andy Cotgreave,1521,Person,8,PowerPoint,Pen & paper,,13,27
+1,1,0,1,0,0,0,1,1,0,702,997,Alberto Cairo,662,Person,8,PowerPoint,,,86,2
+1,1,0,0,0,0,0,0,0,0,703,1001,Kevin And Ken Flerlage,430,Person,2,,,,22,26
+1,1,1,0,0,1,1,0,0,0,704,1003,Shirley Wu,152,Person,9,,,Amcharts,49,12
+1,0,0,1,0,0,0,0,0,0,705,1014,Federica Fragapane,532,Person,5,PowerPoint,,Raw graph,24,22
+1,0,0,1,0,0,0,0,0,0,706,1014,Giorgia Lupi,531,Person,5,PowerPoint,,Raw graph,46,20
+0,0,0,0,1,0,0,0,0,0,707,1027,Tamara Munzner,105,Person,3,,,,8,33
+0,0,0,0,1,0,0,0,0,0,708,1027,D3,106,Blog,3,,,,3,82
+1,1,0,0,0,0,0,0,0,0,709,1028,Stephanie Evergreen,1033,Person,3,,,"Lucidchart, Google Sheets",59,4
+1,1,0,0,0,0,0,0,0,0,710,1028,Stephen Few,1034,Person,3,,,"Lucidchart, Google Sheets",19,32
+1,1,0,0,0,0,0,1,0,0,711,1029,Storytelling With Data (Cole Knaflic),659,Blog,3,,,,78,15
+0,0,1,1,1,0,0,0,0,1,712,1036,NYT,1032,Magazine,9,,Pen & paper,Rawgraphs,38,7
+0,0,0,0,0,0,0,1,0,0,713,1038,Datavis Society,924,Organisation,1,,,,35,45
+0,0,0,0,0,0,0,1,0,0,714,1038,Storytelling With Data (Cole Knaflic),925,Blog,1,,,,78,15
+0,0,0,0,0,0,0,1,0,0,715,1038,Bill Shander,927,Person,1,,,,4,58
+1,0,1,1,1,1,1,0,0,0,716,1045,Financial Times,1640,Magazine,10,,,,56,14
+1,0,1,1,1,1,1,0,0,0,717,1045,NYT,1639,Magazine,10,,,,38,7
+1,0,1,1,1,1,1,0,0,0,718,1045,Edward Tufte,1635,Person,10,,,,49,13
+1,0,1,1,1,1,1,0,0,0,719,1045,Flowingwithdata (Nathan Yau),1632,Blog,10,,,,39,8
+1,0,1,1,1,1,1,0,0,0,720,1045,Hans Rosling,1631,Person,10,,,,5,57
+1,0,1,1,1,1,1,0,0,0,722,1045,Stephen Few,1634,Person,10,,,,19,32
+1,0,1,1,1,1,1,0,0,0,723,1045,Nightingale,1636,Magazine,10,,,,8,53
+1,1,1,1,1,1,0,0,1,1,725,1046,Observable,841,Community,10,PowerPoint,,,11,66
+1,1,1,1,1,1,0,0,1,1,726,1046,Datawrapper,843,Blog,10,PowerPoint,,,11,3
+1,0,0,0,1,0,0,0,1,0,727,1049,Mona Chalabi,1302,Person,7,,Pen & paper,,17,16
+1,1,1,1,1,0,0,1,0,0,728,1052,Financial Times,1345,Magazine,11,PowerPoint,Pen & paper,"Dundus, exploratory",56,14
+1,1,1,1,1,0,0,1,0,0,729,1052,Edward Tufte,1345,Person,11,PowerPoint,Pen & paper,"Dundus, exploratory",49,13
+1,1,1,1,1,0,0,1,0,0,730,1052,Flowingwithdata (Nathan Yau),1344,Blog,11,PowerPoint,Pen & paper,"Dundus, exploratory",39,8
+1,1,1,0,0,1,0,0,0,0,731,1053,Edward Tufte,1628,Person,6,PowerPoint,Pen & paper,,49,13
+1,1,1,0,0,1,0,0,0,0,732,1053,Stephen Few,1629,Person,6,PowerPoint,Pen & paper,,19,32
+1,1,1,0,0,1,0,0,0,0,733,1053,Financial Times,1628,Magazine,6,PowerPoint,Pen & paper,,56,14
+1,1,1,0,0,1,0,0,0,0,734,1053,Alberto Cairo,1630,Person,6,PowerPoint,Pen & paper,,86,2
+1,1,1,0,0,0,0,1,0,0,735,1056,Moritz Stefaner,1372,Person,6,PowerPoint,Pen & paper,,21,34
+1,1,1,0,0,0,0,1,0,0,736,1056,Stephanie Evergreen,1370,Person,6,PowerPoint,Pen & paper,,59,4
+1,1,1,0,0,0,0,1,0,0,737,1056,Storytelling With Data (Cole Knaflic),1371,Blog,6,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,0,1,0,0,738,1060,Storytelling With Data (Cole Knaflic),1155,Blog,4,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,0,1,0,0,739,1060,Giorgia Lupi,1157,Person,4,PowerPoint,Pen & paper,,46,20
+1,1,0,0,0,0,0,1,0,0,740,1063,Linkedin,1518,Social Network,5,PowerPoint,Pen & paper,,9,35
+1,1,0,0,0,0,0,1,0,0,741,1063,Tableau Public,1518,Community,5,PowerPoint,Pen & paper,,41,10
+0,0,1,1,0,1,0,0,0,0,742,1066,#Tidytuesday,462,Community,5,PowerPoint,Pen & paper,,9,51
+0,0,1,1,0,1,0,0,0,0,743,1066,Datawrapper,464,Blog,5,PowerPoint,Pen & paper,,11,3
+0,0,0,0,1,0,1,0,0,0,744,1070,Nature,1223,Magazine,4,,Pen & paper,,10,38
+0,1,0,0,0,0,0,1,0,0,745,1076,Storytelling With Data (Cole Knaflic),1815,Blog,3,,Pen & paper,,78,15
+0,1,0,0,0,0,0,1,0,0,746,1076,Steve Wexler,1811,Person,3,,Pen & paper,,30,18
+0,1,0,0,0,0,0,1,0,0,747,1076,Stefanie Posavec,1814,Person,3,,Pen & paper,,13,37
+0,1,0,0,0,0,0,1,0,0,748,1076,Andy Kriebel,1810,Person,3,,Pen & paper,,12,25
+0,1,0,0,0,0,0,1,0,0,749,1076,Tableau Public,1812,Community,3,,Pen & paper,,41,10
+0,1,0,0,0,0,0,1,0,0,750,1076,Shirley Wu,1809,Person,3,,Pen & paper,,49,12
+0,1,0,0,0,0,0,1,0,0,751,1076,Giorgia Lupi,1813,Person,3,,Pen & paper,,46,20
+0,1,0,0,0,0,0,1,0,0,752,1076,Nadieh Bremer,1808,Person,3,,Pen & paper,,73,11
+1,1,0,0,0,0,0,0,0,0,753,1079,Alberto Cairo,1471,Person,2,,,,86,2
+1,1,0,0,0,0,0,0,0,0,754,1079,Steve Wexler,1472,Person,2,,,,30,18
+1,0,0,1,0,0,0,0,1,0,755,1080,Storytelling With Data (Cole Knaflic),528,Blog,5,PowerPoint,,,78,15
+1,0,0,1,0,0,0,0,1,0,756,1080,Linkedin,529,Social Network,5,PowerPoint,,,9,35
+1,0,1,1,1,1,0,0,0,0,757,1082,Washington Post,200,Magazine,6,,,,11,9
+1,0,1,1,1,1,0,0,0,0,758,1082,Guardian,201,Magazine,6,,,,2,83
+1,0,1,1,1,1,0,0,0,0,759,1082,Shirley Wu,196,Person,6,,,,49,12
+1,0,1,1,1,1,0,0,0,0,760,1082,NYT,199,Magazine,6,,,,38,7
+1,0,1,1,1,1,0,0,0,0,761,1082,Pudding,198,Magazine,6,,,,24,42
+1,0,1,1,1,1,0,0,0,0,762,1082,Alberto Cairo,195,Person,6,,,,86,2
+0,1,0,0,0,0,0,0,0,0,763,1085,Ryan Sleeper,766,Person,1,,,,5,70
+0,1,0,0,0,0,0,0,0,0,764,1085,Andy Kriebel,765,Person,1,,,,12,25
+0,0,1,1,1,1,0,0,0,0,765,1086,Alberto Cairo,1968,Person,6,,Pen & paper,,86,2
+0,0,1,1,1,1,0,0,0,0,766,1086,Federica Fragapane,1971,Person,6,,Pen & paper,,24,22
+0,0,1,1,1,1,0,0,0,0,767,1086,Shirley Wu,1973,Person,6,,Pen & paper,,49,12
+0,0,1,1,1,1,0,0,0,0,768,1086,Giorgia Lupi,1970,Person,6,,Pen & paper,,46,20
+0,0,1,1,1,1,0,0,0,0,769,1086,Mike Bostock,1976,Person,6,,Pen & paper,,21,36
+0,0,1,1,1,1,0,0,0,0,770,1086,Moritz Stefaner,1969,Person,6,,Pen & paper,,21,34
+0,0,1,1,1,1,0,0,0,0,771,1086,Nadieh Bremer,1972,Person,6,,Pen & paper,,73,11
+1,1,0,1,0,0,0,0,0,0,772,1092,Nightingale,230,Magazine,6,PowerPoint,,,8,53
+1,0,0,0,0,0,1,1,0,0,773,1098,538,1300,Magazine,3,,,,10,31
+0,1,0,0,0,0,0,1,0,0,774,1103,Financial Times,1403,Magazine,2,,,,56,14
+0,1,0,0,0,0,0,1,0,0,775,1103,Edward Tufte,1403,Person,2,,,,49,13
+0,1,0,0,0,0,0,1,0,0,776,1103,Tableau Public,1404,Community,2,,,,41,10
+1,1,0,0,0,0,0,1,1,0,777,1105,Tableau Public,2092,Community,5,PowerPoint,,,41,10
+1,1,1,0,0,1,0,0,0,0,778,1112,Ann K. Emery,194,Person,7,PowerPoint,,Tables from SPSS output,20,5
+1,1,1,0,0,1,0,0,0,0,779,1112,Stephanie Evergreen,193,Person,7,PowerPoint,,Tables from SPSS output,59,4
+1,0,1,0,0,1,0,0,0,0,780,1115,Stephanie Evergreen,1470,Person,6,,Pen & paper,,59,4
+1,0,1,0,0,1,0,0,0,0,781,1115,Slack,1469,Social Network,6,,Pen & paper,,11,46
+0,1,0,0,0,0,0,0,0,0,782,1116,Alberto Cairo,764,Person,2,,,,86,2
+0,1,0,0,0,0,0,0,0,0,783,1116,Financial Times,763,Magazine,2,,,,56,14
+0,1,0,0,0,0,0,0,0,0,784,1116,Edward Tufte,763,Person,2,,,,49,13
+0,1,0,0,1,0,0,0,1,1,785,1118,Pudding,297,Magazine,13,,,"Chart JS, apache echart",24,42
+0,1,0,0,1,0,0,0,1,1,786,1118,Shirley Wu,298,Person,13,,,"Chart JS, apache echart",49,12
+1,0,1,1,0,1,0,0,0,0,787,1126,Shirley Wu,88,Person,4,,,,49,12
+1,0,1,1,0,1,0,0,0,0,788,1126,Kontinentalist,89,Organisation,4,,,,4,84
+1,1,0,0,0,0,0,0,1,1,789,1127,Storytelling With Data (Cole Knaflic),457,Blog,6,PowerPoint,Pen & paper,,78,15
+1,1,0,0,0,0,0,0,1,1,790,1127,Alberto Cairo,458,Person,6,PowerPoint,Pen & paper,,86,2
+1,1,0,0,0,0,0,0,1,1,791,1127,Gurman Bhatia,456,Person,6,PowerPoint,Pen & paper,,5,39
+1,1,0,0,0,0,0,0,0,0,792,1130,Stephanie Evergreen,229,Person,5,PowerPoint,Pen & paper,,59,4
+1,1,0,0,0,0,0,0,0,0,793,1130,Tableau Public,229,Community,5,PowerPoint,Pen & paper,,41,10
+1,1,0,0,0,0,0,0,0,0,794,1130,Ann K. Emery,229,Person,5,PowerPoint,Pen & paper,,20,5
+1,0,0,1,0,0,0,0,1,0,795,1131,Visual Capialist,1222,Magazine,4,,,,3,73
+0,0,0,0,1,0,1,0,0,0,796,1133,Observable,1297,Community,5,,,,11,66
+0,0,0,0,1,0,1,0,0,0,797,1133,Information Is Beautiful,1298,Blog,5,,,,8,55
+0,1,1,0,0,1,1,0,0,0,798,1134,#Tidytuesday,524,Community,6,,Pen & paper,,9,51
+1,0,1,0,1,0,0,0,0,0,799,1137,Washington Post,1122,Magazine,8,,,,11,9
+1,0,1,0,1,0,0,0,0,0,800,1137,Observable,1120,Community,8,,,,11,66
+1,0,1,0,1,0,0,0,0,0,801,1137,Mike Bostock,1121,Person,8,,,,21,36
+1,0,0,1,1,0,1,0,0,0,802,1139,Pudding,151,Magazine,9,,Pen & paper,Datavisual,24,42
+1,0,0,1,1,0,1,0,0,0,803,1139,Fathom,150,Organisation,9,,Pen & paper,Datavisual,3,80
+0,0,0,0,1,0,0,0,0,0,804,1140,Mike Bostock,1891,Person,6,,,,21,36
+1,0,1,0,1,1,0,0,0,0,805,1147,Andy Kirk,272,Person,4,,,,33,43
+1,0,1,0,1,1,0,0,0,0,806,1147,Alli Torban,271,Person,4,,,,18,62
+1,0,1,0,1,1,0,0,0,0,807,1147,Cedric Scherer,270,Person,4,,,,18,30
+1,0,1,0,1,1,0,0,0,0,808,1147,Duncan Geere,273,Person,4,,,,4,64
+1,0,0,0,0,0,0,1,0,0,809,1149,Andy Kirk,523,Person,6,PowerPoint,Pen & paper,,33,43
+0,1,0,0,0,0,0,0,0,0,810,1151,Economist,1221,Magazine,1,,,,14,54
+1,0,0,1,0,0,0,0,0,0,811,1152,Gabrielle Merite,1684,Person,4,PowerPoint,,,10,63
+0,1,0,0,0,0,1,0,0,0,812,1158,Twitter,1767,Social Network,5,,Pen & paper,,38,28
+0,1,0,0,0,0,1,0,0,0,813,1158,Tableau Public,1767,Community,5,,Pen & paper,,41,10
+0,1,0,0,0,0,1,0,0,0,814,1158,Financial Times,1767,Magazine,5,,Pen & paper,,56,14
+1,0,0,1,0,0,0,0,0,0,815,1161,Information Is Beautiful,2050,Blog,6,PowerPoint,,,8,55
+0,0,0,0,0,1,0,1,0,0,816,1164,Stephanie Evergreen,922,Person,2,,,,59,4
+1,0,0,0,0,0,0,0,0,0,817,1168,NYT,455,Magazine,2,PowerPoint,,,38,7
+1,0,0,0,0,0,0,0,0,0,818,1168,National Geographic,454,Magazine,2,PowerPoint,,,6,74
+1,1,0,0,0,0,1,0,1,1,819,1169,Datavis Society,655,Organisation,11,PowerPoint,,,35,45
+1,1,0,0,0,0,1,0,1,1,820,1169,NYT,656,Magazine,11,PowerPoint,,,38,7
+1,1,1,0,0,1,0,0,0,0,821,1173,Flowingwithdata (Nathan Yau),1992,Blog,7,PowerPoint,,,39,8
+1,0,0,0,0,0,0,1,0,0,822,1176,Twitter,1154,Social Network,2,,,,38,28
+0,1,1,1,0,1,0,0,0,0,823,1184,David Mccandless,1919,Person,6,,Pen & paper,,11,49
+1,0,0,0,0,0,1,1,0,0,824,1186,Storytelling With Data (Cole Knaflic),919,Blog,4,PowerPoint,,,78,15
+1,0,0,1,0,0,0,0,0,0,825,1187,Instagram,1747,Social Network,4,,Pen & paper,"InDesign, After Effects",11,52
+1,0,0,1,0,0,0,0,0,0,826,1187,Slack,1747,Social Network,4,,Pen & paper,"InDesign, After Effects",11,46
+0,0,0,0,1,0,0,0,0,0,827,1188,Nadieh Bremer,760,Person,3,,Pen & paper,,73,11
+0,0,0,0,1,0,0,0,0,0,828,1188,Observable,762,Community,3,,Pen & paper,,11,66
+0,0,0,0,1,0,0,0,0,0,829,1188,Shirley Wu,761,Person,3,,Pen & paper,,49,12
+0,0,0,0,0,0,0,0,0,0,830,1197,R/Dataisbeautiful,758,Community,3,,,ZingChart,4,29
+0,0,0,0,1,0,0,0,0,0,831,1211,Nadieh Bremer,1025,Person,5,,Pen & paper,Figma,73,11
+0,0,0,0,1,0,0,0,0,0,832,1211,Shirley Wu,1028,Person,5,,Pen & paper,Figma,49,12
+0,0,0,0,1,0,0,0,0,0,833,1211,Amelia Wattenberger,1027,Person,5,,Pen & paper,Figma,19,21
+0,0,0,0,1,0,0,0,0,0,834,1211,Susie Lu,1026,Person,5,,Pen & paper,Figma,5,44
+1,0,0,0,0,0,0,0,0,0,835,1212,Stephanie Evergreen,1368,Person,2,PowerPoint,,,59,4
+1,0,0,0,0,0,0,0,0,0,836,1212,Storytelling With Data (Cole Knaflic),1366,Blog,2,PowerPoint,,,78,15
+1,0,0,0,0,0,0,0,0,0,837,1212,Ann K. Emery,1367,Person,2,PowerPoint,,,20,5
+1,0,0,0,0,0,0,0,0,0,838,1212,Andy Kirk,1365,Person,2,PowerPoint,,,33,43
+1,0,0,0,0,0,0,0,0,0,839,1212,Bill Shander,1369,Person,2,PowerPoint,,,4,58
+1,0,0,0,0,0,0,1,0,0,840,1215,NYT,1152,Magazine,3,,,,38,7
+1,0,0,0,0,0,0,1,0,0,841,1215,Financial Times,1153,Magazine,3,,,,56,14
+0,0,0,1,0,0,1,0,0,0,842,1218,Financial Times,453,Magazine,3,,,MATLAB,56,14
+0,0,0,1,0,0,1,0,0,0,843,1218,Edward Tufte,453,Person,3,,,MATLAB,49,13
+0,0,0,1,0,0,1,0,0,0,844,1218,Giorgia Lupi,451,Person,3,,,MATLAB,46,20
+0,0,0,1,0,0,0,0,0,0,845,1219,Pinterest,840,Social Network,2,PowerPoint,,,10,67
+1,0,1,0,1,1,0,0,0,0,846,1220,Nature,1219,Magazine,5,,,,10,38
+1,1,0,1,0,1,0,0,1,0,847,1230,Shirley Wu,429,Person,7,PowerPoint,,,49,12
+0,1,0,0,0,0,1,0,0,0,848,1234,Linkedin,521,Social Network,4,PowerPoint,,,9,35
+0,1,0,0,0,0,1,0,0,0,849,1234,Instagram,521,Social Network,4,PowerPoint,,,11,52
+0,0,1,0,1,0,0,0,0,0,850,1241,Nadieh Bremer,1464,Person,6,,,,73,11
+0,0,1,0,1,0,0,0,0,0,851,1241,Federica Fragapane,1465,Person,6,,,,24,22
+0,0,1,0,1,0,0,0,0,0,852,1241,Mike Bostock,1466,Person,6,,,,21,36
+1,0,0,1,0,0,0,0,0,0,853,1245,Slack,652,Social Network,3,,Pen & paper,,11,46
+1,0,0,1,0,0,0,0,0,0,854,1245,Datavis Society,652,Organisation,3,,Pen & paper,,35,45
+1,0,0,1,0,0,0,0,0,0,855,1245,Behance,653,Social Network,3,,Pen & paper,,5,77
+0,0,0,0,1,0,1,0,0,0,856,1247,Nadieh Bremer,69,Person,5,,,svelte,73,11
+0,0,0,0,1,0,1,0,0,0,857,1247,Moritz Stefaner,67,Person,5,,,svelte,21,34
+0,0,0,0,1,0,1,0,0,0,858,1247,Shirley Wu,68,Person,5,,,svelte,49,12
+1,1,0,0,0,0,0,0,0,0,859,1248,Tableau Public,1218,Community,2,,,,41,10
+1,0,0,0,1,0,0,1,0,0,860,1250,Datavis Society,1292,Organisation,6,PowerPoint,Pen & paper,,35,45
+1,0,0,0,0,0,0,1,0,0,861,1251,Storytelling With Data (Cole Knaflic),828,Blog,4,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,0,1,0,0,862,1251,Tamara Munzner,830,Person,4,PowerPoint,Pen & paper,,8,33
+1,0,0,0,0,0,0,1,0,0,863,1251,Andy Kirk,827,Person,4,PowerPoint,Pen & paper,,33,43
+1,0,0,0,0,0,0,1,0,0,864,1252,Storytelling With Data (Cole Knaflic),1217,Blog,3,PowerPoint,,,78,15
+1,0,0,0,0,0,0,0,1,0,865,1254,Andy Kirk,1364,Person,4,,,,33,43
+1,1,1,0,0,1,1,0,0,0,866,1256,Lisa Charlotte Muth,168,Person,7,PowerPoint,,,20,23
+0,0,0,0,0,0,0,1,0,0,867,1257,Giorgia Lupi,754,Person,1,,,,46,20
+0,0,0,0,0,0,0,1,0,0,868,1257,David Mccandless,755,Person,1,,,,11,49
+0,0,0,0,0,0,0,1,0,0,869,1257,Stefanie Posavec,753,Person,1,,,,13,37
+1,1,0,0,0,0,0,0,0,1,870,1258,Edward Tufte,192,Person,5,PowerPoint,,,49,13
+1,1,0,0,0,0,0,0,0,1,871,1258,Financial Times,192,Magazine,5,PowerPoint,,,56,14
+0,0,0,1,0,0,0,0,0,0,872,1259,Information Is Beautiful,1889,Blog,3,PowerPoint,Pen & paper,,8,55
+0,0,0,0,0,0,0,1,0,0,873,1262,Storytelling With Data (Cole Knaflic),2084,Blog,2,PowerPoint,,,78,15
+1,1,0,0,0,0,1,1,0,0,874,1264,Tableau Public,1986,Community,5,,,,41,10
+1,1,0,0,0,0,1,1,0,0,875,1264,Datavis Society,1987,Organisation,5,,,,35,45
+1,1,1,0,1,0,1,0,1,0,876,1265,Giorgia Lupi,1901,Person,12,,,,46,20
+1,1,1,0,1,0,1,0,1,0,877,1265,Mike Bostock,1905,Person,12,,,,21,36
+1,1,1,0,1,0,1,0,1,0,878,1265,Storytelling With Data (Cole Knaflic),1902,Blog,12,,,,78,15
+1,1,1,0,1,0,1,0,1,0,879,1265,R.J Andrews,1907,Person,12,,,,10,69
+1,1,1,0,1,0,1,0,1,0,880,1265,Alberto Cairo,1900,Person,12,,,,86,2
+1,1,1,0,1,0,1,0,1,0,881,1265,Ben Jones,1903,Person,12,,,,6,71
+1,1,1,0,1,0,1,0,1,0,882,1265,Amelia Wattenberger,1904,Person,12,,,,19,21
+1,1,1,0,1,0,1,0,1,0,883,1265,Lisa Charlotte Muth,1906,Person,12,,,,20,23
+0,0,0,0,1,0,0,0,0,1,884,1266,Hans Rosling,1101,Person,10,,Pen & paper,,5,57
+0,0,1,0,0,1,0,0,0,0,885,1267,Twitter,2059,Social Network,3,,,,38,28
+1,1,0,0,0,0,0,0,0,0,886,1268,Andy Kriebel,1100,Person,2,,,,12,25
+1,1,0,0,0,0,0,0,0,0,887,1268,Nadieh Bremer,1097,Person,2,,,,73,11
+1,1,0,0,0,0,0,0,0,0,888,1268,Alberto Cairo,1099,Person,2,,,,86,2
+1,1,0,0,0,0,0,0,0,0,889,1268,Shirley Wu,1098,Person,2,,,,49,12
+1,1,0,1,1,0,0,1,1,1,890,1270,Alberto Cairo,167,Person,13,,Pen & paper,,86,2
+1,1,0,1,1,0,0,1,1,1,891,1270,Lisa Charlotte Muth,165,Person,13,,Pen & paper,,20,23
+1,0,1,0,0,1,0,1,0,0,892,1271,Financial Times,751,Magazine,4,,,,56,14
+1,0,1,0,0,1,0,1,0,0,893,1271,Edward Tufte,751,Person,4,,,,49,13
+1,0,1,0,0,1,0,1,0,0,894,1271,Stephen Few,750,Person,4,,,,19,32
+0,1,1,1,0,0,0,0,0,0,895,1273,Alberto Cairo,651,Person,3,,,,86,2
+1,1,0,0,0,0,0,0,0,0,896,1276,Tableau Public,749,Community,2,,,,41,10
+0,1,1,0,0,0,0,1,0,0,897,1277,Twitter,428,Social Network,4,,Pen & paper,,38,28
+1,1,0,1,0,0,0,0,1,0,898,1282,NYT,1780,Magazine,8,PowerPoint,Pen & paper,,38,7
+1,1,0,1,0,0,0,0,1,0,899,1282,Washington Post,1781,Magazine,8,PowerPoint,Pen & paper,,11,9
+1,1,0,1,0,0,0,0,1,0,900,1282,Stefanie Posavec,1776,Person,8,PowerPoint,Pen & paper,,13,37
+1,1,0,1,0,0,0,0,1,0,901,1282,Nadieh Bremer,1779,Person,8,PowerPoint,Pen & paper,,73,11
+1,1,0,1,0,0,0,0,1,0,902,1282,Andy Kirk,1779,Person,8,PowerPoint,Pen & paper,,33,43
+1,1,0,1,0,0,0,0,1,0,903,1282,Alberto Cairo,1775,Person,8,PowerPoint,Pen & paper,,86,2
+1,0,0,1,0,0,0,0,0,0,904,1295,Tableau Public,1462,Community,3,PowerPoint,,,41,10
+1,0,0,1,0,0,0,0,0,0,905,1295,Stephanie Evergreen,1462,Person,3,PowerPoint,,,59,4
+1,0,0,1,0,0,0,0,0,0,906,1295,Information Is Beautiful,1462,Blog,3,PowerPoint,,,8,55
+0,0,1,0,0,1,0,0,0,0,907,1298,Alberto Cairo,1023,Person,3,,,,86,2
+0,0,1,0,0,1,0,0,0,0,908,1298,Stephen Few,1022,Person,3,,,,19,32
+0,0,1,0,0,1,0,0,0,0,909,1298,Edward Tufte,1021,Person,3,,,,49,13
+0,0,1,0,0,1,0,0,0,0,910,1298,Financial Times,1021,Magazine,3,,,,56,14
+1,1,1,1,1,1,0,0,0,0,911,1300,Giorgia Lupi,31,Person,11,PowerPoint,Pen & paper,R and various packages (not just ggplot or plotly),46,20
+1,1,1,1,1,1,0,0,0,0,912,1300,Observable,28,Community,11,PowerPoint,Pen & paper,R and various packages (not just ggplot or plotly),11,66
+1,1,1,1,1,1,0,0,0,0,913,1300,Nightingale,30,Magazine,11,PowerPoint,Pen & paper,R and various packages (not just ggplot or plotly),8,53
+1,1,1,1,1,1,0,0,0,0,914,1300,Datawrapper,29,Blog,11,PowerPoint,Pen & paper,R and various packages (not just ggplot or plotly),11,3
+1,0,0,0,0,0,1,0,0,0,915,1304,Twitter,1587,Social Network,3,PowerPoint,,,38,28
+1,0,0,0,0,0,1,0,0,0,916,1304,#Datafam,1587,Community,3,PowerPoint,,,13,6
+1,1,1,1,1,0,1,1,0,0,917,1306,Johnathan Schwabish,744,Person,11,PowerPoint,Pen & paper,,20,17
+1,1,1,1,1,0,1,1,0,0,918,1306,Alberto Cairo,745,Person,11,PowerPoint,Pen & paper,,86,2
+1,1,1,1,1,0,1,1,0,0,919,1306,Valentina D'Efilippo,747,Person,11,PowerPoint,Pen & paper,,9,19
+1,1,1,1,1,0,1,1,0,0,920,1306,Observable,748,Community,11,PowerPoint,Pen & paper,,11,66
+0,0,0,0,0,0,0,0,0,0,921,1307,Linkedin,1931,Social Network,0,,,,9,35
+0,1,0,0,0,0,0,1,0,0,922,1310,Johnathan Schwabish,1361,Person,2,,,,20,17
+0,1,0,0,0,0,0,1,0,0,923,1310,Nadieh Bremer,1363,Person,2,,,,73,11
+0,1,0,0,0,0,0,1,0,0,924,1310,Storytelling With Data (Cole Knaflic),1362,Blog,2,,,,78,15
+0,0,0,0,1,0,0,0,0,0,925,1320,Pudding,2029,Magazine,8,,,,24,42
+0,0,0,0,1,0,0,0,0,0,926,1320,Nadieh Bremer,2030,Person,8,,,,73,11
+0,0,0,0,1,0,0,0,0,0,927,1320,Giorgia Lupi,2028,Person,8,,,,46,20
+1,0,0,0,0,0,0,1,0,0,928,1325,Twitter,578,Social Network,4,PowerPoint,,Cognos Analytics,38,28
+1,0,0,0,0,0,0,0,0,0,929,1329,Storytelling With Data (Cole Knaflic),647,Blog,4,,,Siscense,78,15
+0,0,1,1,0,1,0,0,0,0,930,1330,Nadieh Bremer,824,Person,4,,Pen & paper,,73,11
+1,1,1,0,0,1,0,0,0,0,931,1336,Edward Tufte,1773,Person,5,,,,49,13
+1,1,1,0,0,1,0,0,0,0,932,1336,Financial Times,1773,Magazine,5,,,,56,14
+0,1,0,0,0,0,1,0,0,0,933,1343,Nature,917,Magazine,3,,Pen & paper,,10,38
+1,0,1,0,1,1,0,0,0,0,934,1345,Shirley Wu,1772,Person,6,,Pen & paper,,49,12
+1,0,1,0,1,1,0,0,0,0,935,1345,Amelia Wattenberger,1771,Person,6,,Pen & paper,,19,21
+0,1,1,0,0,1,1,1,1,0,936,1346,Financial Times,268,Magazine,12,,,,56,14
+0,1,1,0,0,1,1,1,1,0,937,1346,Edward Tufte,268,Person,12,,,,49,13
+0,1,1,0,0,1,1,1,1,0,938,1346,Cedric Scherer,269,Person,12,,,,18,30
+1,0,0,1,0,0,0,0,0,1,939,1348,Guardian,1870,Magazine,6,,Pen & paper,,2,83
+1,0,0,1,0,0,0,0,0,1,940,1348,Bloomberg,1869,Magazine,6,,Pen & paper,,4,41
+1,0,0,1,0,0,0,0,0,1,941,1348,NYT,1868,Magazine,6,,Pen & paper,,38,7
+0,1,0,1,0,0,0,0,1,0,942,1349,Flowingwithdata (Nathan Yau),1402,Blog,3,,,,39,8
+0,1,0,0,0,0,1,0,0,0,943,1351,Amanda Makulec,2074,Person,2,,,,8,0
+0,1,0,0,0,0,1,0,0,0,944,1351,Alberto Cairo,2075,Person,2,,,,86,2
+0,1,0,0,0,0,1,0,0,0,945,1351,Edward Tufte,2077,Person,2,,,,49,13
+0,1,0,0,0,0,1,0,0,0,946,1351,Financial Times,2077,Magazine,2,,,,56,14
+1,1,0,0,0,0,0,0,0,0,947,1352,NYT,433,Magazine,4,,Pen & paper,"SAP Webi, Lucidchart",38,7
+1,1,0,0,0,0,0,0,0,0,948,1352,Tableau Public,434,Community,4,,Pen & paper,"SAP Webi, Lucidchart",41,10
+1,1,0,0,0,0,0,0,0,0,949,1352,Economist,432,Magazine,4,,Pen & paper,"SAP Webi, Lucidchart",14,54
+0,0,0,1,1,0,0,0,0,0,950,1356,Datavis Society,296,Organisation,5,,Pen & paper,,35,45
+1,0,0,1,0,0,0,0,0,0,951,1362,Stephanie Evergreen,1215,Person,3,PowerPoint,,,59,4
+1,0,0,1,0,0,0,0,0,0,952,1362,Ann K. Emery,1216,Person,3,PowerPoint,,,20,5
+1,1,1,1,0,0,0,0,0,0,953,1365,Tableau Public,646,Community,6,PowerPoint,,,41,10
+1,0,0,1,0,0,0,0,0,0,954,1370,Giorgia Lupi,1967,Person,2,,,,46,20
+1,0,0,0,0,0,0,0,0,0,955,1376,Washington Post,1627,Magazine,2,,,,11,9
+1,1,0,0,0,0,0,0,0,0,956,1381,Andy Kriebel,1398,Person,3,PowerPoint,,,12,25
+1,1,0,0,0,0,0,0,0,0,957,1381,Alberto Cairo,1399,Person,3,PowerPoint,,,86,2
+0,0,0,0,1,0,0,0,0,0,958,1382,Pudding,2035,Magazine,4,,,,24,42
+0,0,0,0,1,0,0,0,0,0,959,1382,Nadieh Bremer,2034,Person,4,,,,73,11
+0,0,0,0,1,0,0,0,0,0,960,1382,Amelia Wattenberger,2033,Person,4,,,,19,21
+0,1,0,0,0,0,0,0,0,0,961,1385,Giorgia Lupi,1211,Person,2,,Pen & paper,,46,20
+0,1,0,0,0,0,0,0,0,0,962,1385,Nadieh Bremer,1209,Person,2,,Pen & paper,,73,11
+0,1,0,0,0,0,0,0,0,0,963,1385,Shirley Wu,1210,Person,2,,Pen & paper,,49,12
+0,1,0,0,1,0,1,0,0,0,964,1394,Pinterest,1806,Social Network,5,,Pen & paper,,10,67
+1,0,0,0,0,0,0,1,0,0,965,1396,Storytelling With Data (Cole Knaflic),1804,Blog,3,PowerPoint,,,78,15
+1,0,1,1,0,1,0,0,0,0,966,1401,Hadley Wickham,2003,Person,5,,,,5,76
+0,0,0,0,1,0,0,0,0,0,967,1406,Mona Chalabi,514,Person,5,,,Vanilla JavaScript and HTML!,17,16
+0,0,0,0,1,0,0,0,0,0,968,1406,NYT,513,Magazine,5,,,Vanilla JavaScript and HTML!,38,7
+0,0,0,0,1,0,0,0,0,0,969,1406,Pudding,515,Magazine,5,,,Vanilla JavaScript and HTML!,24,42
+0,0,1,0,0,1,1,1,0,0,970,1407,Alberto Cairo,910,Person,4,,,,86,2
+0,0,1,0,0,1,1,1,0,0,971,1407,Thomas Lin Pedersen,912,Person,4,,,,5,72
+0,0,1,0,0,1,1,1,0,0,972,1407,Danielle Navarro,911,Person,4,,,,4,75
+1,1,0,0,0,0,0,0,0,0,973,1423,Financial Times,511,Magazine,3,PowerPoint,,,56,14
+1,1,0,0,0,0,0,0,0,0,974,1423,Steve Wexler,509,Person,3,PowerPoint,,,30,18
+1,1,0,0,0,0,0,0,0,0,975,1423,Storytelling With Data (Cole Knaflic),506,Blog,3,PowerPoint,,,78,15
+1,1,0,0,0,0,0,0,0,0,976,1423,Alberto Cairo,510,Person,3,PowerPoint,,,86,2
+1,1,0,0,0,0,0,0,0,0,977,1423,Alli Torban,508,Person,3,PowerPoint,,,18,62
+1,1,0,0,0,0,0,0,0,0,978,1423,Edward Tufte,511,Person,3,PowerPoint,,,49,13
+1,0,0,0,0,0,0,0,0,0,979,1425,David Mccandless,1019,Person,2,,Pen & paper,,11,49
+1,0,0,1,1,0,0,0,0,0,980,1427,Pinterest,1681,Social Network,5,,Pen & paper,,10,67
+1,1,0,0,0,0,0,0,0,0,981,1429,Tableau Public,643,Community,4,PowerPoint,,SAS,41,10
+1,1,1,0,0,1,0,0,0,1,982,1434,Alli Torban,184,Person,8,PowerPoint,,"Figma, RAWgraphs",18,62
+1,1,1,0,0,1,0,0,0,1,983,1434,Amy Cesal,182,Person,8,PowerPoint,,"Figma, RAWgraphs",8,1
+1,1,1,0,0,1,0,0,0,1,984,1434,Johnathan Schwabish,183,Person,8,PowerPoint,,"Figma, RAWgraphs",20,17
+0,0,0,0,0,0,0,0,0,0,985,1435,Storytelling With Data (Cole Knaflic),226,Blog,2,,Pen & paper,"Google Sheets, Figma, GIMP, Google Slides",78,15
+1,0,0,1,0,0,0,1,1,0,986,1438,Storytelling With Data (Cole Knaflic),1578,Blog,8,PowerPoint,,,78,15
+1,0,0,0,0,0,0,0,1,0,987,1450,Economist,1721,Magazine,3,PowerPoint,,,14,54
+1,0,0,0,0,0,0,0,1,0,988,1450,David Mccandless,1719,Person,3,PowerPoint,,,11,49
+1,0,0,0,0,0,0,0,1,0,989,1450,Kontinentalist,1720,Organisation,3,PowerPoint,,,4,84
+1,0,0,0,0,0,0,0,1,0,990,1450,Nadieh Bremer,1717,Person,3,PowerPoint,,,73,11
+1,0,0,0,0,0,0,0,1,0,991,1450,Alberto Cairo,1718,Person,3,PowerPoint,,,86,2
+1,0,0,0,0,0,0,0,1,0,992,1450,Nightingale,1716,Magazine,3,PowerPoint,,,8,53
+1,0,0,0,0,0,0,1,0,0,993,1451,Alberto Cairo,448,Person,4,PowerPoint,,,86,2
+1,0,0,0,0,0,0,1,0,0,994,1451,Storytelling With Data (Cole Knaflic),449,Blog,4,PowerPoint,,,78,15
+0,0,1,0,0,1,0,0,0,0,995,1452,Lisa Charlotte Muth,1206,Person,3,,,Figma,20,23
+0,0,1,0,0,1,0,0,0,0,996,1452,Federica Fragapane,1201,Person,3,,,Figma,24,22
+0,0,1,0,0,1,0,0,0,0,997,1452,Moritz Stefaner,1195,Person,3,,,Figma,21,34
+0,0,1,0,0,1,0,0,0,0,998,1452,Valentina D'Efilippo,1202,Person,3,,,Figma,9,19
+0,0,1,0,0,1,0,0,0,0,999,1452,Alli Torban,1200,Person,3,,,Figma,18,62
+0,0,1,0,0,1,0,0,0,0,1000,1452,Shirley Wu,1203,Person,3,,,Figma,49,12
+0,0,1,0,0,1,0,0,0,0,1001,1452,Nadieh Bremer,1194,Person,3,,,Figma,73,11
+0,0,1,0,0,1,0,0,0,0,1002,1452,Gabrielle Merite,1207,Person,3,,,Figma,10,63
+0,0,1,0,0,1,0,0,0,0,1003,1452,Alberto Cairo,1196,Person,3,,,Figma,86,2
+1,0,0,0,0,0,0,0,0,0,1004,1459,Johnathan Schwabish,1359,Person,2,PowerPoint,,,20,17
+1,0,0,0,0,0,0,0,0,0,1005,1459,Pudding,1360,Magazine,2,PowerPoint,,,24,42
+1,0,0,0,0,0,0,0,0,0,1006,1459,Storytelling With Data (Cole Knaflic),1358,Blog,2,PowerPoint,,,78,15
+0,1,0,0,0,0,0,0,0,0,1007,1464,Steve Wexler,1016,Person,1,,,,30,18
+0,1,0,0,0,0,0,0,0,0,1008,1464,Andy Cotgreave,1017,Person,1,,,,13,27
+0,0,1,0,1,1,0,0,0,1,1009,1469,Amelia Wattenberger,1622,Person,8,,,Svelte,19,21
+0,0,1,0,1,1,0,0,0,1,1010,1469,Flowingwithdata (Nathan Yau),1624,Blog,8,,,Svelte,39,8
+1,0,1,1,1,1,1,0,0,0,1011,1470,Edward Tufte,55,Person,11,,Pen & paper,,49,13
+1,0,1,1,1,1,1,0,0,0,1012,1470,Financial Times,55,Magazine,11,,Pen & paper,,56,14
+1,0,1,1,1,1,1,0,0,0,1013,1470,David Mccandless,56,Person,11,,Pen & paper,,11,49
+1,0,1,1,1,1,1,0,0,0,1014,1470,Flowingwithdata (Nathan Yau),57,Blog,11,,Pen & paper,,39,8
+1,0,1,1,1,1,1,0,0,0,1015,1470,Hadley Wickham,58,Person,11,,Pen & paper,,5,76
+0,0,1,0,0,1,0,0,0,0,1016,1472,Flowingwithdata (Nathan Yau),906,Blog,5,,Pen & paper,,39,8
+0,0,1,0,0,1,0,0,0,0,1017,1472,Thomas Lin Pedersen,909,Person,5,,Pen & paper,,5,72
+0,0,1,0,0,1,0,0,0,0,1018,1472,Hadley Wickham,907,Person,5,,Pen & paper,,5,76
+0,0,1,0,0,0,1,0,0,0,1019,1473,#Tidytuesday,2006,Community,2,,,,9,51
+0,0,0,0,0,0,0,0,0,0,1020,1475,Nadieh Bremer,362,Person,1,,,,73,11
+0,0,1,0,1,1,0,1,0,0,1021,1480,Johnathan Schwabish,1193,Person,4,,,,20,17
+0,0,1,0,1,1,0,1,0,0,1022,1480,Cedric Scherer,1193,Person,4,,,,18,30
+0,0,1,0,1,1,0,0,0,0,1023,1483,Twitter,2020,Social Network,6,,,,38,28
+1,0,0,1,0,0,0,0,0,0,1024,1486,NYT,642,Magazine,6,PowerPoint,Pen & paper,,38,7
+1,0,0,1,0,0,0,0,0,0,1025,1486,Pinterest,641,Social Network,6,PowerPoint,Pen & paper,,10,67
+1,0,0,0,0,0,0,0,0,0,1026,1489,Stephanie Evergreen,1124,Person,2,PowerPoint,,,59,4
+1,0,1,0,0,1,0,0,0,0,1027,1490,Twitter,1123,Social Network,6,PowerPoint,,,38,28
+1,0,1,1,1,1,0,0,0,0,1028,1491,Giorgia Lupi,13,Person,11,PowerPoint,,,46,20
+0,0,1,0,0,1,0,0,0,0,1029,1492,Cedric Scherer,905,Person,2,,,,18,30
+1,0,1,0,0,1,0,0,0,0,1030,1494,Alberto Cairo,1965,Person,3,,,,86,2
+1,0,1,0,0,1,0,0,0,0,1031,1494,Flowingwithdata (Nathan Yau),1964,Blog,3,,,,39,8
+1,1,0,1,0,0,0,0,1,0,1032,1496,IEEE,112,Organisation,6,,Pen & paper,,4,48
+1,1,0,1,0,0,0,0,1,0,1033,1496,Nightingale,111,Magazine,6,,Pen & paper,,8,53
+1,1,0,1,0,0,0,0,1,0,1034,1496,NYT,113,Magazine,6,,Pen & paper,,38,7
+1,0,1,1,0,1,1,0,0,0,1035,1497,Nadieh Bremer,142,Person,9,,,Photoshop,73,11
+1,0,1,1,0,1,1,0,0,0,1036,1497,NYT,145,Magazine,9,,,Photoshop,38,7
+1,0,1,1,0,1,1,0,0,0,1037,1497,Flowingwithdata (Nathan Yau),141,Blog,9,,,Photoshop,39,8
+1,0,1,1,0,1,1,0,0,0,1038,1497,Shirley Wu,143,Person,9,,,Photoshop,49,12
+1,0,1,1,0,1,1,0,0,0,1039,1497,Pudding,144,Magazine,9,,,Photoshop,24,42
+1,0,1,1,0,1,1,0,0,0,1040,1497,Washington Post,146,Magazine,9,,,Photoshop,11,9
+1,0,0,0,0,0,0,0,0,1,1041,1498,Federica Fragapane,1945,Person,5,PowerPoint,Pen & paper,,24,22
+1,0,0,0,0,0,0,0,0,1,1042,1498,Ben Jones,1962,Person,5,PowerPoint,Pen & paper,,6,71
+1,0,0,0,0,0,0,0,0,1,1043,1498,Amanda Makulec,1959,Person,5,PowerPoint,Pen & paper,,8,0
+1,0,0,0,0,0,0,0,0,1,1044,1498,Alli Torban,1944,Person,5,PowerPoint,Pen & paper,,18,62
+1,0,0,0,0,0,0,0,0,1,1045,1498,Giorgia Lupi,1942,Person,5,PowerPoint,Pen & paper,,46,20
+1,0,0,0,0,0,0,0,0,1,1046,1498,Lisa Charlotte Muth,1963,Person,5,PowerPoint,Pen & paper,,20,23
+1,0,0,0,0,0,0,0,0,1,1047,1498,Stefanie Posavec,1946,Person,5,PowerPoint,Pen & paper,,13,37
+1,0,0,0,0,0,0,0,0,1,1048,1498,Johnathan Schwabish,1943,Person,5,PowerPoint,Pen & paper,,20,17
+1,0,0,0,0,0,0,0,0,1,1049,1498,Moritz Stefaner,1948,Person,5,PowerPoint,Pen & paper,,21,34
+1,0,0,0,0,0,0,0,0,1,1050,1498,Maarten Lambrecht,1949,Person,5,PowerPoint,Pen & paper,,5,85
+1,0,0,0,0,0,0,0,0,1,1051,1498,Stephanie Evergreen,1947,Person,5,PowerPoint,Pen & paper,,59,4
+1,1,1,1,0,1,0,0,0,0,1052,1499,Instagram,602,Social Network,7,PowerPoint,,,11,52
+1,0,0,0,0,0,0,0,0,0,1053,1509,Financial Times,352,Magazine,5,PowerPoint,Pen & paper,lucidchart,56,14
+1,0,0,0,0,0,0,0,0,0,1054,1509,Maarten Lambrecht,351,Person,5,PowerPoint,Pen & paper,lucidchart,5,85
+1,0,0,0,0,0,0,0,0,0,1055,1512,Nightingale,394,Magazine,3,,,Spotfire,8,53
+1,0,0,0,0,0,0,0,0,0,1056,1512,Tableau Public,394,Community,3,,,Spotfire,41,10
+1,0,0,0,0,0,0,0,0,0,1057,1512,Datavis Society,394,Organisation,3,,,Spotfire,35,45
+1,1,1,1,0,0,0,1,0,0,1058,1517,Federica Fragapane,224,Person,6,PowerPoint,,,24,22
+1,1,1,1,0,0,0,1,0,0,1059,1517,Shirley Wu,219,Person,6,PowerPoint,,,49,12
+1,1,1,1,0,0,0,1,0,0,1060,1517,Nadieh Bremer,220,Person,6,PowerPoint,,,73,11
+1,1,1,1,0,0,0,1,0,0,1061,1517,Alli Torban,223,Person,6,PowerPoint,,,18,62
+1,1,1,1,0,0,0,1,0,0,1062,1517,Alberto Cairo,218,Person,6,PowerPoint,,,86,2
+1,1,1,1,0,0,0,1,0,0,1063,1517,Gabrielle Merite,221,Person,6,PowerPoint,,,10,63
+0,0,0,0,0,0,0,0,1,0,1064,1536,Lisa Charlotte Muth,637,Person,2,,,"Google spreadsheet, Infogram",20,23
+0,0,0,0,0,0,0,0,1,0,1065,1536,Mona Chalabi,636,Person,2,,,"Google spreadsheet, Infogram",17,16
+0,0,0,0,0,0,0,0,1,0,1066,1536,Alberto Cairo,638,Person,2,,,"Google spreadsheet, Infogram",86,2
+1,0,0,0,0,0,0,0,0,0,1067,1541,Kontinentalist,319,Organisation,2,,,Affinity Designer,4,84
+1,0,1,1,0,1,0,0,1,1,1068,1549,Cedric Scherer,1827,Person,9,PowerPoint,Pen & paper,,18,30
+1,0,1,1,0,1,0,0,1,1,1069,1549,Moritz Stefaner,1845,Person,9,PowerPoint,Pen & paper,,21,34
+1,0,1,1,0,1,0,0,1,1,1070,1549,Lisa Charlotte Muth,1838,Person,9,PowerPoint,Pen & paper,,20,23
+1,0,1,1,0,1,0,0,1,1,1071,1549,Johnathan Schwabish,1832,Person,9,PowerPoint,Pen & paper,,20,17
+1,0,1,1,0,1,0,0,1,1,1072,1549,Amy Cesal,1840,Person,9,PowerPoint,Pen & paper,,8,1
+1,0,1,1,0,1,0,0,1,1,1073,1549,Jessica Hullman,1847,Person,9,PowerPoint,Pen & paper,,6,60
+1,0,1,1,0,1,0,0,1,1,1074,1549,Alli Torban,1826,Person,9,PowerPoint,Pen & paper,,18,62
+1,0,1,1,0,1,0,0,1,1,1075,1549,Duncan Geere,1842,Person,9,PowerPoint,Pen & paper,,4,64
+1,0,1,1,0,1,0,0,1,1,1076,1549,Alberto Cairo,1839,Person,9,PowerPoint,Pen & paper,,86,2
+1,0,1,1,0,1,0,0,1,1,1077,1549,Nadieh Bremer,1850,Person,9,PowerPoint,Pen & paper,,73,11
+1,0,1,1,0,1,0,0,1,1,1078,1549,Mona Chalabi,1831,Person,9,PowerPoint,Pen & paper,,17,16
+1,1,0,1,0,0,0,0,0,0,1079,1550,#Datafam,1511,Community,7,PowerPoint,Pen & paper,,13,6
+1,1,0,1,0,0,0,0,0,0,1080,1550,Twitter,1511,Social Network,7,PowerPoint,Pen & paper,,38,28
+0,1,1,0,1,1,0,0,0,0,1081,1552,Instagram,443,Social Network,6,,,Svelte,11,52
+0,0,0,1,0,0,0,0,1,1,1082,1554,Giorgia Lupi,2070,Person,5,,Pen & paper,Raw Graphs,46,20
+0,0,0,1,0,0,0,0,1,1,1083,1554,Federica Fragapane,2071,Person,5,,Pen & paper,Raw Graphs,24,22
+0,0,0,1,0,0,0,0,1,1,1084,1554,Gabrielle Merite,2072,Person,5,,Pen & paper,Raw Graphs,10,63
+0,0,0,0,1,0,0,0,0,0,1085,1560,Observable,1015,Community,7,,Pen & paper,"Svelte, Google Sheets",11,66
+1,1,1,0,0,0,1,0,0,0,1086,1563,Datavis Society,2002,Organisation,4,,,,35,45
+1,1,1,0,0,0,1,0,0,0,1087,1563,Slack,2002,Social Network,4,,,,11,46
+0,1,0,1,0,0,0,0,1,1,1088,1577,Shirley Wu,598,Person,5,,Pen & paper,,49,12
+0,1,0,1,0,0,0,0,1,1,1089,1577,Giorgia Lupi,600,Person,5,,Pen & paper,,46,20
+0,1,0,1,0,0,0,0,1,1,1090,1577,Stefanie Posavec,601,Person,5,,Pen & paper,,13,37
+0,1,0,1,0,0,0,0,1,1,1091,1577,Nadieh Bremer,599,Person,5,,Pen & paper,,73,11
+0,1,0,1,0,0,0,0,1,1,1092,1577,Flowingwithdata (Nathan Yau),596,Blog,5,,Pen & paper,,39,8
+0,1,0,1,0,0,0,0,1,1,1093,1577,Alberto Cairo,595,Person,5,,Pen & paper,,86,2
+1,0,0,0,0,0,0,1,0,0,1094,1580,Andy Kirk,1461,Person,2,,,,33,43
+0,0,0,0,0,0,0,0,0,0,1095,1583,Storytelling With Data (Cole Knaflic),1290,Blog,2,,,Astrato,78,15
+1,1,0,0,0,0,0,1,0,0,1096,1584,Storytelling With Data (Cole Knaflic),139,Blog,5,,,Astrato,78,15
+0,1,0,0,0,0,0,0,0,0,1097,1586,Andy Cotgreave,1660,Person,1,,,,13,27
+0,1,0,0,0,0,0,0,0,0,1098,1586,Nadieh Bremer,1659,Person,1,,,,73,11
+0,1,0,0,0,0,0,0,0,0,1099,1587,Andy Kirk,2046,Person,1,,,,33,43
+0,0,1,0,1,0,0,0,0,0,1100,1599,Financial Times,631,Magazine,3,,,,56,14
+0,0,1,0,1,0,0,0,0,0,1101,1599,Mike Bostock,629,Person,3,,,,21,36
+0,0,1,0,1,0,0,0,0,0,1102,1599,Edward Tufte,631,Person,3,,,,49,13
+0,0,1,0,1,0,0,0,0,0,1103,1599,Stephen Few,632,Person,3,,,,19,32
+1,1,0,0,1,0,0,1,0,0,1104,1603,Datavis Society,1095,Organisation,6,PowerPoint,,,35,45
+1,0,1,1,0,0,1,1,1,1,1105,1605,Flowingwithdata (Nathan Yau),560,Blog,10,,Pen & paper,,39,8
+1,0,1,1,0,0,1,1,1,1,1106,1605,Federica Fragapane,559,Person,10,,Pen & paper,,24,22
+1,0,1,1,0,0,1,1,1,1,1107,1605,Alberto Cairo,561,Person,10,,Pen & paper,,86,2
+1,0,1,1,0,0,1,1,1,1,1108,1605,Nadieh Bremer,558,Person,10,,Pen & paper,,73,11
+1,1,1,0,0,1,1,0,0,0,1109,1613,Linkedin,900,Social Network,7,,,SAP Analytics Cloud,9,35
+1,1,1,0,1,1,1,1,0,0,1111,1616,Giorgia Lupi,1898,Person,16,,Pen & paper,,46,20
+1,1,1,0,1,1,1,1,0,0,1112,1616,Mona Chalabi,1897,Person,16,,Pen & paper,,17,16
+1,1,1,0,0,1,0,0,1,0,1113,1627,Alli Torban,130,Person,7,,Pen & paper,,18,62
+1,1,1,0,0,1,0,0,1,0,1114,1627,Mike Bostock,127,Person,7,,Pen & paper,,21,36
+1,1,1,0,0,1,0,0,1,0,1115,1627,Amelia Wattenberger,125,Person,7,,Pen & paper,,19,21
+1,1,1,0,0,1,0,0,1,0,1116,1627,Alberto Cairo,126,Person,7,,Pen & paper,,86,2
+1,1,1,0,0,1,0,0,1,0,1117,1627,Shirley Wu,124,Person,7,,Pen & paper,,49,12
+1,0,0,0,0,0,0,0,0,0,1118,1630,Stephanie Evergreen,1621,Person,1,,,,59,4
+0,0,0,0,0,0,0,0,0,0,1119,1633,Twitter,388,Social Network,3,,Pen & paper,Figma,38,28
+0,0,0,0,0,0,0,0,0,0,1120,1633,IEEE,391,Organisation,3,,Pen & paper,Figma,4,48
+1,0,0,0,0,0,1,0,0,0,1121,1639,Datavis Society,293,Organisation,4,,,,35,45
+1,0,1,0,1,0,1,0,0,0,1122,1642,538,138,Magazine,5,,,Looker,10,31
+1,0,1,0,1,0,1,0,0,0,1123,1642,Pudding,137,Magazine,5,,,Looker,24,42
+1,1,0,0,0,0,0,0,1,0,1124,1648,Twitter,123,Social Network,6,,,Figma,38,28
+0,1,0,0,0,0,0,0,0,0,1125,1649,Alberto Cairo,251,Person,3,PowerPoint,,,86,2
+0,1,0,0,0,0,0,0,0,0,1126,1649,Information Is Beautiful,262,Blog,3,PowerPoint,,,8,55
+0,1,0,0,0,0,0,0,0,0,1127,1649,Financial Times,249,Magazine,3,PowerPoint,,,56,14
+0,1,0,0,0,0,0,0,0,0,1128,1649,Amy Cesal,248,Person,3,PowerPoint,,,8,1
+0,1,0,0,0,0,0,0,0,0,1129,1649,Jeffrey Shaffer,259,Person,3,PowerPoint,,,7,24
+0,1,0,0,0,0,0,0,0,0,1130,1649,Andy Cotgreave,260,Person,3,PowerPoint,,,13,27
+0,1,0,0,0,0,0,0,0,0,1131,1649,Steve Wexler,256,Person,3,PowerPoint,,,30,18
+0,1,0,0,0,0,0,0,0,0,1132,1649,Elijah Meeks,250,Person,3,PowerPoint,,,6,68
+0,1,0,0,0,0,0,0,0,0,1133,1649,Andy Kirk,252,Person,3,PowerPoint,,,33,43
+0,1,0,0,0,0,0,0,0,0,1134,1649,Edward Tufte,249,Person,3,PowerPoint,,,49,13
+0,1,0,0,0,0,0,0,0,0,1135,1649,Moritz Stefaner,247,Person,3,PowerPoint,,,21,34
+0,0,1,0,0,1,0,0,0,0,1136,1659,Twitter,110,Social Network,6,,Pen & paper,,38,28
+0,1,0,0,0,0,0,0,0,0,1137,1660,Tableau Public,1550,Community,1,,,,41,10
+0,1,0,0,0,0,0,0,0,0,1138,1660,Twitter,1551,Social Network,1,,,,38,28
+1,1,0,0,0,0,1,0,0,0,1139,1677,538,1894,Magazine,7,PowerPoint,Pen & paper,,10,31
+1,1,0,0,0,0,1,0,0,0,1140,1677,NYT,1895,Magazine,7,PowerPoint,Pen & paper,,38,7
+1,0,0,0,0,1,0,0,0,0,1141,1678,Flowingwithdata (Nathan Yau),2083,Blog,7,,Pen & paper,GRID,39,8
+1,0,0,0,0,1,0,0,0,0,1142,1678,Stephanie Evergreen,2082,Person,7,,Pen & paper,GRID,59,4
+1,0,1,1,0,1,0,0,0,0,1143,1681,Andy Kirk,1508,Person,5,PowerPoint,,,33,43
+0,0,0,0,0,0,0,0,1,1,1144,1685,Datawrapper,1803,Blog,3,,,infogram,11,3
+1,1,1,1,0,1,0,0,1,0,1145,1694,Stefanie Posavec,290,Person,13,,Pen & paper,Flow,13,37
+1,1,1,1,0,1,0,0,1,0,1146,1694,Giorgia Lupi,290,Person,13,,Pen & paper,Flow,46,20
+1,0,0,1,0,0,0,0,0,0,1147,1695,Edward Tufte,1457,Person,5,PowerPoint,Pen & paper,,49,13
+1,0,0,1,0,0,0,0,0,0,1148,1695,Financial Times,1457,Magazine,5,PowerPoint,Pen & paper,,56,14
+1,0,0,1,0,0,0,0,0,0,1149,1695,Giorgia Lupi,1458,Person,5,PowerPoint,Pen & paper,,46,20
+0,0,1,1,0,0,0,0,1,0,1150,1699,Gurman Bhatia,1343,Person,6,,Pen & paper,,5,39
+0,0,1,1,0,0,0,0,1,0,1151,1699,Stefanie Posavec,1342,Person,6,,Pen & paper,,13,37
+1,1,0,1,1,0,0,0,0,0,1152,1701,Lisa Charlotte Muth,440,Person,8,,Pen & paper,RAWgraphs,20,23
+1,1,0,1,1,0,0,0,0,0,1153,1701,Flowingwithdata (Nathan Yau),439,Blog,8,,Pen & paper,RAWgraphs,39,8
+1,1,0,1,1,0,0,0,0,0,1154,1701,Andy Kirk,441,Person,8,,Pen & paper,RAWgraphs,33,43
+1,1,0,1,1,0,0,0,0,0,1155,1701,Twitter,442,Social Network,8,,Pen & paper,RAWgraphs,38,28
+1,1,0,0,0,0,1,1,0,0,1156,1705,Alberto Cairo,164,Person,6,PowerPoint,,,86,2
+1,0,0,0,0,0,0,0,0,0,1157,1709,Edward Tufte,1126,Person,2,,,"Looker, Quantum Metric",49,13
+1,0,0,0,0,0,0,0,0,0,1158,1709,Financial Times,1126,Magazine,2,,,"Looker, Quantum Metric",56,14
+1,0,0,0,0,0,0,0,0,0,1159,1709,Datavis Society,1125,Organisation,2,,,"Looker, Quantum Metric",35,45
+1,1,1,0,0,1,1,0,0,0,1160,1714,Twitter,217,Social Network,8,PowerPoint,,,38,28
+1,0,1,0,0,1,0,1,0,0,1161,1729,Storytelling With Data (Cole Knaflic),1680,Blog,5,,,,78,15
+1,0,0,0,0,0,0,0,0,0,1162,1734,Stephen Few,1619,Person,2,,,,19,32
+0,1,0,0,0,0,1,1,0,0,1163,1736,Maarten Lambrecht,1289,Person,7,PowerPoint,,,5,85
+1,1,0,1,1,0,0,0,0,1,1164,1739,Nadieh Bremer,1340,Person,8,PowerPoint,Pen & paper,,73,11
+0,0,1,0,1,1,0,0,0,0,1165,1742,Gurman Bhatia,897,Person,4,,,,5,39
+1,0,0,0,0,0,0,1,0,0,1166,1748,Slack,289,Social Network,6,,,,11,46
+1,0,0,0,0,0,0,1,0,0,1167,1748,Datavis Society,289,Organisation,6,,,,35,45
+1,0,0,0,0,0,0,1,0,0,1168,1760,Stephanie Evergreen,1349,Person,3,PowerPoint,,,59,4
+0,0,0,0,1,0,0,0,0,1,1169,1765,Amelia Wattenberger,1618,Person,4,,Pen & paper,Svelte,19,21
+0,0,0,0,1,0,0,0,0,1,1170,1765,Flowingwithdata (Nathan Yau),1616,Blog,4,,Pen & paper,Svelte,39,8
+1,1,0,0,0,0,0,0,1,1,1171,1767,Datavis Society,594,Organisation,7,,,,35,45
+1,1,0,0,0,0,0,0,1,1,1172,1767,Slack,594,Social Network,7,,,,11,46
+1,1,0,0,0,0,1,0,0,0,1173,1770,Shirley Wu,568,Person,10,PowerPoint,Pen & paper,,49,12
+0,0,0,0,0,0,1,1,0,0,1174,1776,Washington Post,2069,Magazine,3,,,,11,9
+0,0,0,0,0,0,1,1,0,0,1175,1776,NYT,2068,Magazine,3,,,,38,7
+0,0,0,0,1,0,1,0,0,0,1176,1778,Susie Lu,1281,Person,2,,,,5,44
+0,0,0,0,1,0,1,0,0,0,1177,1778,Nadieh Bremer,1288,Person,2,,,,73,11
+0,0,0,0,1,0,1,0,0,0,1178,1778,Elijah Meeks,1287,Person,2,,,,6,68
+0,0,0,0,1,0,1,0,0,0,1179,1778,Datavis Society,1274,Organisation,2,,,,35,45
+0,0,0,0,1,0,1,0,0,0,1180,1778,Jane Zhang,1278,Person,2,,,,4,65
+0,0,0,0,1,0,1,0,0,0,1181,1778,Amelia Wattenberger,1276,Person,2,,,,19,21
+0,0,0,0,1,0,1,0,0,0,1182,1778,D3,1275,Blog,2,,,,3,82
+0,0,0,0,1,0,1,0,0,0,1183,1778,Shirley Wu,1277,Person,2,,,,49,12
+1,1,0,1,0,0,0,0,0,0,1184,1783,NYT,847,Magazine,4,,Pen & paper,,38,7
+1,1,0,1,0,0,0,0,0,0,1185,1783,Nadieh Bremer,845,Person,4,,Pen & paper,,73,11
+1,0,0,0,0,0,0,1,0,0,1186,1784,Storytelling With Data (Cole Knaflic),894,Blog,5,PowerPoint,,,78,15
+0,0,1,1,0,1,1,0,0,0,1187,1786,#Tidytuesday,1867,Community,8,,Pen & paper,Adobe After Effects,9,51
+1,0,0,1,0,0,0,0,0,0,1188,1789,Alberto Cairo,2009,Person,2,,,,86,2
+1,0,0,1,0,0,0,0,0,0,1189,1789,Stephanie Evergreen,2008,Person,2,,,,59,4
+0,1,0,0,0,0,0,1,0,0,1190,1792,Danielle Navarro,491,Person,3,PowerPoint,,,4,75
+0,1,0,0,0,0,0,1,0,0,1191,1792,Tamara Munzner,496,Person,3,PowerPoint,,,8,33
+0,1,0,0,0,0,0,1,0,0,1192,1792,R.J Andrews,501,Person,3,PowerPoint,,,10,69
+0,1,0,0,0,0,0,1,0,0,1193,1792,Nadieh Bremer,493,Person,3,PowerPoint,,,73,11
+0,1,0,0,0,0,0,1,0,0,1194,1792,Lisa Charlotte Muth,492,Person,3,PowerPoint,,,20,23
+0,1,0,0,0,0,0,1,0,0,1195,1792,Cedric Scherer,494,Person,3,PowerPoint,,,18,30
+0,1,0,0,0,0,0,0,0,0,1196,1793,Judit Bekker,1655,Person,2,,Pen & paper,,4,78
+1,1,0,0,0,0,0,1,0,0,1197,1797,Kevin And Ken Flerlage,163,Person,4,PowerPoint,,,22,26
+1,0,0,0,0,0,0,1,0,0,1198,1798,Wall Street Journal,490,Magazine,3,PowerPoint,,,5,40
+1,0,0,0,1,1,1,0,0,0,1199,1799,Mike Bostock,732,Person,9,PowerPoint,,,21,36
+0,1,0,0,0,0,0,0,0,0,1200,1807,#Makeovermonday,1191,Community,1,,,,8,56
+1,1,1,0,0,0,0,0,0,0,1201,1809,Twitter,1012,Social Network,6,PowerPoint,Pen & paper,Diadem (national instruments),38,28
+0,1,1,0,1,0,0,1,0,0,1202,1814,Elijah Meeks,1446,Person,9,,Pen & paper,Visa Chart Components (VCC),6,68
+0,1,1,0,1,0,0,1,0,0,1203,1814,Giorgia Lupi,1453,Person,9,,Pen & paper,Visa Chart Components (VCC),46,20
+0,1,1,0,1,0,0,1,0,0,1204,1814,Shirley Wu,1452,Person,9,,Pen & paper,Visa Chart Components (VCC),49,12
+0,1,1,0,1,0,0,1,0,0,1205,1814,Nadieh Bremer,1451,Person,9,,Pen & paper,Visa Chart Components (VCC),73,11
+1,1,0,0,0,0,0,0,0,0,1206,1816,Andy Kriebel,853,Person,4,PowerPoint,Pen & paper,,12,25
+1,1,0,0,0,0,0,0,0,0,1207,1816,Storytelling With Data (Cole Knaflic),851,Blog,4,PowerPoint,Pen & paper,,78,15
+1,1,0,0,0,0,0,0,0,0,1208,1816,Nadieh Bremer,850,Person,4,PowerPoint,Pen & paper,,73,11
+0,1,0,0,0,0,0,0,0,0,1209,1817,Tableau Public,2073,Community,1,,,,41,10
+1,1,0,1,1,0,0,0,0,0,1210,1818,Storytelling With Data (Cole Knaflic),1710,Blog,5,,,Infogram,78,15
+1,1,0,1,1,0,0,0,0,0,1211,1818,Kevin And Ken Flerlage,1708,Person,5,,,Infogram,22,26
+1,0,0,1,0,0,0,1,0,0,1212,1822,Alberto Cairo,484,Person,7,PowerPoint,Pen & paper,,86,2
+1,0,0,1,0,0,0,1,0,0,1213,1822,Giorgia Lupi,487,Person,7,PowerPoint,Pen & paper,,46,20
+1,0,0,1,0,0,0,1,0,0,1214,1822,Federica Fragapane,485,Person,7,PowerPoint,Pen & paper,,24,22
+0,0,0,1,0,0,1,0,0,0,1215,1823,Nadieh Bremer,65,Person,6,,,,73,11
+1,0,0,1,1,0,0,0,0,0,1216,1825,Datavis Society,1888,Organisation,7,,Pen & paper,MAPublisher,35,45
+1,1,0,0,0,0,0,0,0,0,1217,1827,Judit Bekker,1802,Person,3,PowerPoint,,,4,78
+1,1,0,0,0,0,0,0,0,0,1218,1827,Storytelling With Data (Cole Knaflic),1800,Blog,3,PowerPoint,,,78,15
+1,0,0,0,0,0,0,1,0,0,1219,1832,Twitter,1190,Social Network,3,,Pen & paper,,38,28
+1,0,1,0,0,1,0,0,0,0,1220,1833,Behance,1147,Social Network,4,,,,5,77
+0,1,1,0,1,1,1,0,0,0,1221,1838,Amelia Wattenberger,20,Person,7,,,,19,21
+0,1,1,0,1,1,1,0,0,0,1222,1838,Federica Fragapane,25,Person,7,,,,24,22
+0,1,1,0,1,1,1,0,0,0,1223,1838,Nadieh Bremer,21,Person,7,,,,73,11
+0,1,1,0,1,1,1,0,0,0,1224,1838,Kontinentalist,26,Organisation,7,,,,4,84
+0,1,1,0,1,1,1,0,0,0,1225,1838,Shirley Wu,19,Person,7,,,,49,12
+0,1,0,1,1,0,1,0,0,1,1226,1865,Nature,214,Magazine,7,,Pen & paper,,10,38
+1,0,1,0,1,1,0,0,0,0,1227,1866,Nadieh Bremer,1143,Person,6,,,,73,11
+1,0,1,0,1,1,0,0,0,0,1228,1866,Giorgia Lupi,1145,Person,6,,,,46,20
+1,0,1,0,1,1,0,0,0,0,1229,1866,Alberto Cairo,1142,Person,6,,,,86,2
+1,0,1,0,1,1,0,0,0,0,1230,1866,Shirley Wu,1144,Person,6,,,,49,12
+1,1,0,0,0,0,0,0,0,0,1231,1868,Andy Kriebel,1577,Person,3,,Pen & paper,,12,25
+1,0,1,1,1,1,0,0,0,1,1232,1869,Washington Post,838,Magazine,6,,,,11,9
+1,0,1,1,1,1,0,0,0,1,1233,1869,NYT,837,Magazine,6,,,,38,7
+1,0,1,1,1,1,0,0,0,1,1234,1869,Economist,839,Magazine,6,,,,14,54
+0,0,0,0,0,0,0,0,1,0,1235,1873,Wall Street Journal,1615,Magazine,2,,,Figma,5,40
+0,0,0,0,0,0,0,0,1,0,1236,1873,Economist,1614,Magazine,2,,,Figma,14,54
+0,0,0,0,0,0,0,0,1,0,1237,1873,Flowingwithdata (Nathan Yau),1612,Blog,2,,,Figma,39,8
+0,0,0,0,0,0,0,0,1,0,1238,1873,NYT,1609,Magazine,2,,,Figma,38,7
+0,0,0,0,0,0,0,0,1,0,1239,1873,Visual Capialist,1613,Magazine,2,,,Figma,3,73
+0,0,0,0,0,0,0,0,1,0,1240,1873,Shirley Wu,1610,Person,2,,,Figma,49,12
+0,0,0,0,0,0,0,0,1,0,1241,1873,Pudding,1611,Magazine,2,,,Figma,24,42
+1,0,0,1,0,0,1,0,1,0,1242,1882,R.J Andrews,1702,Person,10,,Pen & paper,Raw Graphs,10,69
+1,0,0,1,0,0,1,0,1,0,1243,1882,Maarten Lambrecht,1704,Person,10,,Pen & paper,Raw Graphs,5,85
+1,0,0,1,0,0,1,0,1,0,1244,1882,Andy Kirk,1705,Person,10,,Pen & paper,Raw Graphs,33,43
+1,0,0,1,0,0,1,0,1,0,1245,1882,Alberto Cairo,1701,Person,10,,Pen & paper,Raw Graphs,86,2
+1,0,0,0,0,0,0,1,0,0,1246,1888,D3,483,Blog,5,PowerPoint,,Cognos,3,82
+1,1,0,0,0,1,0,0,0,0,1247,1890,Financial Times,2014,Magazine,5,PowerPoint,,,56,14
+1,1,0,0,0,1,0,0,0,0,1248,1890,Edward Tufte,2014,Person,5,PowerPoint,,,49,13
+1,1,0,0,0,1,0,0,0,0,1249,1890,Stephen Few,2016,Person,5,PowerPoint,,,19,32
+0,0,0,1,0,0,0,0,0,0,1250,1895,Andy Kirk,328,Person,2,PowerPoint,,,33,43
+0,0,0,1,0,0,0,0,0,0,1251,1895,Giorgia Lupi,329,Person,2,PowerPoint,,,46,20
+0,0,0,1,0,0,0,0,0,0,1252,1895,Amanda Makulec,327,Person,2,PowerPoint,,,8,0
+0,0,0,1,0,0,0,0,0,0,1253,1895,Valentina D'Efilippo,330,Person,2,PowerPoint,,,9,19
+0,0,0,1,0,0,0,0,0,0,1254,1895,Stephanie Evergreen,326,Person,2,PowerPoint,,,59,4
+0,0,0,1,0,0,0,0,0,0,1255,1895,Gabrielle Merite,336,Person,2,PowerPoint,,,10,63
+0,0,0,1,0,0,0,0,0,0,1256,1895,Jessica Hullman,335,Person,2,PowerPoint,,,6,60
+0,0,0,1,0,0,0,0,0,0,1257,1895,Catherine D'Ignazio,332,Person,2,PowerPoint,,,4,61
+0,0,0,1,0,0,0,0,0,0,1258,1895,Alberto Cairo,331,Person,2,PowerPoint,,,86,2
+0,0,1,0,0,1,0,0,0,0,1259,1896,Alberto Cairo,175,Person,2,,,,86,2
+0,0,1,0,0,1,0,0,0,0,1260,1896,Cedric Scherer,174,Person,2,,,,18,30
+0,1,0,0,0,0,0,0,0,0,1261,1915,#Datafam,436,Community,1,,,,13,6
+0,1,0,0,0,0,0,0,0,0,1262,1915,#Makeovermonday,438,Community,1,,,,8,56
+0,1,0,0,0,0,0,0,0,0,1263,1915,Andy Cotgreave,438,Person,1,,,,13,27
+1,0,0,0,0,0,0,1,0,0,1265,1916,Alberto Cairo,1010,Person,2,,,,86,2
+1,0,0,0,0,0,0,1,0,0,1266,1916,Storytelling With Data (Cole Knaflic),1011,Blog,2,,,,78,15
+0,0,0,0,0,0,0,1,0,0,1267,1920,Instagram,626,Social Network,1,,,,11,52
+1,0,0,0,0,0,0,1,0,0,1268,1921,David Mccandless,1397,Person,3,PowerPoint,,,11,49
+1,0,0,0,0,0,0,1,0,0,1269,1921,Stephanie Evergreen,1396,Person,3,PowerPoint,,,59,4
+1,0,1,0,1,0,1,0,0,0,1270,1923,538,1008,Magazine,8,PowerPoint,,,10,31
+1,0,1,0,1,0,1,0,0,0,1271,1923,Susie Lu,1009,Person,8,PowerPoint,,,5,44
+1,0,0,0,0,0,0,0,0,0,1272,1930,Tableau Public,625,Community,2,,,,41,10
+1,0,0,1,1,0,0,1,0,0,1273,1932,Andy Kirk,1354,Person,7,PowerPoint,Pen & paper,,33,43
+1,0,0,1,1,0,0,1,0,0,1274,1932,David Mccandless,1355,Person,7,PowerPoint,Pen & paper,,11,49
+1,1,1,1,0,0,1,0,0,0,1275,1946,Linkedin,1576,Social Network,5,,,,9,35
+1,1,1,1,0,0,1,0,0,0,1276,1946,Instagram,1576,Social Network,5,,,,11,52
+1,1,0,0,1,0,0,1,0,0,1277,1948,Andy Kirk,1135,Person,6,PowerPoint,,,33,43
+0,1,0,0,0,0,0,0,0,0,1278,1953,Twitter,1337,Social Network,1,,,,38,28
+0,1,0,0,0,0,0,0,0,0,1279,1953,Tableau Public,1337,Community,1,,,,41,10
+0,1,0,0,0,0,0,0,0,0,1280,1953,#Datafam,1337,Community,1,,,,13,6
+0,0,0,1,1,0,0,0,0,0,1281,1958,Amelia Wattenberger,1745,Person,5,,Pen & paper,Rawgraphs,19,21
+0,0,0,1,1,0,0,0,0,0,1282,1958,Federica Fragapane,1742,Person,5,,Pen & paper,Rawgraphs,24,22
+0,0,0,1,1,0,0,0,0,0,1283,1958,Andy Kirk,1738,Person,5,,Pen & paper,Rawgraphs,33,43
+0,0,0,1,1,0,0,0,0,0,1284,1958,R.J Andrews,1739,Person,5,,Pen & paper,Rawgraphs,10,69
+0,0,0,1,1,0,0,0,0,0,1285,1958,Alberto Cairo,1741,Person,5,,Pen & paper,Rawgraphs,86,2
+0,1,0,0,0,0,0,0,0,0,1286,1959,Kevin And Ken Flerlage,1395,Person,2,,,,22,26
+1,1,0,0,0,0,1,0,1,0,1287,1961,Stephanie Evergreen,1005,Person,5,PowerPoint,,,59,4
+0,1,0,0,0,0,0,0,0,0,1288,1979,Andy Kriebel,1272,Person,1,,,,12,25
+0,1,0,0,0,0,0,0,0,0,1289,1979,Kevin And Ken Flerlage,1270,Person,1,,,,22,26
+0,0,1,0,0,1,1,0,0,1,1291,1982,Storytelling With Data (Cole Knaflic),1918,Blog,6,,Pen & paper,,78,15
+1,0,0,0,0,0,0,0,1,0,1292,1984,Accurat,1093,Organisation,8,PowerPoint,Pen & paper,RAW Graphs for wexploration. Adobe Indesign for merging data and design. Figma for visuals and UX/UI. Custom CSS and Javascript (mostly) for the final product.,4,81
+0,1,0,1,0,0,0,0,0,0,1293,1985,Instagram,893,Social Network,4,PowerPoint,Pen & paper,,11,52
+0,1,0,1,0,0,0,0,0,0,1294,1985,Gabrielle Merite,892,Person,4,PowerPoint,Pen & paper,,10,63
+1,1,0,0,0,0,0,1,0,0,1295,1986,Storytelling With Data (Cole Knaflic),1507,Blog,5,PowerPoint,Pen & paper,,78,15
+0,0,0,0,1,0,0,0,1,0,1296,1990,Pudding,2005,Magazine,4,,,,24,42
+0,0,0,0,1,0,0,0,1,0,1297,1990,Flowingwithdata (Nathan Yau),2004,Blog,4,,,,39,8
+0,0,0,0,0,1,0,0,0,0,1298,2001,Financial Times,722,Magazine,1,,,,56,14
+0,0,0,0,0,1,0,0,0,0,1299,2001,Alberto Cairo,726,Person,1,,,,86,2
+0,0,0,0,0,1,0,0,0,0,1300,2001,Edward Tufte,722,Person,1,,,,49,13
+1,0,0,0,0,0,0,0,0,0,1301,2005,Ann K. Emery,1390,Person,2,PowerPoint,,,20,5
+1,0,0,0,0,0,0,0,0,0,1302,2005,Stephanie Evergreen,1392,Person,2,PowerPoint,,,59,4
+0,0,1,0,1,1,0,0,0,0,1303,2007,Mike Bostock,1770,Person,5,,,,21,36
+1,0,0,1,0,0,0,0,0,0,1304,2009,Financial Times,1823,Magazine,5,PowerPoint,Pen & paper,"Voxpopme, Camtasia",56,14
+1,0,0,1,0,0,0,0,0,0,1305,2009,Edward Tufte,1823,Person,5,PowerPoint,Pen & paper,"Voxpopme, Camtasia",49,13
+0,1,0,1,1,0,0,0,1,0,1306,2011,Fathom,1002,Organisation,11,PowerPoint,Pen & paper,Figma,3,80
+0,1,0,1,1,0,0,0,1,0,1307,2011,538,1001,Magazine,11,PowerPoint,Pen & paper,Figma,10,31
+0,1,0,1,1,0,0,0,1,0,1308,2011,Federica Fragapane,996,Person,11,PowerPoint,Pen & paper,Figma,24,22
+0,1,0,1,1,0,0,0,1,0,1309,2011,NYT,999,Magazine,11,PowerPoint,Pen & paper,Figma,38,7
+0,1,0,1,1,0,0,0,1,0,1310,2011,Accurat,992,Organisation,11,PowerPoint,Pen & paper,Figma,4,81
+1,0,0,0,0,0,0,0,0,0,1311,2012,Stephanie Evergreen,890,Person,3,PowerPoint,,Mapchart,59,4
+1,0,0,0,0,0,0,0,0,0,1312,2012,Amy Cesal,891,Person,3,PowerPoint,,Mapchart,8,1
+1,0,0,0,0,0,0,0,0,0,1313,2012,Ann K. Emery,889,Person,3,PowerPoint,,Mapchart,20,5
+1,1,0,0,0,0,0,1,0,0,1314,2016,#Makeovermonday,1188,Community,4,PowerPoint,,,8,56
+1,1,0,0,0,0,0,1,0,0,1315,2016,Instagram,1183,Social Network,4,PowerPoint,,,11,52
+0,0,0,0,1,0,0,0,0,0,1316,2021,Mike Bostock,427,Person,2,,,,21,36
+0,0,0,0,1,0,0,0,0,0,1317,2021,Shirley Wu,426,Person,2,,,,49,12
+1,0,0,0,0,0,0,0,0,0,1318,2026,Twitter,1389,Social Network,5,PowerPoint,Pen & paper,Word,38,28
+1,0,0,0,0,0,0,0,0,0,1319,2026,Edward Tufte,1388,Person,5,PowerPoint,Pen & paper,Word,49,13
+1,0,0,0,0,0,0,0,0,0,1320,2026,Financial Times,1388,Magazine,5,PowerPoint,Pen & paper,Word,56,14
+1,0,0,0,0,0,0,0,0,0,1321,2030,Ann K. Emery,1865,Person,3,PowerPoint,Pen & paper,,20,5
+1,0,0,0,0,0,0,0,0,0,1322,2030,Johnathan Schwabish,1862,Person,3,PowerPoint,Pen & paper,,20,17
+1,0,0,0,0,0,0,0,0,0,1323,2030,Nadieh Bremer,1860,Person,3,PowerPoint,Pen & paper,,73,11
+1,0,0,0,0,0,0,0,0,0,1324,2030,Zach Bowders,1863,Person,3,PowerPoint,Pen & paper,,2,79
+1,0,0,0,0,0,0,0,0,0,1325,2030,Steve Wexler,1864,Person,3,PowerPoint,Pen & paper,,30,18
+1,0,0,0,0,0,0,0,0,0,1326,2030,Storytelling With Data (Cole Knaflic),1859,Blog,3,PowerPoint,Pen & paper,,78,15
+1,0,0,0,0,0,1,1,0,0,1327,2031,Datawrapper,1605,Blog,5,PowerPoint,,,11,3
+1,0,0,0,0,0,1,1,0,0,1328,2031,Flowingwithdata (Nathan Yau),1603,Blog,5,PowerPoint,,,39,8
+1,0,0,0,0,0,1,1,0,0,1329,2031,Lisa Charlotte Muth,1604,Person,5,PowerPoint,,,20,23
+1,0,0,0,0,0,1,1,0,0,1330,2031,Pudding,1608,Magazine,5,PowerPoint,,,24,42
+1,0,0,0,0,0,1,1,0,0,1331,2031,Nadieh Bremer,1602,Person,5,PowerPoint,,,73,11
+0,0,0,1,0,0,1,0,0,0,1332,2041,Datavis Society,991,Organisation,4,,Pen & paper,,35,45
+0,1,1,0,1,0,1,0,0,0,1333,2045,Observable,357,Community,8,,,"Svelte, OpenLayers",11,66
+0,1,1,0,1,0,1,0,0,0,1334,2045,Pinterest,358,Social Network,8,,,"Svelte, OpenLayers",10,67
+0,1,1,0,1,0,1,0,0,0,1335,2045,Pudding,360,Magazine,8,,,"Svelte, OpenLayers",24,42
+0,0,1,0,1,1,0,0,0,0,1336,2053,Federica Fragapane,347,Person,4,,,,24,22
+0,0,1,0,1,1,0,0,0,0,1337,2053,Lisa Charlotte Muth,346,Person,4,,,,20,23
+0,0,1,0,1,1,0,0,0,0,1338,2053,Shirley Wu,344,Person,4,,,,49,12
+0,0,1,0,1,1,0,0,0,0,1339,2053,Nadieh Bremer,345,Person,4,,,,73,11
+0,0,1,0,1,1,0,0,0,0,1340,2053,Moritz Stefaner,342,Person,4,,,,21,34
+0,0,1,0,1,1,0,0,0,0,1341,2053,Maarten Lambrecht,343,Person,4,,,,5,85
+0,1,1,0,0,0,0,1,0,0,1342,2055,Tableau Public,1858,Community,3,,,,41,10
+0,0,1,0,0,1,0,0,0,0,1343,2057,Flowingwithdata (Nathan Yau),721,Blog,2,,,,39,8
+0,0,0,0,0,0,1,0,1,0,1344,2058,Alberto Cairo,886,Person,6,,Pen & paper,Vanilla JavaScript (manipulating either HTML or SVG elements),86,2
+0,0,0,0,0,0,1,0,1,0,1345,2058,Federica Fragapane,882,Person,6,,Pen & paper,Vanilla JavaScript (manipulating either HTML or SVG elements),24,22
+0,0,0,0,0,0,1,0,1,0,1346,2058,Alli Torban,885,Person,6,,Pen & paper,Vanilla JavaScript (manipulating either HTML or SVG elements),18,62
+1,1,0,0,0,0,0,0,0,0,1347,2060,#Datafam,570,Community,2,,,,13,6
+1,1,0,0,0,0,0,0,0,0,1348,2060,Pinterest,571,Social Network,2,,,,10,67
+1,1,0,0,0,0,0,0,0,0,1349,2060,Behance,572,Social Network,2,,,,5,77
+1,1,0,0,0,0,0,1,0,0,1350,2063,Tableau Public,48,Community,4,,Pen & paper,,41,10
+1,1,0,0,0,0,0,1,0,0,1351,2063,Twitter,47,Social Network,4,,Pen & paper,,38,28
+1,1,0,0,0,0,0,1,0,0,1352,2063,#Datafam,47,Community,4,,Pen & paper,,13,6
+1,1,0,0,0,0,0,0,0,1,1353,2068,Andy Kirk,1768,Person,5,PowerPoint,,,33,43
+1,1,0,0,0,0,0,0,0,1,1354,2068,Flowingwithdata (Nathan Yau),1769,Blog,5,PowerPoint,,,39,8
+0,0,1,0,0,1,0,0,0,0,1355,2070,Cedric Scherer,18,Person,7,,,Inkscape,18,30
+1,1,0,0,0,0,0,0,0,0,1356,2071,Federica Fragapane,880,Person,3,PowerPoint,,,24,22
+1,1,0,0,0,0,0,0,0,0,1357,2071,Giorgia Lupi,881,Person,3,PowerPoint,,,46,20
+1,1,0,0,0,0,0,0,0,0,1358,2071,Shirley Wu,878,Person,3,PowerPoint,,,49,12
+1,1,0,0,0,0,0,0,0,0,1359,2071,Nadieh Bremer,879,Person,3,PowerPoint,,,73,11
+0,0,0,0,0,0,1,0,0,0,1360,2075,Edward Tufte,1268,Person,2,,,Sisense for Cloud Data Teams,49,13
+0,0,0,0,0,0,1,0,0,0,1361,2075,Financial Times,1268,Magazine,2,,,Sisense for Cloud Data Teams,56,14
+1,1,0,0,0,0,0,1,0,0,1362,2082,Storytelling With Data (Cole Knaflic),1929,Blog,5,PowerPoint,,,78,15
+1,1,0,0,0,0,0,1,0,0,1363,2082,Stephen Few,1930,Person,5,PowerPoint,,,19,32
+1,0,1,1,1,1,0,0,1,1,1364,2083,Andy Kirk,1797,Person,15,,,,33,43
+1,0,1,1,1,1,0,0,1,1,1365,2083,Alberto Cairo,1798,Person,15,,,,86,2
+1,0,1,1,1,1,0,0,1,1,1366,2083,Giorgia Lupi,1796,Person,15,,,,46,20
+1,0,1,1,1,1,0,0,1,1,1367,2083,Stefanie Posavec,1794,Person,15,,,,13,37
+1,0,1,1,1,1,0,0,1,1,1368,2083,Valentina D'Efilippo,1793,Person,15,,,,9,19
+1,0,1,1,1,1,0,0,1,1,1369,2083,Nadieh Bremer,1799,Person,15,,,,73,11
+0,0,1,0,1,1,1,0,0,0,1370,2087,Amelia Wattenberger,1181,Person,6,,,,19,21
+1,0,0,0,0,0,0,1,0,0,1371,2088,Nature,877,Magazine,3,,,,10,38
+1,1,0,0,0,0,1,0,0,0,1372,2089,#Makeovermonday,2026,Community,5,PowerPoint,Pen & paper,,8,56
+1,1,0,0,0,0,1,0,0,0,1373,2089,Storytelling With Data (Cole Knaflic),2026,Blog,5,PowerPoint,Pen & paper,,78,15
+1,1,0,1,1,0,0,0,0,0,1374,2091,NYT,989,Magazine,7,PowerPoint,Pen & paper,,38,7
+0,0,0,0,0,0,0,0,0,0,1375,2094,Financial Times,622,Magazine,1,,,,56,14
+1,0,1,0,0,1,0,1,0,0,1376,2095,#Tidytuesday,101,Community,4,,,,9,51
+1,0,1,0,0,1,0,1,0,0,1377,2095,Ironviz,102,Community,4,,,,3,59
+1,0,1,0,0,1,0,1,0,0,1378,2095,Twitter,103,Social Network,4,,,,38,28
+1,1,0,0,0,0,0,0,0,0,1379,2096,Stephanie Evergreen,1999,Person,3,PowerPoint,,,59,4
+1,1,0,0,0,0,0,0,0,0,1380,2096,Information Is Beautiful,2001,Blog,3,PowerPoint,,,8,55
+1,1,0,0,0,0,0,0,0,0,1381,2096,Storytelling With Data (Cole Knaflic),1996,Blog,3,PowerPoint,,,78,15
+1,0,1,1,0,1,0,0,1,0,1383,2110,Pudding,87,Magazine,5,,,,24,42
+1,0,1,1,0,1,0,0,1,0,1384,2110,Giorgia Lupi,86,Person,5,,,,46,20
+1,0,1,0,0,1,0,0,0,0,1385,2114,Danielle Navarro,873,Person,3,,,,4,75
+1,0,1,0,0,1,0,0,0,0,1386,2114,Thomas Lin Pedersen,874,Person,3,,,,5,72
+1,0,1,0,0,1,0,0,0,0,1387,2114,Amelia Wattenberger,872,Person,3,,,,19,21
+1,0,1,0,0,1,0,0,0,0,1388,2114,Shirley Wu,871,Person,3,,,,49,12
+0,1,0,0,0,0,0,0,0,0,1389,2118,Dribbble,1790,Social Network,1,,,,3,50
+0,1,0,0,0,0,0,0,0,0,1390,2118,Behance,1791,Social Network,1,,,,5,77
+0,1,0,0,0,0,0,0,0,0,1391,2118,Pinterest,1789,Social Network,1,,,,10,67
+0,1,0,0,0,0,0,0,0,0,1392,2118,Slack,1792,Social Network,1,,,,11,46
+0,1,0,0,0,0,0,0,0,0,1393,2118,Datavis Society,1792,Organisation,1,,,,35,45
+1,1,0,1,0,0,0,0,0,1,1394,2128,Flowingwithdata (Nathan Yau),324,Blog,9,,,Google Sheets,39,8
+1,1,0,1,0,0,0,0,0,1,1395,2128,Edward Tufte,323,Person,9,,,Google Sheets,49,13
+1,1,0,1,0,0,0,0,0,1,1396,2128,Financial Times,323,Magazine,9,,,Google Sheets,56,14
+1,1,0,1,0,0,0,0,0,1,1397,2128,Lisa Charlotte Muth,325,Person,9,,,Google Sheets,20,23
+0,1,1,0,0,0,1,1,0,0,1398,2135,Nature,2013,Magazine,6,PowerPoint,,,10,38
+1,0,0,1,0,0,1,0,1,0,1399,2142,Datavis Society,1178,Organisation,5,,,Raw graphs,35,45
+1,0,0,1,0,0,1,0,1,0,1400,2142,Federica Fragapane,1175,Person,5,,,Raw graphs,24,22
+1,0,0,1,0,0,1,0,1,0,1401,2142,Financial Times,1177,Magazine,5,,,Raw graphs,56,14
+1,0,0,1,0,0,1,0,1,0,1402,2142,Shirley Wu,1174,Person,5,,,Raw graphs,49,12
+1,0,0,1,0,0,1,0,1,0,1403,2142,Flowingwithdata (Nathan Yau),1179,Blog,5,,,Raw graphs,39,8
+1,0,0,1,0,0,1,0,1,0,1404,2142,Edward Tufte,1177,Person,5,,,Raw graphs,49,13
+1,0,0,1,0,0,1,0,1,0,1405,2142,Alberto Cairo,1173,Person,5,,,Raw graphs,86,2
+0,1,1,0,0,0,1,0,0,0,1406,2143,Twitter,1601,Social Network,4,,Pen & paper,,38,28
+0,1,1,0,0,0,1,0,0,0,1407,2143,#Datafam,1601,Community,4,,Pen & paper,,13,6
+0,0,0,0,0,0,0,0,0,0,1408,2144,Giorgia Lupi,868,Person,2,,Pen & paper,Figma,46,20
+0,0,0,0,0,0,0,0,0,0,1409,2144,Accurat,867,Organisation,2,,Pen & paper,Figma,4,81
+0,0,0,0,0,0,0,0,0,0,1410,2144,Moritz Stefaner,869,Person,2,,Pen & paper,Figma,21,34
+1,0,0,0,0,0,0,1,0,0,1411,2156,Stephanie Evergreen,482,Person,2,,,,59,4
+0,1,1,0,0,1,1,0,0,0,1412,2158,NYT,1353,Magazine,5,,,,38,7
+1,1,0,0,0,0,0,1,0,0,1413,2160,Stephanie Evergreen,1600,Person,4,PowerPoint,,,59,4
+1,0,0,1,1,0,0,0,0,0,1414,2171,Flowingwithdata (Nathan Yau),83,Blog,6,,Pen & paper,,39,8
+1,0,0,1,1,0,0,0,0,0,1415,2171,Stefanie Posavec,85,Person,6,,Pen & paper,,13,37
+1,0,0,1,1,0,0,0,0,0,1416,2171,Giorgia Lupi,82,Person,6,,Pen & paper,,46,20
+1,0,0,1,1,0,0,0,0,0,1417,2171,Mona Chalabi,84,Person,6,,Pen & paper,,17,16
+1,1,0,0,0,0,0,0,0,0,1418,2173,Twitter,618,Social Network,4,PowerPoint,,Amazon Quicksight,38,28
+1,1,0,0,0,0,0,0,0,0,1419,2173,Storytelling With Data (Cole Knaflic),617,Blog,4,PowerPoint,,Amazon Quicksight,78,15
+1,1,0,0,0,0,0,0,0,0,1420,2173,#Datafam,618,Community,4,PowerPoint,,Amazon Quicksight,13,6
+1,0,0,0,0,0,0,1,0,0,1421,2179,Stephanie Evergreen,210,Person,2,,,,59,4
