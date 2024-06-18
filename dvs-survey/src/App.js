@@ -4,7 +4,6 @@ import * as d3 from "d3";
 import "./App.css";
 
 function App() {
-
   const svgRef = useRef(null);
   const sampleSizeRef = useRef(null);
   const tools = new Set([
@@ -47,7 +46,10 @@ function App() {
   let sampleSize = 0;
 
   const getData = async () => {
-    let files = ["https://github.com/blowindblo/dvs-soti/blob/main/dvs-survey/public/data/dvs_survey_analysis_id.csv", "https://github.com/blowindblo/dvs-soti/blob/main/dvs-survey/public/data/dvs_nodes.csv"];
+    let files = [
+      "https://raw.githubusercontent.com/blowindblo/dvs-soti/main/dvs-survey/public/data/dvs_survey_analysis_id.csv",
+      "https://raw.githubusercontent.com/blowindblo/dvs-soti/main/dvs-survey/public/data/dvs_nodes.csv",
+    ];
     let promises = files.map((url) => d3.csv(url, d3.autoType));
 
     const datasets = await Promise.all(promises);
@@ -236,16 +238,11 @@ function App() {
     const top5_inspir = data.nodes.slice(0, 5).map((d) => d.inspir);
     const top5_count = data.nodes.slice(0, 5).map((d) => d.count);
 
-    d3.select(sampleSizeRef.current)
-      // .classed("test", true)
-      // .attr("x", 100)
-      // .attr("y", 50)
-      // .attr("stroke", "green")
-      .html(
-        `Sample size: <strong>${sampleSize}</strong><br> Top 5 influences: <strong>${top5_inspir.join(
-          ", "
-        )}</strong>`
-      );
+    d3.select(sampleSizeRef.current).html(
+      `<strong>Sample size: </strong>${sampleSize}<br> <strong>Top 5 influences: </strong>${top5_inspir.join(
+        ", "
+      )}`
+    );
 
     const everything = svg.selectAll("*");
     everything.remove();
@@ -425,6 +422,7 @@ function App() {
               )
               .join("<br><hr>");
             d3.select(this)
+              .classed("mx-1", true)
               .html(`<hr>${neighbourHtml}<hr>`)
               .style("visibility", "visible");
           }
@@ -561,40 +559,59 @@ function App() {
   return (
     <div className="App h-screen ">
       <article class="">
-        <header>
-          <h1 class="my-6 mx-56 text-5xl font-extrabold">
+        <header class="mx-28">
+          <h1 class="my-6 text-5xl font-extrabold">
             "Who do you find helpful for inspiration in data visualization? Feel
             free to list multiple influences."
           </h1>
-          <p class="my-2 text-2xl font-bold ">
-            {" "}
-            (Data visualization Society: State of the Industry Survey)
+          <p class=" text-2xl font-bold ">
+            (
+            <a
+              href="https://www.datavisualizationsociety.org/"
+              className="underline text-cyan-600		 hover:text-slate-600"
+            >
+              Data visualization Society
+            </a>
+            : State of the Industry Survey)
           </p>
+          <div className="my-4 collapse collapse-arrow	 bg-base-200">
+            <input type="checkbox" />
+            <div className="collapse-title text-lg font-medium">
+              Understanding the Visualization
+            </div>
+            <div className="collapse-content">
+              <p className="description text-left mx-40">
+                This graph visualizes the sources of inspiration for data
+                visualization as identified by data professionals. <br></br>
+                Influences are clustered by category, with circle size
+                representing popularity (i.e., the number of mentions).{" "}
+                <br></br>
+                <ul class="list-disc list-outside">
+                  <li>
+                    <strong>Hover</strong> over circles to see detailed
+                    information and mention counts. You'll also discover other
+                    influences cited by respondents who mentioned that
+                    influence.
+                  </li>
+                  <li>
+                    <strong>Click</strong> a circle to keep its information
+                    visible while exploring other circles. To deselect, click
+                    another circle or any empty space within the graph.
+                  </li>
+                  <li>
+                    <strong>Filter</strong> the data by selecting tools at the
+                    top. The 'All' filter will select/deselect all ten tools.
+                    The filter is inclusive (e.g., selecting 'R' and 'Python'
+                    includes respondents using either or both tools).
+                  </li>
+                </ul>
+                Note: Influences mentioned only once are not included. The data
+                is open-ended and cleaned using NLTK.
+              </p>
+            </div>
+          </div>
         </header>
 
-        <div className="card">
-          <div className="card-body">
-            {/* <h2 className="card-title">Card title!</h2> */}
-            <p className="description text-left mx-40">
-              This graph visualizes the sources of inspiration for data
-              visualization as identified by data professionals. <br></br>
-              Influences are clustered by category, with circle size
-              representing popularity (i.e., the number of mentions). <br></br>
-              Hover over the circles to see detailed information about each
-              influence and their mention count. You'll also discover other
-              influences cited by respondents who mentioned the selected
-              influence. <br></br>Clicking on a circle allows you to keep the
-              information visible while you explore other circles. To deselect,
-              click on another circle or any empty space within the graph.{" "}
-              <br></br> Select the tools to add/remove them to the filter. the
-              'All' filter will select/deselect all ten tools. The filter is
-              inclusive (e.g. if 'R' and 'Python' is selected, the sample will
-              include respondents who use either R or Python or both tools)
-              <br></br>Note: Influences that have only been mentioned once are
-              not included. Influence data is open-ended and cleaned using NLTK.
-            </p>
-          </div>
-        </div>
         <div className="flex gap-x-8 justify-center my-6">
           <div>
             <input
@@ -633,15 +650,7 @@ function App() {
           </div>
         </div>
         {/* <div class="divider">Have fun</div> */}
-        <div className="collapse bg-base-200">
-          <input type="checkbox" />
-          <div className="collapse-title text-xl font-medium">
-            Click me to show/hide content
-          </div>
-          <div className="collapse-content">
-            <p>hello</p>
-          </div>
-        </div>
+
         <div ref={sampleSizeRef}></div>
       </article>
       <div className="graphContainer flex flex-col items-center justify-center ">
@@ -670,7 +679,7 @@ function App() {
           className="inspirContainer  grid grid-cols-6	 flex-auto	 overflow-y-auto"
           style={{
             width: `${width}px`,
-            height: "150px",
+            height: "200px",
           }}
         ></div>
       </div>
