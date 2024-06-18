@@ -4,6 +4,7 @@ import * as d3 from "d3";
 import "./App.css";
 
 function App() {
+
   const svgRef = useRef(null);
   const sampleSizeRef = useRef(null);
   const tools = new Set([
@@ -46,7 +47,7 @@ function App() {
   let sampleSize = 0;
 
   const getData = async () => {
-    let files = ["/data/dvs_survey_analysis_id.csv", "/data/dvs_nodes.csv"];
+    let files = [process.env.PUBLIC_URL + "/data/dvs_survey_analysis_id.csv", process.env.PUBLIC_URL + "/data/dvs_nodes.csv"];
     let promises = files.map((url) => d3.csv(url, d3.autoType));
 
     const datasets = await Promise.all(promises);
