@@ -47,7 +47,7 @@ function App() {
   let sampleSize = 0;
 
   const getData = async () => {
-    let files = [process.env.PUBLIC_URL + "/data/dvs_survey_analysis_id.csv", process.env.PUBLIC_URL + "/data/dvs_nodes.csv"];
+    let files = ["https://github.com/blowindblo/dvs-soti/blob/main/dvs-survey/public/data/dvs_survey_analysis_id.csv", "https://github.com/blowindblo/dvs-soti/blob/main/dvs-survey/public/data/dvs_nodes.csv"];
     let promises = files.map((url) => d3.csv(url, d3.autoType));
 
     const datasets = await Promise.all(promises);
