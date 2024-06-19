@@ -40,7 +40,7 @@ function App() {
     6: "#f1c40f",
   };
   // dimensions
-  const margin = { top: 10, right: 30, bottom: 30, left: 30 },
+  const margin = { top: 40, right: 30, bottom: 40, left: 30 },
     width = 1000 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
   let sampleSize = 0;
@@ -84,8 +84,6 @@ function App() {
       .filter((obj) => obj.sumTools !== 0);
 
     // Mapping inspir type to numbers
-    // console.log(rawData);
-    // console.log(tools);
     let prevID;
     let inspirArr = [];
 
@@ -206,7 +204,7 @@ function App() {
 
     // Getting neighbours of nodes
     const neighbours = [];
-    const getNeighbours = data.nodes.forEach((n1) => {
+    data.nodes.forEach((n1) => {
       let entry = n1;
       entry.neighbours = [];
       data.nodes.forEach((n2) => {
@@ -226,8 +224,6 @@ function App() {
     const nodeRadius = (d) => {
       return d.count / 3 + 7;
     };
-
-    console.log(colourScale);
 
     // append the svg object to the body of the page
     const svg = d3
@@ -271,31 +267,12 @@ function App() {
       .data([1, 2, 3, 4, 5, 6])
       .join("div")
       .classed("neighbours", true)
-      // .style("position", "relative")
-      // .style("position", "absolute")
-      // .style("left", (d) => (width / 6) * d + "px") // Set the left position
       .style("width", (d) => width / 6)
       .style("visibility", "hidden")
-      // .classed("-translate-x-1/2", true)
       .text("simple");
-
-    // for (let i = 1; i < 7; i++) {
-    //   const neighbourNames = d.neighbours
-    //     .filter((n) => n.type === i)
-    //     .map((neighbor) => neighbor.inspir);
-    //   console.log(neighbourNames);
-    //   var inspirList = d3
-    //     .select("body")
-    //     .append("div")
-    //     .classed("neighbours", true)
-    //     .style("position", "absolute")
-    //     .style("left", (width / 6) * i + "px") // Set the left position
-    //     .style("top", "50px"); // Set the top position
-    // }
 
     const simulation = d3
       .forceSimulation(data.nodes) // apply the simulation to our array of nodes
-
       // Force #1: links between nodes
       .force(
         "link",
@@ -303,10 +280,6 @@ function App() {
           .forceLink(data.links)
           .id((d) => d.inspirID)
           .strength(0.05)
-        // .distance((link) => {
-        //   return 15 / link.count;
-        // })
-        // .distance(25)
       )
 
       // Force #2: avoid node overlaps
@@ -317,7 +290,6 @@ function App() {
           .radius((d) => nodeRadius(d) + 2)
           .iterations(5)
       )
-
       // Force #3: attraction or repulsion between nodes
       .force("charge", d3.forceManyBody(-1))
 
@@ -333,46 +305,9 @@ function App() {
           .strength(5)
       );
 
-    // .force(
-    //   "radial",
-    //   d3
-    //     .forceRadial(
-    //       (d) => {
-    //         // Larger nodes are pulled closer to the center
-    //         const maxCount = d3.max(data.nodes, (d) => d.count);
-    //         const minRadius = 10; // Minimum distance from the center
-    //         const maxRadius = 200; // Maximum distance from the center
-
-    //         // Map count to a distance
-    //         return (
-    //           maxRadius -
-    //           ((d.count * 3) / maxCount) * (maxRadius - minRadius)
-    //         );
-    //       },
-    //       500 / 2,
-    //       500 / 2
-    //     )
-    //     .strength(1.5)
-    // )
-
-    // .force("bounds", boxingForce)
-    // .on("end", ticked);
-
-    // Custom force to put all nodes in a box
-    function boxingForce() {
-      const radius = 400;
-
-      for (let node of data.nodes) {
-        // Of the positions exceed the box, set them to the boundary position.
-        // You may want to include your nodes width to not overlap with the box.
-        node.x = Math.max(-radius, Math.min(radius, node.x));
-        node.y = Math.max(-radius, Math.min(radius, node.y));
-      }
-    }
-    // .charge(-200)
-    // .linkDistance(50);
-
     let isClicked = false;
+
+    // Initialize the links
     const link = container
       .selectAll("line")
       .data(data.links.filter((d) => d.count > 0))
@@ -409,7 +344,6 @@ function App() {
           .style("visibility", "visible");
         if (isClicked) return;
 
-        // console.log(inspirList);
         inspirList.each(function (datum, i) {
           const neighbourNames = d.neighbours
             .filter((n) => n.type === datum)
@@ -489,6 +423,23 @@ function App() {
               ? strokeWidth.activeMainNode
               : strokeWidth.otherNode;
           });
+        inspirList.each(function (datum, i) {
+          const neighbourNames = d.neighbours
+            .filter((n) => n.type === datum)
+            .map((neighbour) => neighbour.inspir);
+
+          if (neighbourNames.length > 0) {
+            const neighbourHtml = neighbourNames
+              .map((name) =>
+                name === d.inspir ? `<strong>${name}</strong>` : name
+              )
+              .join("<br><hr>");
+            d3.select(this)
+              .classed("mx-1", true)
+              .html(`<hr>${neighbourHtml}<hr>`)
+              .style("visibility", "visible");
+          }
+        });
 
         link.transition(transitionTime).style("stroke-opacity", (o) => {
           return o.source.inspirID === d.inspirID ||
@@ -559,64 +510,96 @@ function App() {
   return (
     <div className="App h-screen ">
       <article class="">
-        <header class="mx-28">
-          <h1 class="my-6 text-5xl font-extrabold">
-            "Who do you find helpful for inspiration in data visualization? Feel
-            free to list multiple influences."
+        <header class="mx-32">
+          <h1 class="mt-6 mb-4 text-4xl text-cyan-700 font-extrabold">
+            Visualizing responses to: <br></br>
+            <span class=" text-primary-content text-5xl">
+              "Who do you find helpful for inspiration in data visualization?
+              Feel free to list multiple influences."
+            </span>
+            <span class="text-primary-content text-base">
+              {" "}
+              <a
+                href="https://www.datavisualizationsociety.org/"
+                className="underline text-cyan-600 hover:text-slate-600"
+              >
+                Data Visualization Society
+              </a>
+              : SOTI Survey 2021
+            </span>
           </h1>
-          <p class=" text-2xl font-bold ">
-            (
-            <a
-              href="https://www.datavisualizationsociety.org/"
-              className="underline text-cyan-600		 hover:text-slate-600"
-            >
-              Data visualization Society
-            </a>
-            : State of the Industry Survey)
+          <p class=" text-xl italic ">
+            Discover new sources of inspirations from others who use the same
+            data tools or share the same influences as you!
           </p>
-          <div className="my-4 collapse collapse-arrow	 bg-base-200">
+          <div className="my-4 mx-10 collapse collapse-arrow bg-base-200">
             <input type="checkbox" />
             <div className="collapse-title text-lg font-medium">
-              Understanding the Visualization
+              Understanding the Visualization{" "}
+              <span className="text-cyan-700 text-sm">(Click to expand!)</span>
             </div>
             <div className="collapse-content">
-              <p className="description text-left mx-40">
-                This graph visualizes the sources of inspiration for data
-                visualization as identified by data professionals. <br></br>
-                Influences are clustered by category, with circle size
-                representing popularity (i.e., the number of mentions).{" "}
-                <br></br>
+              <p className="description text-left mx-10">
+                This interactive network graph depicts the sources of
+                inspiration (or influences) for data visualization based on{" "}
+                <a
+                  href="https://www.datavisualizationsociety.org/"
+                  className="underline text-cyan-600 hover:text-slate-600"
+                >
+                  Data Visualization Society
+                </a>
+                : State of the Industry Survey 2021. <br></br>Each node{" "}
+                <span class=" h-5 w-5 bg-orange-400 border border-gray-600  rounded-full inline-block"></span>{" "}
+                represents an influence and influences are clustered by{" "}
+                <span className="badge badge-lg  font-bold badge-outline border-2">
+                  category
+                </span>
+                , with node size representing popularity (i.e., the number of
+                mentions). Connections between nodes show other influences
+                mentioned by respondents who cited the selected influence.
+                <div class="divider my-0.5"></div>
                 <ul class="list-disc list-outside">
                   <li>
-                    <strong>Hover</strong> over circles to see detailed
-                    information and mention counts. You'll also discover other
-                    influences cited by respondents who mentioned that
-                    influence.
+                    <strong>Hover</strong> over nodes to see detailed
+                    information and mention counts, as well as connections to
+                    other influences. influence.
                   </li>
                   <li>
-                    <strong>Click</strong> a circle to keep its information
-                    visible while exploring other circles. To deselect, click
-                    another circle or any empty space within the graph.
+                    <strong>Click</strong> a node to keep its information
+                    visible while exploring other nodes. To deselect, click
+                    another node or any empty space within the graph.
                   </li>
                   <li>
-                    <strong>Filter</strong> the data by selecting tools at the
-                    top. The 'All' filter will select/deselect all ten tools.
-                    The filter is inclusive (e.g., selecting 'R' and 'Python'
+                    <strong>Filter</strong> the data using the row of toggle
+                    buttons. These buttons represent the tools respondents use
+                    to create visualizations, based on the question{" "}
+                    <span class="italic font-bold">
+                      "What technologies do you use often to visualize data?"
+                    </span>
+                    . Selecting a tool filters the data to include respondents
+                    who use that tool. This is an inclusive filter, so selecting
+                    multiple tools will show data for respondents who use any of
+                    the selected tools (e.g., selecting 'R' and 'Python'
                     includes respondents using either or both tools).
                   </li>
                 </ul>
+                <div class="divider my-0.5"></div>
                 Note: Influences mentioned only once are not included. The data
-                is open-ended and cleaned using NLTK.
+                is open-ended and cleaned using NLTK. Respondents who left the
+                question blank were discarded.
               </p>
             </div>
           </div>
         </header>
-
+        <div>
+          Filter the data by selecting tools respondents use to create
+          visualizations:
+        </div>
         <div className="flex gap-x-8 justify-center my-6">
           <div>
             <input
               type="checkbox"
-              className="btn	btn-md px-6 text-lg	"
+              className="btn btn-sm px-6 text-md	"
               aria-label="All"
               onChange={() =>
                 tools.size !== toolsSelected.size
@@ -630,7 +613,7 @@ function App() {
             {Array.from(tools).map(function (d, index) {
               return (
                 <input
-                  className="join-item btn btn-md text-lg	 	"
+                  className="join-item btn btn-sm text-md	 	"
                   type="checkbox"
                   key={"option" + index}
                   onChange={() => {
@@ -649,8 +632,6 @@ function App() {
             })}
           </div>
         </div>
-        {/* <div class="divider">Have fun</div> */}
-
         <div ref={sampleSizeRef}></div>
       </article>
       <div className="graphContainer flex flex-col items-center justify-center ">
@@ -676,10 +657,10 @@ function App() {
           )}
         </div>
         <div
-          className="inspirContainer  grid grid-cols-6	 flex-auto	 overflow-y-auto"
+          className="mb-6 inspirContainer  grid grid-cols-6	 flex-auto	 overflow-y-auto"
           style={{
             width: `${width}px`,
-            height: "200px",
+            height: "250px",
           }}
         ></div>
       </div>
